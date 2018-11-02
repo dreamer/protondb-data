@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "11130",
+    "title": "Sherlock Holmes: The Mystery of the Mummy",
+    "timestamp": 1535064843,
+    "rating": "Platinum",
+    "notes": "No noticeable issues",
+    "os": "Ubuntu 18.04 64-bit (Kernel 4.15.0)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7 4790k / GTX 1080 Ti",
+    "protonVersion": "Default"
+  }
+]

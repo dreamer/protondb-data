@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "263980",
+    "title": "Out There Somewhere",
+    "timestamp": 1535134908,
+    "rating": "Borked",
+    "notes": "Appears to be another Steam2.dll.so issue. Permanent black screen.",
+    "os": "Linux Mint 18.3 Cinnamon 64-bit (Kernel 4.15.0-33.36)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-7300HQ / GTX 1060",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "263980",
+    "title": "Out There Somewhere",
+    "timestamp": 1535673819,
+    "rating": "Borked",
+    "notes": "run but stay in a black window",
+    "os": "lubuntu 18.04 64 bits gtx 650",
+    "gpuDriver": "390.48",
+    "specs": "core2quad q8400",
+    "protonVersion": "3.7.5"
+  }
+]

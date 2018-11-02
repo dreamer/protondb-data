@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "212700",
+    "title": "Party of Sin",
+    "timestamp": 1535039412,
+    "rating": "Borked",
+    "notes": "Won't run",
+    "os": "Kubuntu 18.04.1 (Kernel 4.15)",
+    "gpuDriver": "NVIDIA 340.106",
+    "specs": "Geforce GT 240",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "212700",
+    "title": "Party of Sin",
+    "timestamp": 1535140749,
+    "rating": "Borked",
+    "notes": "Appears to be missing DLLs from Microsoft Visual Studio.",
+    "os": "Linux Mint 18.3 Cinnamon 64-bit (Kernel 4.15.0-33.36)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-7300HQ / GTX 1060",
+    "protonVersion": "Default"
+  }
+]

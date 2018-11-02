@@ -1,0 +1,35 @@
+[
+  {
+    "appId": "644390",
+    "title": "D&D Lords of Waterdeep",
+    "timestamp": 1535829783,
+    "rating": "Borked",
+    "notes": "Crashes on installation",
+    "os": "Linux Mint 19 Cinnamon 64-bit (Kernel 4.15.0.33-generic)",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "i5-4200U",
+    "protonVersion": "3.7-3"
+  },
+  {
+    "appId": "644390",
+    "title": "D&D Lords of Waterdeep",
+    "timestamp": 1536082498,
+    "rating": "Silver",
+    "notes": "Text is missing. This game displays the same problem on the Windows version of Steam running under Wine until the additional MS fonts are installed using winetricks. ",
+    "os": "Linux Mint 19",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-8700 / GTX 970",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "644390",
+    "title": "D&D Lords of Waterdeep",
+    "timestamp": 1536278740,
+    "rating": "Platinum",
+    "notes": "The name of your profile shows as blank in the menu screen but shows up properly in the actual gameplay and end game results.",
+    "os": "Linux Mint 18.3 Cinnamon 64-bit (Kernel 4.15.0-33-generic)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-3820 / GTX 1070",
+    "protonVersion": "3.7-3"
+  }
+]

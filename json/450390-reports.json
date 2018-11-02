@@ -1,0 +1,78 @@
+[
+  {
+    "appId": "450390",
+    "title": "The Lab",
+    "timestamp": 1534809600,
+    "rating": "Borked",
+    "notes": "",
+    "os": "Arch Linux",
+    "specs": "i7-7700k/GTX 1080 ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "450390",
+    "title": "The Lab",
+    "timestamp": 1535195469,
+    "rating": "Borked",
+    "notes": "Starts till first \"credits-room\" and then black screen and loading forever",
+    "os": "Arch (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 39.6.54",
+    "specs": "i7-4790K / GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "450390",
+    "title": "The Lab",
+    "timestamp": 1535207195,
+    "rating": "Borked",
+    "notes": "HTC Vive. Horrendous performance in splash area; doesn't load; crashes steam",
+    "os": "Ubuntu 18.04 64-bit (Kernel 4.15.0)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7 4790k / GTX 1080 Ti",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "450390",
+    "cpu": "Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54.06",
+    "kernel": "4.14.65-gentoo",
+    "notes": "Suffers from horrible pipeline stalls. GPU spends nearly no time rendering. Performance is terrible.",
+    "os": "\"Gentoo Base System release 2.4.1\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "64299 Mb",
+    "rating": "Borked",
+    "timestamp": 1537492987,
+    "title": "The Lab"
+  },
+  {
+    "appId": "450390",
+    "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 410.57",
+    "kernel": "4.18.12-arch1-1-ARCH",
+    "notes": "Wont run in VIVE. but seems to run in a window on desktop.",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "Default",
+    "ram": "32078 Mb",
+    "rating": "Borked",
+    "timestamp": 1539323726,
+    "title": "The Lab"
+  },
+  {
+    "appId": "450390",
+    "cpu": "Intel Core i7-6700K @ 4.00GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "Radeon RX Vega",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.2",
+    "kernel": "4.18.9-arch1-1-vfio",
+    "notes": "Gets as far as the loading screen, with terrible performance. Stops working after that.",
+    "os": "Antergos Linux",
+    "protonVersion": "Beta (3.7-8)",
+    "ram": "16 GB",
+    "rating": "Borked",
+    "timestamp": 1540278491,
+    "title": "The Lab"
+  }
+]

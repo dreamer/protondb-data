@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "707010",
+    "title": "Will To Live Online",
+    "timestamp": 1535723306,
+    "rating": "Silver",
+    "notes": "Seems like game is working fine. Unfortunately don't want to connect to servers.",
+    "os": "Linux Mint 19 64-bit (4.15.0-33)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Intel\u00ae Core\u21222 Quad CPU Q9550 / GTX 760 2GB",
+    "protonVersion": "Default"
+  }
+]

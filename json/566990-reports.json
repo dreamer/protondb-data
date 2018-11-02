@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "566990",
+    "cpu": "AMD Ryzen 7 1800X Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.14.69-1-MANJARO",
+    "notes": "Gets to menu screen, but there is no menu.",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "64424 Mb",
+    "rating": "Borked",
+    "timestamp": 1537581298,
+    "title": "Russian Car Driver"
+  }
+]

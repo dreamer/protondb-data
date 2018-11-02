@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "209160",
+    "title": "Call of Duty: Ghosts",
+    "timestamp": 1535133011,
+    "rating": "Silver",
+    "notes": "frame drops in 720p low, playable",
+    "os": "Fedora 28 64-bit kernel 4.17.14",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7 4790k / gtx 1060",
+    "protonVersion": "Default"
+  }
+]

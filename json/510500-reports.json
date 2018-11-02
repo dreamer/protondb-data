@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "510500",
+    "cpu": "Intel Core i7-7700HQ @ 2.80GHz",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA GeForce GTX 1060",
+    "gpuDriver": "NVIDIA 390.77",
+    "kernel": "4.15.0-38-generic",
+    "notes": "Text on the main menu buttons in game isnt visible but this is no game breaker. Game still in Early Access, could be due to that too. Game runs smoothly out of the box.",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Beta (3.7-8)",
+    "ram": "16 GB",
+    "rating": "Silver",
+    "timestamp": 1540727247,
+    "title": "Executive Assault 2"
+  }
+]

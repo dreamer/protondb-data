@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "496730",
+    "title": "Sorcerer King Rivals",
+    "timestamp": 1535498951,
+    "rating": "Borked",
+    "notes": "Crashes right after splash screen",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "Mesa 18.3-devel",
+    "specs": "i5-3210/Intel HD 4000",
+    "protonVersion": "3.7-3"
+  }
+]

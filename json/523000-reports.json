@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "523000",
+    "title": "Princess Maker 2 Refine",
+    "timestamp": 1534943898,
+    "rating": "Bronze",
+    "notes": "WAVE sound works, MIDI not / fullscreen problem (game doesn't scale, just fills with black)",
+    "os": "Arch Linux",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-4690K / NVIDIA GTX 960",
+    "protonVersion": "Default"
+  }
+]

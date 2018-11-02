@@ -1,0 +1,36 @@
+[
+  {
+    "appId": "446020",
+    "title": "Jalopy",
+    "timestamp": 1534977491,
+    "rating": "Platinum",
+    "notes": "no visible issues",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5 6600k / GTX 980 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "446020",
+    "title": "Jalopy",
+    "timestamp": 1535388438,
+    "rating": "Borked",
+    "notes": "No errors no logs",
+    "os": "Ubuntu 18.04.1 lts (Kernel 4.15.0)",
+    "gpuDriver": "Mesa 18.1.5",
+    "specs": "r5 1600/rx 470",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "446020",
+    "cpu": "i7-4790K CPU @ 4.00GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "notes": "No noticeable issues",
+    "os": "Arch Linux (64 bit)",
+    "protonVersion": "3.7-5",
+    "rating": "Platinum",
+    "timestamp": "1536364800",
+    "title": "Jalopy"
+  }
+]

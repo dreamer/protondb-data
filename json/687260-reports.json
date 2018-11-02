@@ -1,0 +1,38 @@
+[
+  {
+    "appId": "687260",
+    "title": "Tokyo Dark",
+    "timestamp": 1534958417,
+    "rating": "Borked",
+    "notes": "The game launch but is stucked on the loading screen ",
+    "os": "Archlinux 64 bits 4.18.3 ",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "Ryzen 7 1700 / GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "687260",
+    "title": "Tokyo Dark",
+    "timestamp": 1535203873,
+    "rating": "Borked",
+    "notes": "The Steam client shows the game is running, but no game windows appears,",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "Mesa 18.3",
+    "specs": "R7 1700",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "687260",
+    "cpu": "AMD Ryzen 5 2600X Six-Core Processor",
+    "gpu": "GeForce GTX 960/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.19.0-1-MANJARO",
+    "notes": "Launched without tweaks, crashed after new game (but worked the second time, had to restart steam), minor fps drops, seems to be fps locked @ 60\n\ndind't continue testing after the point where the game was playable",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "16042 Mb",
+    "rating": "Bronze",
+    "timestamp": 1537048605,
+    "title": "Tokyo Dark"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "appId": "227780",
+    "title": "Serious Sam Classics: Revolution",
+    "timestamp": 1534962365,
+    "rating": "Borked",
+    "notes": "Audio stutter that persists into gameplay input. Essentially a slideshow.",
+    "os": "Arch 64-bit (Kernel 4.18.3)",
+    "gpuDriver": "Mesa 18.3.0",
+    "specs": "i7-3770k / RX 480",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "227780",
+    "title": "Serious Sam Classics: Revolution",
+    "timestamp": 1535127683,
+    "rating": "Borked",
+    "notes": "Takes very long to start, and initially menu looks good, then after a few seconds screen is just a collection of mono-coloured rectangles",
+    "os": "Gentoo 64-Bit (Kernel 4.18.3)",
+    "gpuDriver": "Mesa 18.2.0_rc4",
+    "specs": "i7-8650U / iGPU UHD620",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "227780",
+    "title": "Serious Sam Classics: Revolution",
+    "timestamp": 1536341821,
+    "rating": "Borked",
+    "notes": "crashes on startup",
+    "os": "Ubuntu 18.04 64bit (custom 4.18.4)",
+    "gpuDriver": "padoka Mesa 18.3",
+    "specs": "i7-4710-MQ / iGPU HD 4600",
+    "protonVersion": "3.7.5"
+  }
+]

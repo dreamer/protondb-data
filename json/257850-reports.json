@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "257850",
+    "cpu": "Intel Core i7-4770K @ 3.50GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA GeForce GTX 780",
+    "gpuDriver": "NVIDIA 410.66",
+    "kernel": "4.18.16-arch1-1-ARCH",
+    "notes": "Can't seem to get it to run. I've tried several proton versions, D3d11, disabling Esync, and running LD_PRELOAD on necessary lib files as I saw some people suggest. No matter what I do, the game will open a black window for a few seconds and then crash.",
+    "os": "Linux 4.x",
+    "protonVersion": "Beta (3.7-8)",
+    "ram": "16 GB",
+    "rating": "Borked",
+    "timestamp": 1540862929,
+    "title": "Hyper Light Drifter"
+  }
+]

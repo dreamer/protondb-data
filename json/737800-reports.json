@@ -1,0 +1,74 @@
+[
+  {
+    "appId": "737800",
+    "title": "F1 2018",
+    "timestamp": 1534960687,
+    "rating": "Borked",
+    "notes": "Game displays errors (probably when trying to save files - mostly when editing options) by showing new dialog windows. This steals window focus away from game and freezes it. Often buttons stop working after that",
+    "os": "Arch Linux (Kernel 4.17.11)",
+    "gpuDriver": "NVIDIA 396.45",
+    "specs": "i7-7700K / GTX 1060",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "737800",
+    "title": "F1 2018",
+    "timestamp": 1535165997,
+    "rating": "Silver",
+    "notes": "The game asks everytime you start for controller settings, just close it and continue. \n\nLoading a grand prix didn't work at first for me, it said that there are not enough file descriptors available. I increased it in /etc/security/limits.conf with '* soft nofile 16384' and '* hard nofile 16384'. That numbers might be a bit high, since I also have a lot of vscode instance open in the background.\n\nTurn off particles, otherwise there are strange red particle artifacts.\n\nThe sound crackles here and there, but overall good.\n\nI'm using a RX 470 with medium settings, and solid 60 fps (haven't tried higher settings, because of laziness).",
+    "os": "Arch Linux (Kernel 4.18.4)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 7 1700",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "737800",
+    "title": "F1 2018",
+    "timestamp": 1535617208,
+    "rating": "Platinum",
+    "notes": "Benchmark Mode (Australia, Heavy Rain, 1 Lap): High Preset, 1080p, Avg 75fps",
+    "os": "Ubuntu 18.04.1 LTS",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 2700X / GTX 1060",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "737800",
+    "title": "F1 2018",
+    "timestamp": 1535773179,
+    "rating": "Silver",
+    "notes": "Slight hiccups on FPS as seen on windows, but very slightly more prominent.",
+    "os": "Arch Linux (linux-vfio Kernel)",
+    "gpuDriver": "NVIDIA-dkms 396.54",
+    "specs": "i5-6600k",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "737800",
+    "cpu": "i5-4670K CPU @ 3.40GHz",
+    "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.5-arch1-1-ARCH",
+    "notes": "Pretty big stutters which feels like the game is running at 15-20 FPS (Steam shows 65 FPS)",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "15983 Mb",
+    "rating": "Bronze",
+    "timestamp": 1536599832,
+    "title": "F1 2018"
+  },
+  {
+    "appId": "737800",
+    "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-36-generic",
+    "os": "elementary OS 0.4.1 Loki (64 Bit)",
+    "protonVersion": "Default",
+    "ram": "15928 MB",
+    "rating": "Platinum",
+    "timestamp": 1539539711,
+    "title": "F1 2018"
+  }
+]

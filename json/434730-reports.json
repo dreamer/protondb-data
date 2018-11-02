@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "434730",
+    "title": "Half Dead",
+    "timestamp": 1535308448,
+    "rating": "Silver",
+    "notes": "Runs perfectly, keybindings in the controls menu don't display though",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i5 6600k / RX 470",
+    "protonVersion": "3.7-4"
+  }
+]

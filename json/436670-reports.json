@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "436670",
+    "title": "The Legend of Heroes: Trails in the Sky the 3rd",
+    "timestamp": 1535087224,
+    "rating": "Borked",
+    "notes": "no sound and the graphics don't show properly",
+    "os": "ubuntu 18.04.1",
+    "gpuDriver": "Mesa 18.3.0",
+    "specs": "i7 3820/radeon RX 580",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "436670",
+    "title": "The Legend of Heroes: Trails in the Sky the 3rd",
+    "timestamp": 1535242580,
+    "rating": "Bronze",
+    "notes": "No movies. Watch them from game folder",
+    "os": "Manjaro Stable 64-bit (Kernel 4.18.3)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-4820K / GTX 980",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "appId": "261470",
+    "title": "Distant Worlds: Universe",
+    "timestamp": 1534809600,
+    "rating": "Borked",
+    "notes": "Launcher starts, but pressing Start Game doesn't actually do anything, and the launcher itself behaves strangely",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7 4790k / GTX 1080 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "261470",
+    "title": "Distant Worlds: Universe",
+    "timestamp": 1534936673,
+    "rating": "Borked",
+    "notes": "Launcher runs, but game doesn't start",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-980X / NVIDIA GTX 1080 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "261470",
+    "title": "Distant Worlds: Universe",
+    "timestamp": 1535180699,
+    "rating": "Borked",
+    "notes": "The launcher loads, but none of the buttons respond so you can't play the game.  ",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396",
+    "specs": "AMD Ryzen 1700X / GTX 1080 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "261470",
+    "title": "Distant Worlds: Universe",
+    "timestamp": 1536063342,
+    "rating": "Borked",
+    "notes": "The launcher shows up but pressing the \"Play Distant Wold\" button doesn't do anything. When moving the launcher window around it starts to spaz out. All other buttons are working fine (they open PDFs or web links)\nOn each start \"Microsoft NET. Framekwork\" gets installed. ",
+    "os": "  \"Arch Linux\" (64 bit)",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "i7-3770 / R9 290",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "261470",
+    "cpu": "i7-7500U CPU @ 2.70GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 620 (Kaby Lake GT2) x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.2.0",
+    "kernel": "4.18.6-arch1-1-ARCH",
+    "notes": "Can't get past launcher ;___;",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "3.7.6 Beta",
+    "ram": "15939 Mb",
+    "rating": "Borked",
+    "timestamp": 1536800491,
+    "title": "Distant Worlds: Universe"
+  },
+  {
+    "appId": "261470",
+    "cpu": "Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Launcher runs but the game does not start",
+    "os": "Linux Mint 18.3 Sylvia (64 bit)",
+    "protonVersion": "3.7-6 beta",
+    "ram": "15937 Mb",
+    "rating": "Borked",
+    "timestamp": 1537196744,
+    "title": "Distant Worlds: Universe"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "7830",
+    "title": "Men of war",
+    "timestamp": 1535117866,
+    "rating": "Bronze",
+    "notes": "if you alt+tab or swtich workspace or mouse go to your other monitor a black screen will appear, to exit it just alt+f4 or shift+ctrl+q then will resume normaly",
+    "os": "Antergos",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-4440K",
+    "protonVersion": "Default"
+  }
+]

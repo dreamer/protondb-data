@@ -1,0 +1,29 @@
+[
+  {
+    "appId": "92600",
+    "cpu": "i7-4790K CPU @ 4.00GHz",
+    "gpu": "GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.24.02",
+    "notes": "Insists on remaining minimized. Before re-minimizing itself, it does appear to work.",
+    "os": "Debian GNU/Linux testing (buster) (64 bit)",
+    "protonVersion": "3.7",
+    "rating": "Borked",
+    "timestamp": "1536451200",
+    "title": "Xotic"
+  },
+  {
+    "appId": "92600",
+    "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54.05",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Runs but you cannot get into the game to play it",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "15980 Mb",
+    "rating": "Borked",
+    "timestamp": 1538334924,
+    "title": "Xotic"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "452510",
+    "title": "Under Night In-Birth EXE:Late",
+    "timestamp": 1534809600,
+    "rating": "Borked",
+    "notes": "Engine issue where an opponent will start with 0-ish health, AI doesn't start.",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-8700K / GTX 980",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "452510",
+    "cpu": "i5-4590 CPU @ 3.30GHz",
+    "gpu": "GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Runs well except for video playback and online multiplayer.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "24010 Mb",
+    "rating": "Silver",
+    "timestamp": 1537074496,
+    "title": "UNDER NIGHT IN-BIRTH Exe:Late"
+  }
+]

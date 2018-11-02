@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "291410",
+    "title": "Duelyst",
+    "timestamp": 1536074880,
+    "rating": "Bronze",
+    "notes": "The game shows that my GPU is not supported",
+    "os": "Antergos 64-bit (Kernel 4.18.3)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 3 1200 / GT 1030",
+    "protonVersion": "3.7-5"
+  }
+]

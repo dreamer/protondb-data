@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "657240",
+    "title": "Tracks - The Train Set Game",
+    "timestamp": 1535276304,
+    "rating": "Borked",
+    "notes": "Starts then crashes with error dialog 'DX11 feature level 10.0 is required to run the engine.'",
+    "os": "Ubuntu 18.04.1 LTS",
+    "gpuDriver": "3.0 Mesa 18.3.0-devel - padoka PPA",
+    "specs": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz / Intel Open Source Technology Center Mesa DRI Intel(R) UHD Graphics 630 (Coffeelake 3x8 GT2) x86/MMX/SSE2",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "657240",
+    "title": "Tracks - The Train Set Game",
+    "timestamp": 1535279144,
+    "rating": "Gold",
+    "notes": "Right click on the game in the game list, select Properties then SET LAUNCH OPTIONS... enter PROTON_USE_WINED3D11=1 %command% in the text box - Source: https://github.com/ValveSoftware/Proton/issues/671#issuecomment-416040448 - Thanks to pprotonrep@ on github.",
+    "os": "Ubuntu 18.04.1 LTS ",
+    "gpuDriver": "3.0 Mesa 18.3.0-devel - padoka PPA",
+    "specs": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz / Intel Open Source Technology Center Mesa DRI Intel(R) UHD Graphics 630 (Coffeelake 3x8 GT2) x86/MMX/SSE2",
+    "protonVersion": "Default"
+  }
+]

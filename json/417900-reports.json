@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "417900",
+    "cpu": "AMD FX(tm)-8320 Eight-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 760/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.77",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Simply won't start.",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7933 Mb",
+    "rating": "Borked",
+    "timestamp": 1539894484,
+    "title": "Upwards, Lonely Robot"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "380150",
+    "title": "STASIS",
+    "timestamp": 1536226024,
+    "rating": "Platinum",
+    "notes": "By default, Steam downloads an empty folder (as the game is considered as having Linux Native support, although it does not appear as such in the Store). To download the Linux binaries, you need to enroll in the beta by using the password abc123stasis in the \"Betas\" tab of the game properties. It works perfectly well",
+    "os": "Ubuntu 18.04.1 LTS",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-2400S/GT1030",
+    "protonVersion": "3.7-5"
+  }
+]

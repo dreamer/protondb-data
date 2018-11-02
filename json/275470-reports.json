@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "275470",
+    "title": "CHIP",
+    "timestamp": 1536342779,
+    "rating": "Platinum",
+    "notes": "Works fine out of box",
+    "os": "Arch",
+    "gpuDriver": "3.0 Mesa 18.1.7",
+    "specs": "Intel i7-4500U/ iGPU HD ",
+    "protonVersion": "3.7.5-"
+  }
+]

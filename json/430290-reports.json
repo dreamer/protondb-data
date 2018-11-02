@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "430290",
+    "title": "Shmups Skill Test \u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u6280\u80fd\u691c\u5b9a",
+    "timestamp": 1535219940,
+    "rating": "Platinum",
+    "notes": "Runs without problems.",
+    "os": "Elementary OS 5.0 b1 (Kernel 4.15.0)",
+    "gpuDriver": "Mesa 18.3.0-devel padoka",
+    "specs": "TR 1900X / RX 56 Nano",
+    "protonVersion": "3.7-4"
+  }
+]

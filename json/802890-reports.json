@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "802890",
+    "title": "Muv-Luv Alternative",
+    "timestamp": 1536029861,
+    "rating": "Borked",
+    "notes": "Won't start",
+    "os": "Arch Linux 64-bit (Kernel 4.18.5-zen)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4770 / GTX 770",
+    "protonVersion": "3.7-5"
+  }
+]

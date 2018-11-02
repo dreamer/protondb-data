@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "538680",
+    "title": "The Legend of Heroes: Trails of Cold Steel",
+    "timestamp": 1535333928,
+    "rating": "Borked",
+    "notes": "Attempts to start game then silently crashes",
+    "os": "Arch Linux 64-bit (Kernel 4.18.5.arch1-1)",
+    "gpuDriver": "NVIDIA 396.54-2",
+    "specs": "i7-4790K / GTX 1080 Ti",
+    "protonVersion": "Default"
+  }
+]

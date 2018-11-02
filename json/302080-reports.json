@@ -1,0 +1,50 @@
+[
+  {
+    "appId": "302080",
+    "title": "Bus Driver",
+    "timestamp": 1535608251,
+    "rating": "Gold",
+    "notes": "Works perfectly both in DirectX and OpenGL modes. You can enable 1080p support by editing the file called specs.settings in the installation folder",
+    "os": "Ubuntu 16.04 LTS 64-bit (Kernel 4.15.0-33-generic)",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "i7-7500U / iGPU HD 620",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "302080",
+    "title": "Bus Driver",
+    "timestamp": 1534943050,
+    "rating": "Borked",
+    "notes": "The game is starting, I can hear the main menu music, but the screen stays black. It's strange because it works in vanilla WINE. Also, it's an OpenGL game...",
+    "os": "Manjaro Testing",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-8700K / NVIDIA GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "302080",
+    "title": "Bus Driver",
+    "timestamp": 1535041125,
+    "rating": "Silver",
+    "notes": "Steam Overlay doesn't work correctly as there is no mouse",
+    "os": "Manjaro Testing 64-bit (Kernel 4.18.0)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-8700K / GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "302080",
+    "cpu": "AMD Phenom(tm) II X4 965 Processor",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 780 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.9-200.fc28.x86_64",
+    "notes": "The game runs without frizes.",
+    "os": "\"Fedora release 28 (Twenty Eight)\" (64 \u0431\u0438\u0442)",
+    "protonVersion": "Beta",
+    "ram": "7974 \u041c\u0411",
+    "rating": "Platinum",
+    "timestamp": 1538425042,
+    "title": "Bus Driver"
+  }
+]

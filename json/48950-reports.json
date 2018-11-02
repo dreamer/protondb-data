@@ -1,0 +1,49 @@
+[
+  {
+    "appId": "48950",
+    "title": "Greed Corp",
+    "timestamp": 1535019004,
+    "rating": "Borked",
+    "notes": "Intro video works. Then switches to a black screen with a pointer.",
+    "os": "Ubuntu 16.04.5",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-2500K / GTX 960",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "48950",
+    "title": "Greed Corp",
+    "timestamp": 1535054135,
+    "rating": "Platinum",
+    "notes": "Works perfeclly",
+    "os": "Fedora 28",
+    "gpuDriver": "Mesa 18.0.5-3",
+    "specs": "i5-4690k",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "48950",
+    "title": "Greed Corp",
+    "timestamp": 1535193792,
+    "rating": "Platinum",
+    "notes": "Native experience. Played through tutorial and first campaing map.",
+    "os": "Fedora 28 64-bit (Kernel 4.17.17)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4770K / GTX 770",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "48950",
+    "cpu": "AMD Ryzen 7 2700X Eight-Core Processor",
+    "gpu": "X.Org AMD Radeon HD 7900 Series (TAHITI, DRM 3.26.0, 4.18.5-gentoo, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel (git-2c1f249f2b)",
+    "kernel": "4.18.5-gentoo",
+    "notes": "Can not change settings (exits with E2001, unknown error)\nGameplay works, as does steam overlay. Graphics look good.",
+    "os": "\"Gentoo Base System release 2.6\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "16010 Mb",
+    "rating": "Gold",
+    "timestamp": 1537651199,
+    "title": "Greed Corp"
+  }
+]

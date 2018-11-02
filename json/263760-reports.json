@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "263760",
+    "title": "Turbo Dismount",
+    "timestamp": 1535218267,
+    "rating": "Silver",
+    "notes": "Native Performance. A little weirdness when picking files; doesn't affect stablity.",
+    "os": "Debian GNU/Linux buster/sid",
+    "gpuDriver": "NVIDIA 390.77-1",
+    "specs": "AMD FX-4100 / GTX 750",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "263760",
+    "cpu": "AMD FX(tm)-6300 Six-Core Processor",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060 6GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.77",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Everything runs perfectly, even file loading for custom heads etc.; Tested several maps",
+    "os": "KDE neon User Edition 5.14 (64 Bit)",
+    "protonVersion": "Default",
+    "ram": "16070 MB",
+    "rating": "Platinum",
+    "timestamp": 1539434500,
+    "title": "Turbo Dismount\u2122"
+  }
+]

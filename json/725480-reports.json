@@ -1,0 +1,110 @@
+[
+  {
+    "appId": "725480",
+    "title": "Slap City",
+    "timestamp": 1534809600,
+    "rating": "Bronze",
+    "notes": "No Character Models, Fullscreen Crashes on Start Up, No Stock Icons",
+    "os": "Debian Buster",
+    "gpuDriver": "AMD Mesa 18.0.1-1",
+    "specs": "Radeon RX 570 4GB",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "725480",
+    "title": "Slap City",
+    "timestamp": 1535370860,
+    "rating": "Borked",
+    "notes": "The game sometimes uses ludicrous amounts of CPU power, which causes 5+ second system hangs. Player models are invisible. Fullscreen works.",
+    "os": "Solus 3.9999, latest sync",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i7-7700HQ / GTX 1050 Ti",
+    "protonVersion": "Default &"
+  },
+  {
+    "appId": "725480",
+    "title": "Slap City",
+    "timestamp": 1535758202,
+    "rating": "Silver",
+    "notes": "You have to put -force-d3d9 in the launch options so character models display normally. Stock icons are invisible. Performance is somewhat sketchy and cannot always stay at 120.",
+    "os": "Manjaro Stable 64-bit (Kernel 4.14.66-1-MANJARO)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 5 1500X / GTX 1080",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "725480",
+    "title": "Slap City",
+    "timestamp": 1535300808,
+    "rating": "Gold",
+    "notes": "Works absolutely flawlessly once the \"-force-d3d9\" flag has been set in the launch options. Otherwise, characters are invisible.",
+    "os": "Debian Sid (Kernel 4.17.0-3)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "AMD FX-8350 / R9 380X",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "725480",
+    "title": "Slap City",
+    "timestamp": 1535770182,
+    "rating": "Silver",
+    "notes": "Many visual problems are solved by forcing DX9 -force-d3d9 in steam launch options.\nStock display is broken.",
+    "os": "Solus 3.9999",
+    "gpuDriver": "NVIDIA 390",
+    "specs": "i5-4670K",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "725480",
+    "title": "Slap City",
+    "timestamp": 1536164919,
+    "rating": "Borked",
+    "notes": "Either errors once you're inside or doesn't launch at all.",
+    "os": "Arch 64-bit (Kernel 4.18.5)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 5 / Vega",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "725480",
+    "cpu": "i7-7700HQ CPU @ 2.80GHz",
+    "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.5-90.current",
+    "notes": "Needs the -force-d3d9 flag to be added to Launch Options - otherwise all the characters are invisible. Works flawlessly after that - with controllers as well!",
+    "os": "\"Solus\" (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "15981 Mb",
+    "rating": "Gold",
+    "timestamp": 1536792290,
+    "title": "Slap City"
+  },
+  {
+    "appId": "725480",
+    "cpu": "AMD Ryzen 5 1600 Six-Core Processor",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Runs perfectly after forcing dx9 with -force-d3d9",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7.6-Beta",
+    "ram": "32175 Mb",
+    "rating": "Gold",
+    "timestamp": 1536893104,
+    "title": "Slap City"
+  },
+  {
+    "appId": "725480",
+    "cpu": "AMD Ryzen 7 1800X Eight-Core Processor",
+    "gpu": "GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.5.0 NVIDIA 384.130",
+    "kernel": "4.9.0-8-amd64",
+    "notes": "Played all characters in the arcade mode without problems",
+    "os": "Debian GNU/Linux 9.5 (stretch) (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "16042 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536958133,
+    "title": "Slap City"
+  }
+]

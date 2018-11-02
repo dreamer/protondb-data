@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "625980",
+    "cpu": "Intel(R) Core(TM) i3-3227U CPU @ 1.90GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Ivybridge Mobile x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.2.1",
+    "kernel": "4.18.9-1-MANJARO",
+    "notes": "cant launch it",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "9889 Mb",
+    "rating": "Borked",
+    "timestamp": 1537932041,
+    "title": "Yomawari: Midnight Shadows / \u6df1\u591c\u5efb"
+  }
+]

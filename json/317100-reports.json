@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "317100",
+    "title": "Republique",
+    "timestamp": 1536106148,
+    "rating": "Borked",
+    "notes": "crashes on startup",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "specs": "i7-7700HQ/HD Graphics 630",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "317100",
+    "cpu": "i7-7700HQ CPU @ 2.80GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 630 (Kaby Lake GT2) x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.15.0-20-generic",
+    "notes": "crashed",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "default",
+    "ram": "15899 Mb",
+    "rating": "Borked",
+    "timestamp": 1536764393,
+    "title": "Republique"
+  }
+]

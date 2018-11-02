@@ -1,0 +1,46 @@
+[
+  {
+    "appId": "39120",
+    "title": "Rift",
+    "timestamp": 1535382597,
+    "rating": "Borked",
+    "notes": "The game launches, but most textures are black, hence the \"unplayable\"",
+    "os": "Antergos, kernel 4.18.5-arch1-1-ARCH",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "AMD Ryzen 2700U",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "39120",
+    "title": "Rift",
+    "timestamp": 1535482336,
+    "rating": "Borked",
+    "notes": "Game loads however graphics are mostly black making the game unplayable",
+    "os": "Linux Mint 19 64-bit (Kernel 4.15)",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i7-6700K",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "39120",
+    "title": "RIFT",
+    "timestamp": 1535398612,
+    "rating": "Borked",
+    "notes": "While it does launch, lighting seems not to work at all (all models look pitch black), and enabling PostFX in the graphic options makes the whole screen minus the UI black. According to WineHQ, it works, so it may be a Proton or DXVK bug.",
+    "os": "Debian Sid (Kernel 4.17.0-3)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "FX 8350 / R9 380",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "39120",
+    "title": "Rift",
+    "timestamp": 1535850138,
+    "rating": "Borked",
+    "notes": "Lighting is non existent all textures render pitch black.  ",
+    "os": "Kubuntu 18.04 x64",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "Ryzen 7 2600 / GTX 1070",
+    "protonVersion": "Default"
+  }
+]

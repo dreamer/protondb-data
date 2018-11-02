@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "312010",
+    "title": "Bird Assassin",
+    "timestamp": 1535980751,
+    "rating": "Borked",
+    "notes": "Won't even show a screen",
+    "os": "Linux Mint 18.3 64-bit (Kernel 4.15.0-33-generic)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "I3-6100 / GTX 1060 6GB",
+    "protonVersion": "Default"
+  }
+]

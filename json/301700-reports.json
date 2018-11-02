@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "301700",
+    "title": "Numba Deluxe",
+    "timestamp": 1535038200,
+    "rating": "Borked",
+    "notes": "It starts in a resolution so low you cant see the menu items to start the game or change options etc. Only option is to kill the process.",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-4670K / GTX 1070",
+    "protonVersion": "Default"
+  }
+]

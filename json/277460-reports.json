@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "277460",
+    "title": "Praetorians",
+    "timestamp": 1535540190,
+    "rating": "Platinum",
+    "notes": "Works well",
+    "os": "Ubuntu 16.04",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "Intel Pentium CPU 3550M",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "448080",
+    "title": "Fibbage XL",
+    "timestamp": 1536355864,
+    "rating": "Platinum",
+    "notes": "This game actually runs natively",
+    "os": "Manjaro Stable 64-bit (Kernel 4.18.5)",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "Ryzen 7 2700X / RX 580",
+    "protonVersion": "None"
+  }
+]

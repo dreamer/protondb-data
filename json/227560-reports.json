@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "227560",
+    "title": "Scourge: Outbreak",
+    "timestamp": 1535808899,
+    "rating": "Silver",
+    "notes": "With all option maxed, fps range between 30-50. Single player playable without error. Joining a multiplayer game, the game sometime close itself without error.",
+    "os": "Debian Testing 64-bit (Kernel 4.17.17)",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "FX6100 / GTX 970",
+    "protonVersion": "3.7-5()"
+  }
+]

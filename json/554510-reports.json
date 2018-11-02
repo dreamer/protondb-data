@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "554510",
+    "title": "The Golf Club 2",
+    "timestamp": 1535460349,
+    "rating": "Platinum",
+    "notes": "Excellent performance.",
+    "os": "Ubuntu Mate 18.04",
+    "gpuDriver": "Mesa 18.3.0",
+    "specs": "FX-8350/R9 290X",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "554510",
+    "cpu": "i7-6700HQ CPU @ 2.60GHz",
+    "gpu": "GeForce GTX 950M/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.4.0-134-generic",
+    "notes": "Performance isn't quite as good as native, but quite acceptable. Needed PULSE_LATENCY_MSEC=60 %command% to prevent sound distortion, otherwise runs fine.",
+    "os": "Ubuntu 16.04.5 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7841 Mb",
+    "rating": "Platinum",
+    "timestamp": "1536345207",
+    "title": "The Golf Club 2\u2122"
+  }
+]

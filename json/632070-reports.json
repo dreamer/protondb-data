@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "632070",
+    "title": "The Fidelio Incident",
+    "timestamp": 1535933334,
+    "rating": "Borked",
+    "notes": "Message on launch: DX11 feature level 10.0 is required to run the engine.",
+    "os": " elementary OS 0.4.1 Loki (Kernel 4.15.0-33)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "AMD FX 8350",
+    "protonVersion": "Default"
+  }
+]

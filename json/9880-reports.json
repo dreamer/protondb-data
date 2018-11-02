@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "9880",
+    "title": "Champions Online",
+    "timestamp": 1534961883,
+    "rating": "Borked",
+    "notes": "Launcher works, I could log in, download the game and run it after ignoring the warning, but the game crashes at Cryptic logo",
+    "os": "Arch Linux 64-bit (Kernel 4.18.4)",
+    "gpuDriver": "Mesa-git 104270.aa79cc2bc8-1",
+    "specs": "i5-4690K / RX 580",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "9880",
+    "title": "Champions Online",
+    "timestamp": 1535066241,
+    "rating": "Silver",
+    "notes": "Game crashes every once in a while, you need to raise the ulimit for it to not crash at start if it's set to 4096 (I have mine at 1048576 as per instructions in proton)",
+    "os": "Arch Linux 64-bit (Kernel 4.18.4)",
+    "gpuDriver": "Mesa 18.3.0-devel (git-aa79cc2bc8)",
+    "specs": "i5-4690K / RX 580",
+    "protonVersion": "Default"
+  }
+]

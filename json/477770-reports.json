@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "477770",
+    "title": "Ride 2",
+    "timestamp": 1534931502,
+    "rating": "Borked",
+    "notes": "Can't proceed past title screen (press enter or spacebar))",
+    "os": "Arch Linux",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-4790k, GTX 1060, 16GB ram",
+    "protonVersion": "Default"
+  }
+]

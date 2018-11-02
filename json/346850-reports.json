@@ -1,0 +1,35 @@
+[
+  {
+    "appId": "346850",
+    "title": "Chip's Challenge 1",
+    "timestamp": 1535330032,
+    "rating": "Borked",
+    "notes": "Crashes on starup",
+    "os": "Linux Mint 19 (Kernel 4.15.0-33-generic)",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "specs": "AMD A10-5800K / Radeon RX 560",
+    "protonVersion": "3.7-3"
+  },
+  {
+    "appId": "346850",
+    "title": "Chip's Challenge 1",
+    "timestamp": 1535203943,
+    "rating": "Borked",
+    "notes": "none",
+    "os": "Debian 9 64-bit (Kernel 4.9)",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "i7-4790k / GTX 970",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "346850",
+    "title": "Chip's Challenge 1",
+    "timestamp": 1535287685,
+    "rating": "Borked",
+    "notes": "Won't Start",
+    "os": "Manjaro Stable 64-bit (Kernel 4.18.4-1)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 7 1700/RX 580",
+    "protonVersion": "3.7-4"
+  }
+]

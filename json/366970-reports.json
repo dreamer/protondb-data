@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "366970",
+    "title": "Mighty Switch Force! Hyper Drive Edition",
+    "timestamp": 1535493039,
+    "rating": "Platinum",
+    "notes": "Might lag a bit when you load the leaderboard in the menu for the first time.",
+    "os": "openSUSE Tumbleweed",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "FX-6300 / RX 550",
+    "protonVersion": "Default"
+  }
+]

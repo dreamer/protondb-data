@@ -1,0 +1,82 @@
+[
+  {
+    "appId": "427190",
+    "title": "Dead Rising",
+    "timestamp": 1534986789,
+    "rating": "Borked",
+    "notes": "Crashes on launch.",
+    "os": "Linux Mint 18.3 64-bit (Kernel 4.10)",
+    "gpuDriver": "NVIDIA-384",
+    "specs": "AMD A4-3300 / GTX 650 Ti Boost",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "427190",
+    "title": "Dead Rising",
+    "timestamp": 1535035854,
+    "rating": "Borked",
+    "notes": "Stutters a lot, no audio on cutscenes, crashed after first section",
+    "os": "Arch (Linux 4.18.3-ARCH)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "FX-6300 / GTX 1050",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "427190",
+    "title": "Dead Rising",
+    "timestamp": 1535038464,
+    "rating": "Borked",
+    "notes": "Stutters a lot, no audio on cutscenes, crashed after first section",
+    "os": "Arch (Linux 4.18.3-ARCH)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "FX-6300 / GTX 1050",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "427190",
+    "title": "Dead Rising",
+    "timestamp": 1535190467,
+    "rating": "Bronze",
+    "notes": "Game runs fine, but Wine window would not stay open and the controls seem to be moving on their own.",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Intel i7 6700k / GTX 1080",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "427190",
+    "title": "Dead Rising",
+    "timestamp": 1535499240,
+    "rating": "Silver",
+    "notes": "Haven't beat the game but everything works except for Cutscene Audio",
+    "os": "Linux Mint 18.3 Sylvia (64 bit) (Kernel 4.15.0-33-generic)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-3770k / GTX 1060 6gb",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "427190",
+    "title": "Dead Rising",
+    "timestamp": 1535731801,
+    "rating": "Bronze",
+    "notes": "Sometimes it's okay, but it freezes too much to be considered stable. Also menus take too long to load.",
+    "os": "Linux Mint 18.3 64-bit (Kernel 4.10)",
+    "gpuDriver": "NVIDIA 396",
+    "specs": "AMD A4-3300 / GTX 650 Ti Boost",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "427190",
+    "cpu": "AMD Ryzen 7 1800X Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.14.69-1-MANJARO",
+    "notes": "It \"works\", however the audio is completely missing from cutscenes and while the performance is good at first, major stuttering will occur when level data is streamed in.",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "64424 Mb",
+    "rating": "Bronze",
+    "timestamp": 1537239967,
+    "title": "DEAD RISING\u00ae"
+  }
+]

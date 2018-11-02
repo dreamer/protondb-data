@@ -1,0 +1,32 @@
+[
+  {
+    "appId": "344410",
+    "cpu": "Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Hangs on minimize.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15988 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538003590,
+    "title": "Magnetic: Cage Closed"
+  },
+  {
+    "appId": "344410",
+    "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060 6GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Performance is great. Mouse input is weird, moving the mouse in any direction also pulls the camera downwards. Lowering in-game sensitivity somewhat helps but still is noticeable.",
+    "os": "KDE neon User Edition 5.13 (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "15835 Mb",
+    "rating": "Gold",
+    "timestamp": 1539090476,
+    "title": "Magnetic: Cage Closed"
+  }
+]

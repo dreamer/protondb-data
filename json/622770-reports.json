@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "622770",
+    "title": "Hacktag",
+    "timestamp": 1535114401,
+    "rating": "Borked",
+    "notes": "Starts and then blackscreen...",
+    "os": "Arch Linux",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5 4690k / GTX 1070",
+    "protonVersion": "Default"
+  }
+]

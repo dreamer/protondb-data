@@ -1,0 +1,49 @@
+[
+  {
+    "appId": "463150",
+    "title": "BARRIER X",
+    "timestamp": 1535219336,
+    "rating": "Platinum",
+    "notes": "Runs completely natively",
+    "os": "Debian GNU/Linux buster/sid",
+    "gpuDriver": "NVIDIA 390.77-1",
+    "specs": "AMD FX-4100 / GTX 750",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "463150",
+    "title": "BARRIER X",
+    "timestamp": 1535720308,
+    "rating": "Borked",
+    "notes": "There is only one message from Wine about not being able to start",
+    "os": "Ubuntu 18.04.1 LTS 64-bit (4.15.0-33-generic)",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "specs": "AMD A6-4400M APU with Radeon(tm) HD Graphics",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "463150",
+    "title": "BARRIER X",
+    "timestamp": 1535804672,
+    "rating": "Silver",
+    "notes": "Joypad doesn't work",
+    "os": "Arch 64-bit (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4790K / GTX 1080",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "463150",
+    "cpu": "i5-6400 CPU @ 2.70GHz",
+    "gpu": "X.Org AMD Radeon (TM) RX 480 Graphics (POLARIS10, DRM 3.26.0, 4.18.4-steamvr-generic, LLVM 8.0.0)",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.18.4-steamvr-generic",
+    "notes": "Played the first level and work well",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15983 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536803313,
+    "title": "BARRIER X"
+  }
+]

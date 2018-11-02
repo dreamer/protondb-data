@@ -1,0 +1,45 @@
+[
+  {
+    "appId": "3720",
+    "title": "Evil Genius",
+    "timestamp": 1534896000,
+    "rating": "Gold",
+    "notes": "",
+    "os": "Antergos, 18.1.5",
+    "specs": "Ryzen 5 1600, RX 560",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "3720",
+    "title": "Evil Genius",
+    "timestamp": 1534944160,
+    "rating": "Silver",
+    "notes": "Couldn't figure out how to get the widescreen patch to work with it, probably a DLL override issue",
+    "os": "Sabayon Linux 18.09",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i7-7700K / Radeon RX 580",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "3720",
+    "title": "Evil Genius",
+    "timestamp": 1535377239,
+    "rating": "Platinum",
+    "notes": "No problems running it, and no noticable loss in performance vs playing on Windows 10. ",
+    "os": "Ubuntu MATE 18.04",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 7 2700X / GTX 1080",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "3720",
+    "title": "Evil Genius",
+    "timestamp": 1535395767,
+    "rating": "Platinum",
+    "notes": "Works great no issues found",
+    "os": "Xubuntu 18.04 bionic 64-bit (Kernel 4.15.0-33-generic) ",
+    "gpuDriver": "X.Org Radeon RX 580 Series (POLARIS10 / DRM 3.23.0 ) Version 3.0 Mesa 18.0.1 - padoka PPA",
+    "specs": "AMD FX-8350 Eight-Core @ 8x 4.199GHz /Radeon RX 580 Series ",
+    "protonVersion": "3.7-4"
+  }
+]

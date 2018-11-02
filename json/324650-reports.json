@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "324650",
+    "cpu": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+    "gpu": "GeForce GTX 1050/PCIe/SSE2",
+    "gpuDriver": "4.5.0 NVIDIA 384.130",
+    "kernel": "4.4.0-134-generic",
+    "notes": "Only displays a message saying \"DX11 feature level 10.0 is required to run the engine\"",
+    "os": "Linux Mint 18 Sarah (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7948 Mb",
+    "rating": "Borked",
+    "timestamp": 1536723981,
+    "title": "Gemini: Heroes Reborn"
+  }
+]

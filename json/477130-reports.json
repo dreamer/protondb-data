@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "477130",
+    "title": "Surge ",
+    "timestamp": 1536254925,
+    "rating": "Platinum",
+    "notes": "Slight lighting issue, gamma perhaps, reprojection apparent",
+    "os": "Linux Mint 18.1 (kernel 4.4.0-62)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7 2600K / GTX980",
+    "protonVersion": "Default"
+  }
+]

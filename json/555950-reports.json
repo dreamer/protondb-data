@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "555950",
+    "title": "Danganronpa Another Episode: Ultra Despair Girls",
+    "timestamp": 1535654058,
+    "rating": "Platinum",
+    "notes": "Steam Controller worked without issues",
+    "os": "Arch Linux 64-bit (Kernel 4.18.5)",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "Ryzen 7 2700X / Vega 56",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "555950",
+    "cpu": "AMD Ryzen 3 1200 Quad-Core Processor",
+    "gpu": "X.Org AMD Radeon (TM) R7 300 Series (BONAIRE, DRM 3.26.0, 4.18.5-arch1-1-ARCH, LLVM 6.0.1)",
+    "gpuDriver": "3.1 Mesa 18.1.7",
+    "kernel": "4.18.5-arch1-1-ARCH",
+    "notes": "Running without issues using PS3 controller",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "7993 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537631879,
+    "title": "Danganronpa Another Episode: Ultra Despair Girls"
+  }
+]

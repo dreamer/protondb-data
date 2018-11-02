@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "607890",
+    "title": "Sword Art Online: Hollow Realisation Deluxe Edition",
+    "timestamp": 1535711166,
+    "rating": "Silver",
+    "notes": "Stuttering in load screens (to be expected) otherwise runs very well",
+    "os": "Ubuntu 18.04.1 LTS",
+    "gpuDriver": "AMD 4.5.1",
+    "specs": "FX6300/R9 390x 8gb",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "607890",
+    "title": "Sword Art Online: Hollow Realization Deluxe Edition",
+    "timestamp": 1535097857,
+    "rating": "Platinum",
+    "notes": "Everything seems to working fine",
+    "os": "Antergos 64-bit (Kernel 4.18.4-arch1-1-ARCH)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "I7-6700k",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "405720",
+    "title": "Perfect Universe",
+    "timestamp": 1536360403,
+    "rating": "Bronze",
+    "notes": "The game runs fine but the character models don't display properly making some of the games difficult to play",
+    "os": "Ubuntu 18.04.1 (Kernel 4.18.6)",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "i5 6600k / RX 470",
+    "protonVersion": "3.7-5"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "471010",
+    "title": "Seven: The Days Long Gone Demo",
+    "timestamp": 1535913061,
+    "rating": "Silver",
+    "notes": "Without \"PROTON_NO_ESYNC=1 %command%\" crashing after a short time. On graphics setting \"Epic\" around 15FPS, on \"Low\" around 23 FPS in more crowded areas.",
+    "os": "Kubuntu 18.04 64bit",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7 6700, NVIDIA 1060 6GB",
+    "protonVersion": "3.7-5"
+  }
+]

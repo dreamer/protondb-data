@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "263720",
+    "title": "Brawlout",
+    "timestamp": 1535048362,
+    "rating": "Borked",
+    "notes": "Just load the first screen",
+    "os": "Ubuntu 18.04.1 ",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5 6400/GTX 970",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "263720",
+    "cpu": "AMD Ryzen 7 1700 Eight-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 410.57",
+    "kernel": "4.18.12-arch1-1-ARCH",
+    "notes": "None of the launch options work. Does not start.",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16036 Mb",
+    "rating": "Borked",
+    "timestamp": 1539149221,
+    "title": "Brawlout"
+  }
+]

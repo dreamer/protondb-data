@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "25830",
+    "title": "Knights of Honor",
+    "timestamp": 1534896000,
+    "rating": "Gold",
+    "notes": "Doesn't run in fullscreen but I think that's a problem with the game (no native widescreen support).",
+    "os": "Solus 3.9999, latest sync",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "FX-6300, R9 270X",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "25830",
+    "cpu": "Intel Core i7-6700HQ @ 2.60GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA GeForce GTX 960M",
+    "gpuDriver": "NVIDIA 390.77",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Countless errors.",
+    "os": "Linux Mint 19 Tara",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "16 GB",
+    "rating": "Borked",
+    "timestamp": 1540928075,
+    "title": "Knights of Honor"
+  }
+]

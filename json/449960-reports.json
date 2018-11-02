@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "449960",
+    "title": "Book of Demons",
+    "timestamp": 1535088464,
+    "rating": "Gold",
+    "notes": "If audio doesn't work install openAL packages for your distro (openal & lib32-openal for arch for example) ",
+    "os": "Antergos",
+    "gpuDriver": "Mesa 18.1.5",
+    "specs": "Ryzen 5 1600, RX 560",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "449960",
+    "title": "Book of Demons",
+    "timestamp": 1535089987,
+    "rating": "Gold",
+    "notes": "sound not working in vanilla environments -> works flawless with winetweaks",
+    "os": "neon 16.04 64-bit",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "fx-6300 / GTX750Ti",
+    "protonVersion": "Default"
+  }
+]

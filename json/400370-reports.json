@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "400370",
+    "title": "Normality",
+    "timestamp": 1536268876,
+    "rating": "Borked",
+    "notes": "Does not start on Does box",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 395.54 GTX1060 ",
+    "specs": "FX8350",
+    "protonVersion": "Default"
+  }
+]

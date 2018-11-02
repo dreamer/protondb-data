@@ -1,0 +1,53 @@
+[
+  {
+    "appId": "250500",
+    "title": "Super Amazing Wagon Adventure",
+    "timestamp": 1535009300,
+    "rating": "Borked",
+    "notes": "No errors reported on crash",
+    "os": "Xubuntu 18.04 64-bit (Kernel 4.15.0-33)",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz / MSI GTX 1070 8GB",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "250500",
+    "title": "Super Amazing Wagon Adventure",
+    "timestamp": 1535547884,
+    "rating": "Borked",
+    "notes": "Crashes immediately upon opening. No screen shown",
+    "os": "Fedora Workstation 28 64-Bit (Kernel 4.17.17)",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "A10-7850k/RX550 4GB",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "250500",
+    "cpu": "i3-6100 CPU @ 3.70GHz",
+    "gpu": "GeForce GTX 950/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-33-generic",
+    "notes": "Gives a Microsoft XNA error in Wine, and when XNA 4 is installed in Wine, it gets a stack overflow. A similar thing occurred with Proton",
+    "os": "elementary OS 0.4.1 Loki (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7920 Mb",
+    "rating": "Borked",
+    "timestamp": 1536883590,
+    "title": "Super Amazing Wagon Adventure"
+  },
+  {
+    "appId": "250500",
+    "cpu": "Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.5.0 NVIDIA 384.130",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Doesn't start",
+    "os": "Ubuntu 16.04.5 LTS (64 bits)",
+    "protonVersion": "Beta",
+    "ram": "7929 MB",
+    "rating": "Borked",
+    "timestamp": 1539334222,
+    "title": "Super Amazing Wagon Adventure"
+  }
+]

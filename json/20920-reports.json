@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "20920",
+    "title": "The Witcher 2: Assasins of Kings Enhanced Edition",
+    "timestamp": 1535371514,
+    "rating": "Platinum",
+    "notes": "48fps+, no issues found.",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-4210H / Gtx 960m",
+    "protonVersion": "3.7-4"
+  }
+]

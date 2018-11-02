@@ -1,0 +1,66 @@
+[
+  {
+    "appId": "589360",
+    "title": "Ni no Kuni\u2122 II: Revenant Kingdom",
+    "timestamp": 1534896000,
+    "rating": "Platinum",
+    "notes": "No noticiable issues, 60 fps stables                       ",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396",
+    "specs": "i7 7700 / GTX 1080",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "589360",
+    "title": "Ni no Kuni\u2122 II: Revenant Kingdom",
+    "timestamp": 1534943098,
+    "rating": "Silver",
+    "notes": "Small amount of slowdown and input lag, even on lowest settings",
+    "os": "XUbuntu 16.04",
+    "gpuDriver": "NIVIDIA 396.44",
+    "specs": "i5-6500 / GTX 960",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "589360",
+    "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-32-generic",
+    "os": "Ubuntu 18.04.1 LTS (64 Bit)",
+    "protonVersion": "Beta",
+    "ram": "15967 MB",
+    "rating": "Platinum",
+    "timestamp": 1537651965,
+    "title": "Ni no Kuni\u2122 II: Revenant Kingdom"
+  },
+  {
+    "appId": "589360",
+    "cpu": "AMD FX(tm)-8320 Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 960/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54.06",
+    "kernel": "4.18.8-041808-generic",
+    "notes": "I guess gold is the correct choice, the game works great but it won't go into fullscreen.  If you switch to fullscreen it drops to the toolbar and won't come back up.  Other than that it runs perfect as far as I can tell.  However this issue keeps it from being Platinum (I think some people need to understand that platinum means it's perfect out of the box).",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "16008 Mb",
+    "rating": "Gold",
+    "timestamp": 1537891061,
+    "title": "Ni no Kuni\u2122 II: Revenant Kingdom"
+  },
+  {
+    "appId": "589360",
+    "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+    "duration": "severalHours",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080 Ti/PCIe/SSE2",
+    "gpuDriver": "NVIDIA 410.57",
+    "kernel": "4.18.12-arch1-1-ARCH",
+    "notes": "One of my PC's this works out of the box so I would almost give it a Platinum until I tried it on my second machine. My second machine experienced the screen stuck in the taskbar. The only workaround I found for that is to change the resolution down, back up to what I want, and then change to fullscreen. Otherwise it gets stuck in the window menu.",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "32081 Mb",
+    "rating": "Gold",
+    "timestamp": 1539495648,
+    "title": "Ni no Kuni\u2122 II: Revenant Kingdom"
+  }
+]

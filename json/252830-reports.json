@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "252830",
+    "title": "Claire",
+    "timestamp": 1535513819,
+    "rating": "Gold",
+    "notes": "Needed PROTON_USE_WINED3D11=1 %command% in launch options to run",
+    "os": "Fedora 28",
+    "gpuDriver": "Mesa 18.2",
+    "specs": "i5-5200u",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "252830",
+    "cpu": "Intel Core i7-7700HQ @ 2.80GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA GeForce GTX 1060",
+    "gpuDriver": "NVIDIA 396.54",
+    "kernel": "4.15.0-36-generic",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "16 GB",
+    "rating": "Platinum",
+    "timestamp": 1540601471,
+    "title": "Claire"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "616110",
+    "title": "SPACEPLAN",
+    "timestamp": 1536006787,
+    "rating": "Platinum",
+    "notes": "Runs perfectly.",
+    "os": "Linux Mint 19 64-bit (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "4790k / 980ti",
+    "protonVersion": "3.7-5 ()"
+  }
+]

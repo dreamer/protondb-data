@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "355630",
+    "cpu": "Intel(R) Xeon(R) CPU E3-1230 v3 @ 3.30GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060 6GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Played the intro, works perfect and smooth, missing the intro speech like android has (but do not know if this is a proton or general steam version problem).",
+    "os": "Linux Mint 19 Tara (64 Bit)",
+    "protonVersion": "Default",
+    "ram": "15968 MB",
+    "rating": "Platinum",
+    "timestamp": 1539439683,
+    "title": "Leo\u2019s Fortune - HD Edition"
+  }
+]

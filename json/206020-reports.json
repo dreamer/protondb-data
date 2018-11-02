@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "206020",
+    "title": "Avernum 4",
+    "timestamp": 1535057185,
+    "rating": "Platinum",
+    "notes": "Works without a problem",
+    "os": "Arch Linux",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 5 1600/RX 570",
+    "protonVersion": "Default"
+  }
+]

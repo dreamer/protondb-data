@@ -1,0 +1,86 @@
+[
+  {
+    "appId": "304050",
+    "title": "Trove",
+    "timestamp": 1534959841,
+    "rating": "Borked",
+    "notes": "Launcher says it requires at least Windows Vista.",
+    "os": "Ubuntu MATE 18.04.1 64-bit (Kernel 4.15.32)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "GTX 1050 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "304050",
+    "title": "Trove",
+    "timestamp": 1535534143,
+    "rating": "Silver",
+    "notes": "Updated under windows then replace it with the Linux steam Trove file. Lunch it then should still see Error about vista but then you can hit play.",
+    "os": "Linux Mint 10 64-bit",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 5 1600X / GTX 1050 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "304050",
+    "title": "Trove",
+    "timestamp": 1535647474,
+    "rating": "Silver",
+    "notes": "change minOS in Library/GlyphLibrary.xml to xp, then make the file read-only. See trove forums for details",
+    "os": "Slackware 14.2",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-2700K",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "304050",
+    "title": "Trove",
+    "timestamp": 1535994912,
+    "rating": "Gold",
+    "notes": "change minOS in Library/GlyphLibrary.xml to xp and make read only",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA gtx 1050Ti",
+    "specs": "ryzen 3 1200",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "304050",
+    "title": "Trove",
+    "timestamp": 1536268240,
+    "rating": "Gold",
+    "notes": "You need to change minOS line in Library/GlyphLibrary.xml to xp, then make the file read-only.\n\nThe launcher freezes at the initial start. Just wait, it will download and install something.",
+    "os": "Manjaro (Kernel 4.14.67)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4790k / GTX 980",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "304050",
+    "cpu": "i5-6600K CPU @ 3.50GHz",
+    "gpu": "GeForce GTX 770",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Refuses to start with the error \"This game requires at least Windows Vista to run\" regardless of the Wine version set.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-3",
+    "ram": "15991 Mb",
+    "rating": "Borked",
+    "systemInfoNotes": "XFCE",
+    "timestamp": 1536754766,
+    "title": "Trove"
+  },
+  {
+    "appId": "304050",
+    "cpu": "i5-6600K CPU @ 3.50GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Works, in 60fps at 4k. But you need to change minOS line in Library/GlyphLibrary.xml to xp, then make the file read-only.The launcher freezes at the initial start. Just wait, it will download and install something.\n\nAnd I also had to set it to fullscreen borderless, normal fullscreen did not work.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "15972 Mb",
+    "rating": "Gold",
+    "timestamp": 1537055974,
+    "title": "Trove"
+  }
+]

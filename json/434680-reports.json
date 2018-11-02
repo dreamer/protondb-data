@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "434680",
+    "title": "Lamia's Game Room",
+    "timestamp": 1535115969,
+    "rating": "Borked",
+    "notes": "Missing text in dialogues / UI",
+    "os": "openSUSE Tumbleweed (Kernel 4.18.0)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i5-3550 / RX480 4GB",
+    "protonVersion": "Default"
+  }
+]

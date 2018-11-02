@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "261530",
+    "cpu": "i5-3570K CPU @ 3.40GHz",
+    "gpu": "GeForce GTX 550 Ti/PCIe/SSE2",
+    "gpuDriver": "4.5.0 NVIDIA 384.130",
+    "kernel": "4.13.0-46-generic",
+    "notes": "That game offer a native linux version, not sure why the site put it in the \"needs testing\" area.",
+    "os": "Ubuntu 17.10 (64 bit)",
+    "protonVersion": "Default",
+    "ram": "32131 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536595865,
+    "title": "Lifeless Planet Premier Edition"
+  }
+]

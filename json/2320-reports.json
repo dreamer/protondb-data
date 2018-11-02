@@ -1,0 +1,120 @@
+[
+  {
+    "appId": "2320",
+    "title": "Quake 2",
+    "timestamp": 1535568116,
+    "rating": "Borked",
+    "notes": "Will make a window, and then proceed to crash out of it's window.",
+    "os": "Ubuntu 18.04.1 LTS",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "specs": "Ryzen 5 1400 / RX 580",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "2320",
+    "title": "Quake II",
+    "timestamp": 1534809600,
+    "rating": "Borked",
+    "notes": "It tries to load, then just crashes.",
+    "os": "Antergos",
+    "gpuDriver": "Mesa ?",
+    "specs": "Intel GPU",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "2320",
+    "title": "Quake II",
+    "timestamp": 1534948738,
+    "rating": "Borked",
+    "notes": "Won't launch.",
+    "os": "Antergos 64-bit (Kernel 4.18.3)",
+    "gpuDriver": "AMDGPU Mesa 18.1.16",
+    "specs": "i5 6500 / R9 380",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "2320",
+    "title": "Quake II",
+    "timestamp": 1535050198,
+    "rating": "Borked",
+    "notes": "For a microsecond apparently the screen goes black (as if trying to start up) but then it comes to Steam again.",
+    "os": "Ubuntu 17.10 64-bit (Kernel 4.13.0-16-generic)",
+    "gpuDriver": "NVIDIA 384.59",
+    "specs": "Intel\u00ae Core\u21222 Quad CPU Q9550 @ 2.83GHz \u00d7 4 ",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "2320",
+    "title": "Quake II",
+    "timestamp": 1535148935,
+    "rating": "Borked",
+    "notes": "Starts to a gray square and then closes itself",
+    "os": "SteamOS 2.0 update 1:2.154",
+    "gpuDriver": "Mesa 17.2.4",
+    "specs": "AMD A10-7870K / Radeon R7",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "2320",
+    "title": "Quake II",
+    "timestamp": 1535175436,
+    "rating": "Borked",
+    "notes": "Won't Start",
+    "os": "Linux Mint 18.3 Cinnamon",
+    "gpuDriver": "Intel HD 3000",
+    "specs": "Intel i3-2330M",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "2320",
+    "title": "Quake II",
+    "timestamp": 1535559743,
+    "rating": "Platinum",
+    "notes": "Game runs perfectly fine at full framerates with no issues, tested with KMQuake II engine.",
+    "os": "Ubuntu-Mate 18.04.1",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "AMD FX 8120",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "2320",
+    "cpu": "i5-4690K CPU @ 3.50GHz",
+    "gpu": "GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-20-generic",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "3.7.5",
+    "ram": "7904 Mb",
+    "rating": "Gold",
+    "timestamp": "1536342912",
+    "title": "QUAKE II"
+  },
+  {
+    "appId": "2320",
+    "cpu": "i5-4690K CPU @ 3.50GHz",
+    "gpu": "GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-20-generic",
+    "notes": "Start Steam with the __gl_extensionstringversion=17700 prefix. This will limit the number of available OpenGL extensions, so the game wont crash at start. After this the game just works fine. nVidia proprietary only.",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "3.7.5",
+    "ram": "7904 Mb",
+    "rating": "Gold",
+    "timestamp": "1536343022",
+    "title": "QUAKE II"
+  },
+  {
+    "appId": "2320",
+    "cpu": "Intel(R) Pentium(R) CPU G3220 @ 3.00GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 960/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Works when KMQuake II is installed over the vanilla engine.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7915 Mb",
+    "rating": "Gold",
+    "timestamp": 1537123622,
+    "title": "QUAKE II"
+  }
+]

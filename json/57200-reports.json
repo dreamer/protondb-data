@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "57200",
+    "title": "Puzzle Dimension",
+    "timestamp": 1535030173,
+    "rating": "Bronze",
+    "notes": "Game works great. Starts in windowed mode. Switching to fullscreen in settings causes the game to lose focus. Alt-tabbing back to it makes it work correctly. Works perfectly with wired Xbox 360 controller.",
+    "os": "Ubuntu 18.04 LTS",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "specs": "I5-4690k/R9 280",
+    "protonVersion": "Default"
+  }
+]

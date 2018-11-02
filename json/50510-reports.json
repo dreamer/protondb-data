@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "50510",
+    "title": "Burn Zombie Burn",
+    "timestamp": 1535448873,
+    "rating": "Borked",
+    "notes": "Does not start with Vanilla proton",
+    "os": "Antergos",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-6800K",
+    "protonVersion": "Default"
+  }
+]

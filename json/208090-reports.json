@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "208090",
+    "title": "Loadout",
+    "timestamp": 1534972509,
+    "rating": "Platinum",
+    "notes": "Game servers were closed after 2018-05-25, but the game launches fine and you can navigate through menu",
+    "os": "Arch Linux 64-bit (Kernel 4.18.4)",
+    "gpuDriver": "Mesa 18.3.0-devel (git-aa79cc2bc8)",
+    "specs": "i5-4690K / RX 580",
+    "protonVersion": "Default"
+  }
+]

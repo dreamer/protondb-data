@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "48210",
+    "cpu": "i7-4790K CPU @ 4.00GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "freezes when connecting to uplay",
+    "os": "Linux Mint 19 Tara (64 Bit)",
+    "protonVersion": "3.7.6",
+    "ram": "15981 MB",
+    "rating": "Borked",
+    "timestamp": 1536876410,
+    "title": "The Settlers 7: Paths to a Kingdom: Deluxe Gold Edition"
+  }
+]

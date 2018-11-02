@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "627270",
+    "title": "Injustice 2",
+    "timestamp": 1535786746,
+    "rating": "Borked",
+    "notes": "The Injustice2.exe process is active for a few seconds, then stops.",
+    "os": "Linux Mint 19 64-bit (Kernel 4.15.0-33)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-3570K / GTX 1060 6Gb",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "627270",
+    "cpu": "Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 980/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 410.57",
+    "kernel": "4.14.74-1-MANJARO",
+    "notes": "Runs for a second then closes.",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "15928 Mb",
+    "rating": "Borked",
+    "timestamp": 1539030657,
+    "title": "Injustice\u2122 2"
+  }
+]

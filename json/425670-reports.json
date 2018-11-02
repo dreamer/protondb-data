@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "425670",
+    "title": "Seraph",
+    "timestamp": 1534997946,
+    "rating": "Silver",
+    "notes": "Have to use the argument: \"-force-d3d\" (without quotes) or else the character won't appear",
+    "os": "Antergos",
+    "gpuDriver": "Mesa 18.1.5",
+    "specs": "Ryzen 5 1600, RX 560",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "appId": "320240",
+    "title": "We Happy Few",
+    "timestamp": 1534976650,
+    "rating": "Platinum",
+    "notes": "No noticeable issue",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "Mesa 18.3.0-devel (padoka)",
+    "specs": "i5-6600K / RX 480",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "320240",
+    "title": "We Happy Few",
+    "timestamp": 1535487176,
+    "rating": "Gold",
+    "notes": "For better performance, used 'env WINEPREFIX=\"/home/$USER/.steam/steamapps/compatdata/320240/pfx\" /tmp/proton_run winecfg' to configure the Wine prefix to use Windows 10 instead of Windows 7.",
+    "os": "Ubuntu 18.04.1 64-bit (Kernel 4.15.0-33)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 7 1700X",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "320240",
+    "cpu": "AMD Ryzen 7 1700 Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.3-1-MANJARO",
+    "notes": "Works as intended after changing the wine prefix's default to Windows 10. env WINEPREFIX=\"[Directory to your Steam install]/steamapps/compatdata/63700/pfx\" winecfg",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "32162 Mb",
+    "rating": "Gold",
+    "timestamp": 1537336999,
+    "title": "We Happy Few"
+  },
+  {
+    "appId": "320240",
+    "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.19.0-1-MANJARO",
+    "notes": "It doesnt matter if you run it in high or low resolution. Framerate goes from 60-10 and then up again. If you \"stare\" into smoke it gives you bad framerate.",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "32112 Mb",
+    "rating": "Silver",
+    "timestamp": 1538577805,
+    "title": "We Happy Few"
+  }
+]

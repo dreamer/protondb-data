@@ -1,0 +1,60 @@
+[
+  {
+    "appId": "275530",
+    "title": "Z",
+    "timestamp": 1535042322,
+    "rating": "Platinum",
+    "notes": "Works great!",
+    "os": "Arch Linux (Kernel 4.18.3-arch1-1-ARCH)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "GeForce GTX 970",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "275530",
+    "title": "Z",
+    "timestamp": 1535260216,
+    "rating": "Silver",
+    "notes": "Occasional issues with disorted background music",
+    "os": "Arch Linux 64-bit (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-4670 / GTX 960",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "275530",
+    "title": "Z",
+    "timestamp": 1535365756,
+    "rating": "Platinum",
+    "notes": "works perfectly (even better than windows, where resolution setup was kind of wonky).",
+    "os": "Mint 18.1 Cinnamon 64-bit (kernel 4.4)",
+    "gpuDriver": "Intel HD graphics",
+    "specs": "Intel Core i3-3110M @  2.4GHz x 2",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "275530",
+    "title": "Z",
+    "timestamp": 1535984754,
+    "rating": "Platinum",
+    "notes": "No issues",
+    "os": "Ubuntu 18.04.1 LTS",
+    "gpuDriver": "GeForce GTX 1060 6GB (396.54) ",
+    "specs": "i7 5930k",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "275530",
+    "cpu": "AMD Ryzen 7 1700X Eight-Core Processor",
+    "gpu": "X.Org Radeon RX 580 Series (POLARIS10, DRM 3.27.0, 4.19.0-041900rc4-generic, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.19.0-041900rc4-generic",
+    "notes": "Seems to work fine. A little choppy camera movement and sound, but I can't remember if that was how the game was originally.",
+    "os": "Pop!_OS 18.04 LTS (64 bit)",
+    "protonVersion": "3.7.6",
+    "ram": "16033 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537452330,
+    "title": "Z"
+  }
+]

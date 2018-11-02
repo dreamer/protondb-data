@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "337000",
+    "title": "Deus Ex: Mankind Divided\u2122",
+    "timestamp": 1535178802,
+    "rating": "Borked",
+    "notes": "Runs fine to the main menue, after created a new game it's continued crashing while starting.",
+    "os": "SteamOS",
+    "gpuDriver": "NVIDIA 387.22",
+    "specs": "AMD A10-5700 / GTX 750 Ti",
+    "protonVersion": "Default"
+  }
+]

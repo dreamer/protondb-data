@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "260570",
+    "title": "Gray Matter",
+    "timestamp": 1535044398,
+    "rating": "Borked",
+    "notes": "After pressing \"Play\" nothing happens :(",
+    "os": "Arch Linux 64-bit",
+    "gpuDriver": "NVIDIA 396.51 ",
+    "specs": "Intel Quad Core Q6600",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "260570",
+    "title": "Gray Matter",
+    "timestamp": 1535690682,
+    "rating": "Borked",
+    "notes": "Game won't start and does not show any error message (game runs fine with Wine-3.0)",
+    "os": "Linux Mint 18.3 (Kernel 4.13)",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "AMD Phenom II X4 965 / NVIDIA GTX 1050TI",
+    "protonVersion": "3.73-3"
+  }
+]

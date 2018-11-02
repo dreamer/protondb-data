@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "390730",
+    "cpu": "AMD FX(tm)-6100 Six-Core Processor",
+    "gpu": "GeForce GTX 1050/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.51",
+    "kernel": "4.15.0-29-generic",
+    "notes": "No noticeable issues.",
+    "os": "elementary OS 0.4.1 Loki (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "5939 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537030793,
+    "title": "Sora"
+  }
+]

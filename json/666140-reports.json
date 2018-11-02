@@ -1,0 +1,53 @@
+[
+  {
+    "appId": "666140",
+    "title": "My Time At Portia",
+    "timestamp": 1535311501,
+    "rating": "Silver",
+    "notes": "FPS lower than in Windows, othewise very playable",
+    "os": "Gentoo Stable 17.0 64-bit (Kernel 4.14.65)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Intel i7-6700HQ / GTX 1070 Mobile",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "666140",
+    "cpu": "i7-4790 CPU @ 3.60GHz",
+    "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15933 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537067835,
+    "title": "My Time At Portia"
+  },
+  {
+    "appId": "666140",
+    "cpu": "AMD FX(tm)-6100 Six-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.6-arch1-1-ARCH",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "16041 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537347168,
+    "title": "My Time At Portia"
+  },
+  {
+    "appId": "666140",
+    "cpu": "AMD Ryzen 7 1800X Eight-Core Processor",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 410.57",
+    "kernel": "4.18.14-arch1-1-ARCH",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "Default",
+    "ram": "32178 Mb",
+    "rating": "Platinum",
+    "timestamp": 1540199004,
+    "title": "My Time At Portia"
+  }
+]

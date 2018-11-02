@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "343090",
+    "title": "Simple Rockets",
+    "timestamp": 1536343306,
+    "rating": "Borked",
+    "notes": "opens a window, then closes it abruptly.",
+    "os": "Arch",
+    "gpuDriver": "Mesa 1.8.7",
+    "specs": "I7-4500U / iGPU HD4000",
+    "protonVersion": "3.5.7-"
+  }
+]

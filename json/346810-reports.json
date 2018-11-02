@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "346810",
+    "title": "Grand Theft Auto 5",
+    "timestamp": 1536598000,
+    "rating": "Borked",
+    "notes": "During Story mode Prologue, exactly at the moment the character kicks the door the game crashes. \nShort video showing exit https://youtu.be/H7VdtshAT8k?t=22s",
+    "os": "ubuntu 18.04",
+    "gpuDriver": "Mesa 18.3.0-devel - padoka PPA",
+    "specs": "Ryzen 7 2700X",
+    "protonVersion": "3.7-3 and 3.7-6"
+  },
+  {
+    "appId": "346810",
+    "title": "Marble Age",
+    "timestamp": 1536391217,
+    "rating": "Platinum",
+    "notes": "Works as native",
+    "os": "Linux Mint 19 64-bit (Kernel 4.15)",
+    "gpuDriver": "Mesa 18.3.0-devel \u2013 padoka",
+    "specs": "i5-3210M / iGPU HD4000",
+    "protonVersion": "Default"
+  }
+]

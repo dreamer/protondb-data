@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "45300",
+    "title": "Wings of Prey",
+    "timestamp": 1535218699,
+    "rating": "Borked",
+    "notes": "It shows the startup menu for a split second then crashes. Probably due to third party DRM.",
+    "os": "Debian GNU/Linux buster/sid",
+    "gpuDriver": "NVIDIA 390.77-1",
+    "specs": "AMD FX-4100 / GTX 750",
+    "protonVersion": "Default"
+  }
+]

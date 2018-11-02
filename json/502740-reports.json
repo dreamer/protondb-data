@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "502740",
+    "title": "50 years",
+    "timestamp": 1535553916,
+    "rating": "Platinum",
+    "notes": "works",
+    "os": "Debian 9",
+    "gpuDriver": "NVIDIA 340.106",
+    "specs": "E 8400/GT 8500 512Mb",
+    "protonVersion": "Default"
+  }
+]

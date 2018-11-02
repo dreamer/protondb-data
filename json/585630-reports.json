@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "585630",
+    "cpu": "i7-4790 CPU @ 3.60GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.17.19-200.fc28.x86_64",
+    "notes": "The game hangs after start. It shows the message: \"error creating session\" https://imgur.com/a/ncx5Q4b",
+    "os": "\"Fedora release 28 (Twenty Eight)\" (64 bit)",
+    "protonVersion": "3.7-3",
+    "ram": "24045 Mb",
+    "rating": "Borked",
+    "timestamp": 1536887254,
+    "title": "Switchblade"
+  }
+]

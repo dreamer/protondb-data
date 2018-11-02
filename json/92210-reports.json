@@ -1,0 +1,49 @@
+[
+  {
+    "appId": "92210",
+    "title": "Hitogata Happa",
+    "timestamp": 1534971258,
+    "rating": "Platinum",
+    "notes": "none",
+    "os": "SteamOS",
+    "gpuDriver": "NVIDIA",
+    "specs": "FX-8350 / GTX 1050 ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "92210",
+    "title": "Hitogata Happa",
+    "timestamp": 1535055901,
+    "rating": "Borked",
+    "notes": "Pop up window with \"Failed to init directx\"",
+    "os": "Fedora 28",
+    "gpuDriver": "Mesa 18.0.5-3",
+    "specs": "i4690k",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "92210",
+    "title": "Hitogata Happa",
+    "timestamp": 1535115494,
+    "rating": "Borked",
+    "notes": "Game won't start at all",
+    "os": "openSUSE Tumbleweed (Kernel 4.18.0)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i5-3550 / RX480 4GB",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "92210",
+    "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "X.Org AMD RAVEN (DRM 3.26.0, 4.18.5-arch1-1-ARCH, LLVM 6.0.1)",
+    "gpuDriver": "3.1 Mesa 18.1.7",
+    "kernel": "4.18.5-arch1-1-ARCH",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15045 Mb",
+    "rating": "Borked",
+    "timestamp": 1539543726,
+    "title": "Hitogata Happa"
+  }
+]

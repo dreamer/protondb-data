@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "338800",
+    "title": "Seven Kingdoms 2 HD",
+    "timestamp": 1535882148,
+    "rating": "Borked",
+    "notes": "The game starts, campaign screen is working, but at mission, screen hangs, while music is still playing, manu is accessible.",
+    "os": "LUbuntu 18.04.1 LTS",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i7-4700HQ / GTX 850m",
+    "protonVersion": "3.7-5"
+  }
+]

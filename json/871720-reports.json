@@ -1,0 +1,56 @@
+[
+  {
+    "appId": "871720",
+    "title": "Ultimate Custom Night",
+    "timestamp": 1535238596,
+    "rating": "Platinum",
+    "notes": "Flawless",
+    "os": "Ubuntu 18.04.1 LTS (Kernel 4.15.0-33)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "AMD FX-8350 / GTX 660",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "871720",
+    "cpu": "i5-7400 CPU @ 3.00GHz",
+    "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.15.0-33-generic",
+    "notes": "Slightly choppy with visual effects enabled, disabling them fixes it. Also slightly off looking font. Other than that game works perfect.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "7913 Mb",
+    "rating": "Gold",
+    "timestamp": 1536723182,
+    "title": "Ultimate Custom Night"
+  },
+  {
+    "appId": "871720",
+    "cpu": "Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz",
+    "gpu": "X.Org AMD OLAND (DRM 2.50.0 / 4.15.0-34-generic, LLVM 6.0.0)",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Music in main menu and in-game do not work",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "5832 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537920706,
+    "title": "Ultimate Custom Night"
+  },
+  {
+    "appId": "871720",
+    "cpu": "AMD A12-9720P RADEON R7, 12 COMPUTE CORES 4C+8G",
+    "duration": "lessThanAnHour",
+    "gpu": "X.Org AMD Radeon R7 Graphics (CARRIZO / DRM 3.15.0 / 4.12.14-lp150.12.16-default, LLVM 5.0.1)",
+    "gpuDriver": "3.0 Mesa 18.0.2",
+    "kernel": "4.12.14-lp150.12.16-default",
+    "notes": "Runs fine without visual effects, slow with them enabled. Fonts (Descriptions, labels) are mostly unreadable, but you can tell what they mean to say. Probably easier to read on higher resolutions like 1080p.",
+    "os": "\"openSUSE Leap 15.0\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "7432 Mb",
+    "rating": "Silver",
+    "timestamp": 1538013600,
+    "title": "Ultimate Custom Night"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "appId": "490450",
+    "title": "Tokyo 42",
+    "timestamp": 1535350545,
+    "rating": "Platinum",
+    "notes": "None",
+    "os": "Arch Stable 64-bit (Kernel 4.17.6)",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "i7-5820K / R9 290x",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "490450",
+    "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics",
+    "gpu": "X.Org Radeon RX 560 Series (POLARIS11, DRM 3.26.0, 4.18.9-arch1-1-ARCH, LLVM 6.0.1)",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.0",
+    "kernel": "4.18.9-arch1-1-ARCH",
+    "os": "\"Antergos Linux\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15972 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537565682,
+    "title": "Tokyo 42"
+  }
+]

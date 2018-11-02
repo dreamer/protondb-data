@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "312650",
+    "title": "Battlezone Gold Edition",
+    "timestamp": 1535859085,
+    "rating": "Borked",
+    "notes": "No sound at all. Runs fine in Classic mode. Starting a new campaign in regular mode, enemies do not spawn in, therefore making the game unplayable. Able to use Ultra graphics mode for my hardware while playing offline.",
+    "os": "Linux Mint 18.3 64-bit (Kernel 4.15.0-33-generic)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-7700K / GTX 1070",
+    "protonVersion": "3.7-5"
+  }
+]

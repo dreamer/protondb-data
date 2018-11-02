@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "414530",
+    "title": "Skyforge",
+    "timestamp": 1534934184,
+    "rating": "Borked",
+    "notes": "While the game appears to load fine, no input is recognized. Further testing is impossible at the moment.",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "open source Intel mesa drivers",
+    "specs": "Intel Core i5 2520m with Intel HD 3000 iGPU",
+    "protonVersion": "Default"
+  }
+]

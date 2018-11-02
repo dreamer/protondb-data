@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "32110",
+    "title": "LUXOR: Mah Jong",
+    "timestamp": 1535992785,
+    "rating": "Platinum",
+    "notes": "works perfectly",
+    "os": "Ubuntu Mate 18.04 64-bit",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i7-4702MQ ",
+    "protonVersion": "3.7-5"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "661790",
+    "title": "Witch Hunt",
+    "timestamp": 1535209564,
+    "rating": "Silver",
+    "notes": "Requires Steam launch option \"PROTON_USE_WINED3D11=1 %command%\" to run. Game is playable but loading/introduction screen is black, if you just wait for the game to load and then click left mouse button you get into the game. Game is still in early access, but have not experienced this problem in Windows.",
+    "os": "Elementary OS 5.0 b1 (Kernel 4.15.0)",
+    "gpuDriver": "Mesa 18.3.0-devel padoka",
+    "specs": "TR 1900X / RX 56 Nano",
+    "protonVersion": "3.7-4"
+  }
+]

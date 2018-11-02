@@ -1,0 +1,116 @@
+[
+  {
+    "appId": "35130",
+    "title": "Lara Croft and the Guardian of Light",
+    "timestamp": 1534950888,
+    "rating": "Borked",
+    "notes": "First time it installs something. Then it only ever shows \"Preparing to launch <game title>...\" and crashes, ever time.",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "NVIDIA GeForce GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "35130",
+    "title": "Lara Croft and the Guardian of Light",
+    "timestamp": 1534968902,
+    "rating": "Borked",
+    "notes": "The following error pops up in console log : \"Unhandled exception: page fault on read access to 0x00000088 in 32-bit code (0x0040c015).\"",
+    "os": "Archlinux 64-bit (Kernel 4.18.3)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-7700HQ / GTX 1060",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "35130",
+    "title": "Lara Croft and the Guardian of Light",
+    "timestamp": 1534969052,
+    "rating": "Borked",
+    "notes": "The following error pops up in console log : \"Unhandled exception: page fault on read access to 0x00000088 in 32-bit code (0x0040c015).\"",
+    "os": "Archlinux 64-bit (Kernel 4.18.3)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-7700HQ / GTX 1060",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "35130",
+    "title": "Lara Croft and the Guardian of Light",
+    "timestamp": 1535274378,
+    "rating": "Borked",
+    "notes": "It installs",
+    "os": "Antergos",
+    "gpuDriver": "vulkan-radeon",
+    "specs": "i5-8400, RX 480",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "35130",
+    "title": "Lara Croft and the Guardian of Light",
+    "timestamp": 1535407366,
+    "rating": "Borked",
+    "notes": "Error in console log: Unhandled exception: page fault on read access to 0x00000084 in 32-bit code (0x0040c015).",
+    "os": "Ubuntu 18.04.1 LTS 64-bit (Kernel 4.15.0)",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "AMD A10-5800K / GTX 660 2GB",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "35130",
+    "title": "Lara Croft and the Guardian of Light",
+    "timestamp": 1535459154,
+    "rating": "Borked",
+    "notes": "Crashes on start.",
+    "os": "Ubuntu 18.04.1 LTS",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "AMD FX-8320 / GTX 650 Ti",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "35130",
+    "cpu": "AMD Ryzen 5 1600X Six-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.18.0-1-amd64",
+    "os": "Debian GNU/Linux testing (buster) (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "32166 Mb",
+    "rating": "Borked",
+    "timestamp": 1538292933,
+    "tweaks": {
+      "disableD3d11": true,
+      "disableEsync": true,
+      "useWineD3d11": true
+    },
+    "title": "Lara Croft and the Guardian of Light"
+  },
+  {
+    "appId": "35130",
+    "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54.09",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Won't start.",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "15923 Mb",
+    "rating": "Borked",
+    "timestamp": 1540005921,
+    "title": "Lara Croft and the Guardian of Light"
+  },
+  {
+    "appId": "35130",
+    "cpu": "Intel(R) Core(TM) i5-4300M CPU @ 2.60GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Haswell Mobile x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.15.0-36-generic",
+    "os": "Ubuntu 18.04.1 LTS (64 Bit)",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "7855 MB",
+    "rating": "Borked",
+    "timestamp": 1540050921,
+    "title": "Lara Croft and the Guardian of Light"
+  }
+]

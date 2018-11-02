@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "8350",
+    "title": "Strong Bad's Cool Game for Attractive People: Episode 2",
+    "timestamp": 1535303717,
+    "rating": "Platinum",
+    "notes": "Works Great",
+    "os": "Fedora 28 Workstation 64-bit (Kernel 4.17.17-200)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-3770S / GTX 960",
+    "protonVersion": "Default"
+  }
+]

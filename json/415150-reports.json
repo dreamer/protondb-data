@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "415150",
+    "title": "Pang adventures",
+    "timestamp": 1535365391,
+    "rating": "Gold",
+    "notes": "Had to input resolution manually; it assumes gamepad is connected when it isn't (but plays fine with keyboard)",
+    "os": "Mint 18.1 Cinnamon 64-bit (kernel 4.4)",
+    "gpuDriver": "Intel HD graphics",
+    "specs": "Intel Core i3-3110M @  2.4GHz x 2",
+    "protonVersion": "Default"
+  }
+]

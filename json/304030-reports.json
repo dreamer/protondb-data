@@ -1,0 +1,33 @@
+[
+  {
+    "appId": "304030",
+    "title": "ArcheAge",
+    "timestamp": 1535481841,
+    "rating": "Borked",
+    "notes": "Glyph launcher opens but clicking \"Play Game\" does nothing",
+    "os": "Linux Mint 19 64-bit (Kernel 4.15)",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i7-6700K",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "304030",
+    "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "AMD KAVERI",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.3 - padoka PPA",
+    "kernel": "4.15.0-38-generic",
+    "notes": "No messing with anything under the hood; just tried through Steam interface and with user_settings.py tweaks as above. \nGlyph launcher starts and sits there. Pressing the play button does nothing. There is a wineserver running and some other wine processes but no game appears and nothing in the process list looks like it might be ArcheAge.",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Default",
+    "ram": "7 GB",
+    "rating": "Borked",
+    "timestamp": 1540846441,
+    "title": "ArcheAge",
+    "tweaks": {
+      "disableD3d11": true,
+      "disableEsync": true,
+      "useWineD3d11": true
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "217270",
+    "title": "Karateka",
+    "timestamp": 1535235408,
+    "rating": "Borked",
+    "notes": "Crashes after a few seconds of showing initial loading screen",
+    "os": "SteamOS",
+    "gpuDriver": "NVIDIA 387.22",
+    "specs": "i5",
+    "protonVersion": "Default"
+  }
+]

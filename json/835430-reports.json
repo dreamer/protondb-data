@@ -1,0 +1,38 @@
+[
+  {
+    "appId": "835430",
+    "title": "La-Mulana 2",
+    "timestamp": 1535014634,
+    "rating": "Borked",
+    "notes": "Crashes on startup, Steam thinks it's still running",
+    "os": "Ubuntu 16.04 64-bit (Kernel 4.15)",
+    "gpuDriver": "Standard drivers",
+    "specs": "i5-5300U/ iGPU HD 5500",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "835430",
+    "title": "La-Mulana 2",
+    "timestamp": 1535035983,
+    "rating": "Bronze",
+    "notes": "The game starts and runs fine. But no keyboard or controller support at all.",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "Ryzen 7 2700X",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "835430",
+    "cpu": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54.05",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Game displayed black screen then crashed on first run, but ran perfectly on the second attempt without any tweaking. Keyboard controls are functional, but game does not properly detect Xbox 360 controller.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "24010 Mb",
+    "rating": "Gold",
+    "timestamp": 1537754016,
+    "title": "La-Mulana 2"
+  }
+]

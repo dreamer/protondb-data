@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "844930",
+    "title": "Fox Hime Zero",
+    "timestamp": 1535536834,
+    "rating": "Gold",
+    "notes": "Works perfectly, but you need to install corefonts in game's wineprefix. Easiest way is to install https://github.com/Sirmentio/protontricks and then run $ protontricks 844930 corefonts",
+    "os": "Fedora 28 64-bit (Kernel 4.17.18)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4770K / GTX 770",
+    "protonVersion": "Default"
+  }
+]

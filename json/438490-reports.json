@@ -1,0 +1,35 @@
+[
+  {
+    "appId": "438490",
+    "title": "God Eater 2 Rage Burst",
+    "timestamp": 1535021621,
+    "rating": "Borked",
+    "notes": "Asks to go online because it can't connect, using steam offline doesn't work either.",
+    "os": "KDE Neon 64-bit (Kernel 4.15.0)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5 7400 / GTX 1060 6Gb",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "438490",
+    "title": "GOD EATER 2 Rage Burst",
+    "timestamp": 1535581569,
+    "rating": "Borked",
+    "notes": "\"Sorry, something went wrong, for solutions please lisit: https://support.codefusion.technology/ge2rb/?e=88500010&l=english\" + Unhandled exception: page fault on execute access to 0x00560035 in 32-bit code (0x00560035); but works with lutris on 32bit win7 with devenum, quartz and wmp10",
+    "os": "Archlinux 64-bit (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "E3-1230 v2 / GTX 660",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "438490",
+    "title": "GOD EATER 2 Rage Burst",
+    "timestamp": 1535620743,
+    "rating": "Borked",
+    "notes": "Probably Denuvo related. Redirects to codefusion(Denuvo) support page.",
+    "os": "Antergos (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-2600 / GTX 1070",
+    "protonVersion": "Default"
+  }
+]

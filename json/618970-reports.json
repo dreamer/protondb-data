@@ -1,0 +1,67 @@
+[
+  {
+    "appId": "618970",
+    "title": "Outcast - Second Contact",
+    "timestamp": 1535544701,
+    "rating": "Borked",
+    "notes": "Haven't found any solution yet.",
+    "os": "Ubuntu 18.04.1 LTS 64-bit (Kernel 4.15.0)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4900MQ",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "618970",
+    "title": "Outcast: Second Contact",
+    "timestamp": 1535550261,
+    "rating": "Bronze",
+    "notes": "No character models so while it works and is stable there's no point in trying",
+    "os": "Fedora 28 (kernel 4.17.18)",
+    "gpuDriver": "NVIDIA 396.45",
+    "specs": "Ryzen 1600 / 750 TI",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "618970",
+    "cpu": "i7-6700K CPU @ 4.00GHz",
+    "gpu": "GeForce GT 1030/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.77",
+    "kernel": "4.17.0-0.bpo.3-amd64",
+    "notes": "It hangs when trying to start it",
+    "os": "Debian GNU/Linux 9.5 (stretch) (64 bit)",
+    "protonVersion": "3.7.3",
+    "ram": "16031 Mb",
+    "rating": "Borked",
+    "timestamp": 1536913985,
+    "title": "Outcast - Second Contact"
+  },
+  {
+    "appId": "618970",
+    "cpu": "i7-2700K CPU @ 3.50GHz",
+    "gpu": "GeForce GTX 780/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Game runs  but Missing Character Models",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "15934 Mb",
+    "rating": "Bronze",
+    "timestamp": 1536937484,
+    "title": "Outcast - Second Contact"
+  },
+  {
+    "appId": "618970",
+    "cpu": "Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 780/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Black screen when playing intro video, Game runs but Missing Character Models",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "15934 Mb",
+    "rating": "Bronze",
+    "timestamp": 1538357289,
+    "title": "Outcast - Second Contact"
+  }
+]

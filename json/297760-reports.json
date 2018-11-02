@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "297760",
+    "title": "Qvadriga",
+    "timestamp": 1534896000,
+    "rating": "Silver",
+    "notes": "There is a slight audio stutter/glitch at start up, but this goes away quickly, and then things just work fine. Performance is good, sound and music works.",
+    "os": "Fedora 28, Nvidia 390.48",
+    "gpuDriver": "?",
+    "specs": "Intel i7-4770K, Nvidia GTX 780Ti",
+    "protonVersion": "Default"
+  }
+]

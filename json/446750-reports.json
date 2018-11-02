@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "446750",
+    "cpu": "i7-4790K CPU @ 4.00GHz",
+    "gpu": "GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.6-arch1-1-ARCH",
+    "notes": "Runs but with very low performance.",
+    "os": "Linux 4.x (64 Bit)",
+    "protonVersion": "3.7-6 beta",
+    "ram": "15902 MB",
+    "rating": "Silver",
+    "timestamp": 1536833141,
+    "title": "Portal Stories: VR"
+  }
+]

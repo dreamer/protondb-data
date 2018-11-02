@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "514310",
+    "title": "SENRAN KAGURA Bon Appetit!",
+    "timestamp": 1535119124,
+    "rating": "Silver",
+    "notes": "Performance issues. Slow Framerate.",
+    "os": "Kubuntu 18.04 64-bit",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i3 -7100 / GT 1030",
+    "protonVersion": "Default"
+  }
+]

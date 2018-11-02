@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "111600",
+    "title": "Serious Sam Double D XXL",
+    "timestamp": 1535117321,
+    "rating": "Borked",
+    "notes": "wont launch at all no error",
+    "os": "Atangros (kernel 4.18.4-)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "\"Ryzen 5 1600 / GTX 1070\"",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "111600",
+    "title": "Serious Sam Double D XXL",
+    "timestamp": 1535126348,
+    "rating": "Borked",
+    "notes": "Crashes at \"Step 4 of 4\" in installation step.",
+    "os": "Gentoo 64-Bit (Kernel 4.18.3)",
+    "gpuDriver": "Mesa 18.2.0_rc4",
+    "specs": "i7-8650U / iGPU UHD620",
+    "protonVersion": "Default"
+  }
+]

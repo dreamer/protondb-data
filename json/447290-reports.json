@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "447290",
+    "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-33-generic",
+    "notes": "Seems to run without any issues, without any tweaks.\nI wasn't able to set it to my proper resolution, but I had that problem when I was on windows anyways.",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15920 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537601591,
+    "title": "Redeemer"
+  }
+]

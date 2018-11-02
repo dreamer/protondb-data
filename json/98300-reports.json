@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "98300",
+    "title": "Toy Soldiers",
+    "timestamp": 1535294035,
+    "rating": "Gold",
+    "notes": "Resolution issue on first run due to multimonitor. Everything ok after configuring video parameters.",
+    "os": "Arch Linux",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5 4690K / GTX 1070",
+    "protonVersion": "Default"
+  }
+]

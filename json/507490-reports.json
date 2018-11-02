@@ -1,0 +1,76 @@
+[
+  {
+    "appId": "507490",
+    "title": "Ashes of the Singularity",
+    "timestamp": 1535773853,
+    "rating": "Borked",
+    "notes": "Game stops working as it loads assets before entering the game.",
+    "os": "Ubunutu 18.04",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Geforce GTX 1070 8GB",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "507490",
+    "title": "Ashes of the Singularity: Escalation",
+    "timestamp": 1535034042,
+    "rating": "Borked",
+    "notes": "Crash after pressing Play in the separate game launcher",
+    "os": "Arch Linux 64-bit (Kernel 4.18.4)",
+    "gpuDriver": "Mesa 18.3.0_devel.104104.de57926dc9",
+    "specs": "Ryzen 7 1700 / RX 480",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "507490",
+    "title": "Ashes of the Singularity: Escalation",
+    "timestamp": 1535035453,
+    "rating": "Borked",
+    "notes": "Crash directly after pressing the Play button in the separate game launcher",
+    "os": "Arch Linux 64-bit (Kernel 4.18.4)",
+    "gpuDriver": "Mesa 18.3.0_devel.104104.de57926dc9",
+    "specs": "Ryzen 7 1700 / RX 480",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "507490",
+    "title": "Ashes of the Singularity: Escalation",
+    "timestamp": 1535178923,
+    "rating": "Borked",
+    "notes": "No runs",
+    "os": "Manjaro Stable 64-bit ",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-4790K / GTX 1060 6GB",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "507490",
+    "cpu": "AMD Ryzen 7 1700 Eight-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "X.Org AMD Radeon (TM) RX 480 Graphics (POLARIS10, DRM 3.26.0, 4.18.11-arch1-1-ARCH, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel (git-cb863de626)",
+    "kernel": "4.18.11-arch1-1-ARCH",
+    "notes": "Doesn't work at all, not with the default DXVK and not by trying to enforce the Vulkan renderer.",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "32159 Mb",
+    "rating": "Borked",
+    "timestamp": 1538569523,
+    "title": "Ashes of the Singularity: Escalation"
+  },
+  {
+    "appId": "507490",
+    "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Fails to load launcher. ",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16000 Mb",
+    "rating": "Borked",
+    "timestamp": 1539399696,
+    "title": "Ashes of the Singularity: Escalation"
+  }
+]

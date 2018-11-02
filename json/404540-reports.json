@@ -1,0 +1,89 @@
+[
+  {
+    "appId": "404540",
+    "title": "Nex Machina",
+    "timestamp": 1535730968,
+    "rating": "Borked",
+    "notes": "Game starts and you can change settings etc. However soon as you select an option the whole screen goes black",
+    "os": "Ubuntu 18.04 64 Bit (Kernel 4.15.0-33-generic)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-6770HQ / GTX 1070",
+    "protonVersion": ""
+  },
+  {
+    "appId": "404540",
+    "cpu": "i7-4790K CPU @ 4.00GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "notes": "works great when launching with PROTON_NO_ESYNC=1 %command%",
+    "os": "Arch Linux (64 bit)",
+    "protonVersion": "3.7-6",
+    "rating": "Gold",
+    "timestamp": "1536451200",
+    "title": "Nex Machina"
+  },
+  {
+    "appId": "404540",
+    "cpu": "i5-3570K CPU @ 3.40GHz",
+    "gpu": "GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "notes": "Well...it runs but often crashes. Req. a very fast PC to run well.",
+    "os": "Solus (64 bit)",
+    "protonVersion": "3.7-5 Beta",
+    "rating": "Bronze",
+    "timestamp": "1536364800",
+    "title": "Nex Machina"
+  },
+  {
+    "appId": "404540",
+    "cpu": "AMD Ryzen 7 1700 Eight-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "X.Org AMD Radeon (TM) RX 480 Graphics (POLARIS10, DRM 3.26.0, 4.18.11-arch1-1-ARCH, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel (git-cb863de626)",
+    "kernel": "4.18.11-arch1-1-ARCH",
+    "notes": "Crash at start with error message \"file not found\", usage of PROTON_NO_ESYNC=1 didn't help",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "32159 Mb",
+    "rating": "Borked",
+    "timestamp": 1538552738,
+    "title": "Nex Machina"
+  },
+  {
+    "appId": "404540",
+    "cpu": "AMD Ryzen 7 1700 Eight-Core Processor",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA Corporation GeForce RTX 2080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 410.57",
+    "kernel": "4.18.14-29-tkg-pds",
+    "notes": "Works with great FPS with esync, but crashes at initial load screen more often than not. Stable without esync for a while but leaks system RAM until your system hangs/ooms or goes into heavy swapping, filled up my 16GB of RAM after about 10 minutes of gameplay.",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "16029 Mb",
+    "rating": "Bronze",
+    "systemInfoNotes": "Proton 3.16-1",
+    "timestamp": 1539508860,
+    "tweaks": {
+      "disableEsync": true
+    },
+    "title": "Nex Machina"
+  },
+  {
+    "appId": "404540",
+    "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 980/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 410.57",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Ran for about 10-15  minutes before it hangs my computer. Ran great up until that point.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7917 Mb",
+    "rating": "Bronze",
+    "timestamp": 1540132812,
+    "tweaks": {
+      "disableEsync": true
+    },
+    "title": "Nex Machina"
+  }
+]

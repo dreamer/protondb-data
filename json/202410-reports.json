@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "202410",
+    "title": "Scoregasm",
+    "timestamp": 1535087288,
+    "rating": "Silver",
+    "notes": "Don't enable gamepad in game when using the steam controller; bind kb/m instead.",
+    "os": "Gentoo AMD64 (Kernel 4.18.3)",
+    "gpuDriver": "Mesa git",
+    "specs": "Ryzen 5 1600 / RX 550",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "202410",
+    "title": "Scoregasm",
+    "timestamp": 1535823055,
+    "rating": "Gold",
+    "notes": "Performance is great. Only issue encountered was with 360 controller, game defaults got one axis wrong on RS (can be configured) and movement in menus is a little bit sensitive, otherwise it's perfect.",
+    "os": "Arch Linux (Kernel 4.18.5)",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "Ryzen 5 1600X / RX 480",
+    "protonVersion": "3.7-5"
+  }
+]

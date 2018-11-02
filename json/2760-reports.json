@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "2760",
+    "title": "Neverwinter Nights 2: Platinum",
+    "timestamp": 1534896000,
+    "rating": "Borked",
+    "notes": "Crashes with message \"Unable to detect video card with hardware 3D acceleration\"",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7 4790k / GTX 1080 Ti",
+    "protonVersion": "Default"
+  }
+]

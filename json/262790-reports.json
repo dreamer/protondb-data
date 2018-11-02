@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "262790",
+    "title": "Our Darker Purpose",
+    "timestamp": 1534996442,
+    "rating": "Borked",
+    "notes": "Doesn't start",
+    "os": "Xubuntu 16.04",
+    "gpuDriver": "NVIDIA 396.18",
+    "specs": "i5-3570 / GTX 960",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "262790",
+    "title": "Our Darker Purpose",
+    "timestamp": 1535030022,
+    "rating": "Borked",
+    "notes": "Does not start at all",
+    "os": "Arch Linux 4.18.3-arch1-1-ARCH",
+    "gpuDriver": "NVIDIA 396.51.02",
+    "specs": "i7-8700k / GTX 1080 Ti",
+    "protonVersion": "Default"
+  }
+]

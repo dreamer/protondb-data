@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "458770",
+    "title": "WRC 6",
+    "timestamp": 1535027410,
+    "rating": "Borked",
+    "notes": "Not booting",
+    "os": "Antergos",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 7 1700X/ RX 480",
+    "protonVersion": "Default"
+  }
+]

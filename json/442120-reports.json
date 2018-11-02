@@ -1,0 +1,80 @@
+[
+  {
+    "appId": "442120",
+    "title": "Pinball FX3",
+    "timestamp": 1535075560,
+    "rating": "Borked",
+    "notes": "Logs indicate missing Steam2.dll file. No known workarounds.",
+    "os": "Linux Mint 18.3 Cinnamon 64-bit (Kernel 4.15.0-33.36)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-7300HQ / GTX 1060",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "442120",
+    "title": "Pinball FX3",
+    "timestamp": 1535397740,
+    "rating": "Borked",
+    "notes": "Bad noise in audio. Plays acceptable w/ sound muted.",
+    "os": "Linux Mint 19",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "I7-8700",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "442120",
+    "cpu": "i7-4790 CPU @ 3.60GHz",
+    "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Fails to start after First Time Setup",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7",
+    "ram": "15973 Mb",
+    "rating": "Borked",
+    "timestamp": 1536940580,
+    "title": "Pinball FX3"
+  },
+  {
+    "appId": "442120",
+    "cpu": "AMD FX-8370E Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 960/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.14.67-gentoo",
+    "os": "\"NAME=Gentoo\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16072 Mb",
+    "rating": "Borked",
+    "timestamp": 1537127627,
+    "title": "Pinball FX3"
+  },
+  {
+    "appId": "442120",
+    "cpu": "AMD Ryzen 7 1700X Eight-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060 6GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 410.57",
+    "kernel": "4.14.74-1-MANJARO",
+    "notes": "Game doesn't start at all",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16041 Mb",
+    "rating": "Borked",
+    "timestamp": 1539392109,
+    "title": "Pinball FX3"
+  },
+  {
+    "appId": "442120",
+    "cpu": "AMD Ryzen 7 2700X Eight-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.18.0-10-generic",
+    "os": "Ubuntu 18.10 (64 bit)",
+    "protonVersion": "Default",
+    "ram": "64437 Mb",
+    "rating": "Borked",
+    "timestamp": 1540175638,
+    "title": "Pinball FX3"
+  }
+]

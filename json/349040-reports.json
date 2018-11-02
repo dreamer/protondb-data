@@ -1,0 +1,38 @@
+[
+  {
+    "appId": "349040",
+    "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+    "timestamp": 1535004920,
+    "rating": "Borked",
+    "notes": "Crashes with page fault error, detailed log at https://github.com/ValveSoftware/Proton/issues/103",
+    "os": "Arch Linux 4.17.14-arch1-1-ARCH",
+    "gpuDriver": "Mesa 18.1.5",
+    "specs": "i7-6700HQ / Intel HD 530",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "349040",
+    "title": "NATURO SHIPPUDEN: Ultimate Ninja STORM 4",
+    "timestamp": 1535700841,
+    "rating": "Borked",
+    "notes": "It crashes after it opens and starts loading.",
+    "os": "Arch Linux (Kernel 4.18.5-arch1-1-ARCH)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-6200U / GT 940M",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "349040",
+    "cpu": "AMD FX(tm)-6300 Six-Core Processor",
+    "gpu": "X.Org AMD Radeon (TM) RX 460 Graphics (POLARIS11, DRM 3.23.0, 4.15.0-34-generic, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.15.0-34-generic",
+    "notes": "wont start",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "7958 Mb",
+    "rating": "Borked",
+    "timestamp": 1537287432,
+    "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
+  }
+]

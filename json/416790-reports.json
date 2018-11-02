@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "416790",
+    "title": "The Metronomicon: Slay The Dance Floor",
+    "timestamp": 1535903226,
+    "rating": "Borked",
+    "notes": "Gives the option to start either the game or editor at start. Both instantly quit the game",
+    "os": "Mint 18.1 Cinnamon 64-bit (kernel 4.4)",
+    "gpuDriver": "Intel HD graphics",
+    "specs": "Intel Core i3-3110M @  2.4GHz x 2",
+    "protonVersion": "Default"
+  }
+]

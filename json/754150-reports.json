@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "754150",
+    "title": "Rolling Line",
+    "timestamp": 1535738619,
+    "rating": "Borked",
+    "notes": "Launches to initial menu, but mouse is uncontrollable and keyboard does not work. \n\nAlso appears to be running in software rendering mode (low resolution and high CPU usage). ",
+    "os": "Fedora 27 (4.17.17-100.fc27.x86_64)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 1600X / GTX 1080 Ti",
+    "protonVersion": "3.7-5"
+  }
+]

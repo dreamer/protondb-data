@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "664430",
+    "title": "WWE 2K18",
+    "timestamp": 1535404940,
+    "rating": "Borked",
+    "notes": "Crashes when match starts and player models should be shown.",
+    "os": "Ubuntu 18.04.1 (4.15.0-29)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Fx-8350 / GTX 980 Ti",
+    "protonVersion": "Default"
+  }
+]

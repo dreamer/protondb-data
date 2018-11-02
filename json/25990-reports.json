@@ -1,0 +1,50 @@
+[
+  {
+    "appId": "25990",
+    "title": "Majesty Gold Edition",
+    "timestamp": 1535752803,
+    "rating": "Borked",
+    "notes": "Both the base game and the Northern Expansion don't show the intro video and run very slowly. There aren't crashs, at least.",
+    "os": "Linux Mint 19 64-bit (Kernel 4.15.0-33)",
+    "gpuDriver": "Mesa 18.3.0-devel - Padoka PPA",
+    "specs": "i5-3210M / Radeon HD 7730M",
+    "protonVersion": "3.7.5-"
+  },
+  {
+    "appId": "25990",
+    "title": "Majesty Gold HD",
+    "timestamp": 1535291732,
+    "rating": "Platinum",
+    "notes": "Good.",
+    "os": "Linux Mint 18 64-bit (Kernel 4.15.0-33)",
+    "gpuDriver": "Mesa 18.0.1 - padoka PPA",
+    "specs": "Intel i5-3210M",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "25990",
+    "title": "Majesty Gold HD",
+    "timestamp": 1535927164,
+    "rating": "Platinum",
+    "notes": "Completely flawless, DX9 renderer and changing resolutions works no problem",
+    "os": "Arch Linux 64-bit (Kernel 4.18.5)",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "i5-4690 / RX 480",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "25990",
+    "cpu": "Intel Core i7-7500U @ 2.70GHz",
+    "duration": "severalHours",
+    "gpu": "Intel HD 620 (Kaby Lake GT2)",
+    "gpuDriver": "3.0 Mesa 18.2.2",
+    "kernel": "4.18.14-arch1-1-ARCH",
+    "notes": "Absolutely perfect for single players! Selecting online multiplayer crashes immediately (not sure if I'm missing gamespy or something) and selecting LAN multiplayer just sends me back to the main menu.",
+    "os": "Arch Linux",
+    "protonVersion": "Beta (3.16-1)",
+    "ram": "16 GB",
+    "rating": "Platinum",
+    "timestamp": 1540659780,
+    "title": "Majesty Gold HD"
+  }
+]

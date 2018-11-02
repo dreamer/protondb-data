@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "207670",
+    "title": "AVSEQ",
+    "timestamp": 1534973977,
+    "rating": "Silver",
+    "notes": "Tested fullscreen, played through the first level. Playable and sound works.",
+    "os": "Ubuntu 16.04.5 LTS 64-bit (kernel 4.4.0-131)",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "AMD FX-8350",
+    "protonVersion": "Default"
+  }
+]

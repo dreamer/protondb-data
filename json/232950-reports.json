@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "232950",
+    "title": "Bridge Project",
+    "timestamp": 1535269002,
+    "rating": "Platinum",
+    "notes": "Tested only first map",
+    "os": "Arch Linux 64-bit(Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 7 1800X / GTX 980",
+    "protonVersion": "Default"
+  }
+]

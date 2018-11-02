@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "397330",
+    "title": "Little Big Adventure",
+    "timestamp": 1535012716,
+    "rating": "Bronze",
+    "notes": "Enhanced edition does not start with an \"Assertion Failed\" error. Original edition runs perfectly.",
+    "os": "Kubuntu 18.04.1",
+    "gpuDriver": "Mesa 18.3.0 Dev",
+    "specs": "i5-4460",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "658570",
+    "title": "FURIDASHI: Drift Cyber Sport",
+    "timestamp": 1535116630,
+    "rating": "Platinum",
+    "notes": "Multiplayer works, good framerate",
+    "os": "Fedora 28 (Kernel: 4.17.14-202)",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i7-4790K / GTX 980 Ti",
+    "protonVersion": "Default"
+  }
+]

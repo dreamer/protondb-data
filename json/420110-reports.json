@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "420110",
+    "title": "NEKOPARA Vol. 2",
+    "timestamp": 1534949117,
+    "rating": "Gold",
+    "notes": "Running well at 250 fps ingame, 600 fps in menu, though this is way too fast and just wastes energy. Japanese main text don't work in-game, works as sub text though if a custom monospace Japanese font has been selected in the \"Display\" menu at the top (possibly need to copy fonts into the proton share fonts folder). Chinese text works fine. Sound is buggy right at startup, but fine afterwards. Everything else works fine, fully runs from start of game til end of game with skip function.",
+    "os": "Archlinux 64-bit (Kernel 4.18.1)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 7 1700x / RX 480",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "420110",
+    "title": "NEKOPARA Vol. 2",
+    "timestamp": 1536171611,
+    "rating": "Silver",
+    "notes": "English works, japan need tweaks, fullscreen not working",
+    "os": "Fedora 28 64-bit (Kernel 17.12.19)",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "Ryzen 2700X / Vega 56",
+    "protonVersion": "Default"
+  }
+]

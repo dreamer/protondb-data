@@ -1,0 +1,46 @@
+[
+  {
+    "appId": "296470",
+    "title": "Mount Your Friends",
+    "timestamp": 1534948987,
+    "rating": "Borked",
+    "notes": "Silent crash on start",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "AMDGPU Mesa 18.3.0-devel",
+    "specs": "AMD A10 7870K / AMD R7 370",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "296470",
+    "title": "Mount Your Friends",
+    "timestamp": 1535042336,
+    "rating": "Borked",
+    "notes": "Lutris error log: https://bin.disroot.org/?11449fece106ce74#PcjDX722sHf+D6wWWypnVLjmgoqhr0/4pw3Rm3E5epo=",
+    "os": "Manjaro Stable 64-bit (4.14.65)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-6500 / GTX 1050",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "296470",
+    "title": "Mount your friends",
+    "timestamp": 1535669511,
+    "rating": "Borked",
+    "notes": " None",
+    "os": "Arch Linux 4.17.14-arch1-1-ARCH",
+    "gpuDriver": "Mesa 18.1.16",
+    "specs": "i7-6700k",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "296470",
+    "title": "Mount Your Friends",
+    "timestamp": 1536109680,
+    "rating": "Borked",
+    "notes": "Game fails to start.",
+    "os": "Debian 9.5",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i5-4570",
+    "protonVersion": "3.7-5"
+  }
+]

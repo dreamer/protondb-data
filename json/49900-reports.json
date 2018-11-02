@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "49900",
+    "title": "Plain Sight",
+    "timestamp": 1535302130,
+    "rating": "Borked",
+    "notes": ".NET Framework 2.0 fails to install and then fails with \"XNA Framework Redistributable 3.1 requires .NET Framework 2.0\"",
+    "os": "Ubuntu 18.04.1 Bionic",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "Intel i3-2310M / Nvidia GeForce GT 520m",
+    "protonVersion": "3.7-4"
+  }
+]

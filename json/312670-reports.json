@@ -1,0 +1,43 @@
+[
+  {
+    "appId": "312670",
+    "title": "Strange Brigade",
+    "timestamp": 1535556232,
+    "rating": "Borked",
+    "notes": "It installs without problems. But after starting only a small black and non-movable window with unsteady border appears.",
+    "os": "Xubuntu 18.4 (Kernel 4.15.0-33)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-6700K / GTX 970",
+    "protonVersion": "-3.7-20180824"
+  },
+  {
+    "appId": "312670",
+    "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+    "duration": "moreThanTenHours",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.9-arch1-1-ARCH",
+    "notes": "This game needs a lot of tweaking. You need to install xact to fix audio. You need to copy the vulkan.exe of the game & rename it to the regular executable. Then you need the launch options, \"+r_renderapi 1 -nofriendsui -udp -skipdrivercheck\"\n\n(To keep this shorter). If you need help installing xact or just curious about the performance check out this guide/benchmark video.\nhttps://www.youtube.com/watch?v=gbjCItXmEDQ",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "32081 Mb",
+    "rating": "Silver",
+    "timestamp": 1538069595,
+    "title": "Strange Brigade"
+  },
+  {
+    "appId": "312670",
+    "cpu": "Intel Xeon           X5365  @ 3.00GHz",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA GeForce GTX 980 Ti",
+    "gpuDriver": "NVIDIA 410.66",
+    "kernel": "4.15.0-38-generic",
+    "notes": "To get it working I did the following\n\n\n------------------------------------------ \nSet Steam Launch Options \n------------------------------------------ \n\n+r_renderapi 1 -nofriendsui -udp -skipdrivercheck \n\n------------------- \nInstall Winetricks \n------------------- \n\nArch:\nsudo pacman -S winetricks \n\nUbuntu:\nsudo apt-get install winetricks \n\n---------------------------- \nInstall Winetricks Xact \n---------------------------- \nLaunch the game to create the compatdata folder for the game before running this command.  Force close the game (e.g. xkill the black game boot logo hang)\n\nGo to the compatdata folder \n\n~/steamapps/compatdata/\n\nopen a commandline terminal from this location\n\n~/steamapps/compatdata/\n\nfolder location and run\n\nWINEPREFIX=~/312670/pfx winetricks xact \n\n------------------------------- \nChange Default game exe for the Vulkan version\n ------------------------------- \ngo to the bin folder in the game folder \n\n~/steamapps/common/StrangeBrigade/bin/\n\nremain \"StrangeBrigade.exe\" to \"StrangeBrigade.exe.org\"\n\ncreate a backup of the Vulkan exe (StrangeBrigade_Vulkan.exe ---> StrangeBrigade_Vulkan (copy).exe)\n\nrenaim StrangeBrigade_Vulkan.exe to StrangeBrigade.exe\n\nPlay the game\n\nThanks to Venomous Pictures\n\nTESTED\n\nInstalled the game, loaded the game, played the gain at high settings using Vilkan...game play was very smooth",
+    "os": "elementary OS 5.0 Juno",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "32 GB",
+    "rating": "Gold",
+    "timestamp": 1540620793,
+    "title": "Strange Brigade"
+  }
+]

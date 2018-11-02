@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "235250",
+    "title": "Super Sanctum TD",
+    "timestamp": 1535403894,
+    "rating": "Platinum",
+    "notes": "Runs Perfectly",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i5 6600k / RX 470",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "235250",
+    "cpu": "AMD FX-6300 Six-Core",
+    "duration": "aboutAnHour",
+    "gpu": "ATI Technologies Inc. AMD Radeon R9 380",
+    "gpuDriver": "4.5.13529 Compatibility Profile Context",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Runs well, 4:3 but probably okay with some tweaks. Got one crash after the end of a round but didn't seem to repeat.",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Default",
+    "ram": "16 GB",
+    "rating": "Gold",
+    "timestamp": 1540361514,
+    "title": "Super Sanctum TD"
+  }
+]

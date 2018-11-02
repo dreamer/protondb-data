@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "9030",
+    "title": "Quake Mission Pack 2: Dissolution of Eternity",
+    "timestamp": 1535055054,
+    "rating": "Borked",
+    "notes": "Only the resolution is not saved. GlQuake Mission Pack 2: crash.",
+    "os": "Ubuntu 17.10 64-bit (Kernel 4.13.0-16-generic)",
+    "gpuDriver": "NVIDIA 384.59",
+    "specs": "Intel\u00ae Core\u21222 Quad CPU Q9550 @ 2.83GHz \u00d7 4 ",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "9030",
+    "cpu": "Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "X.Org AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.0-36-generic, LLVM 6.0.0)",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.15.0-36-generic",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15983 Mb",
+    "rating": "Platinum",
+    "timestamp": 1539251009,
+    "title": "QUAKE Mission Pack 2: Dissolution of Eternity"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "64000",
+    "title": "Men of War: Assault Squad",
+    "timestamp": 1535878451,
+    "rating": "Silver",
+    "notes": "Performance on 21:9 is not great but ok (50fps on GTX 1080 and ultra)",
+    "os": "Linux Mint 18.3 64bit (Kernel 4.15.0)",
+    "gpuDriver": "NVIDIA 396.44",
+    "specs": "Ryzen 7 1700 / GTX 1080",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "64000",
+    "title": "Men of War: Assault Squad ",
+    "timestamp": 1535819327,
+    "rating": "Platinum",
+    "notes": "Perfect. Only played single player. Steam overlay manually disabled.",
+    "os": "Manjaro Stable 64-bit (Kernel 4.14.67-1)",
+    "gpuDriver": "NVIDIA 390.87",
+    "specs": "Core2 Quad CPU Q9550 @ 2.83GHz / GTX 460",
+    "protonVersion": "3.7-5"
+  }
+]

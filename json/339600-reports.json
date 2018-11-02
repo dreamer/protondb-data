@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "339600",
+    "title": "VEGA Conflict",
+    "timestamp": 1535540983,
+    "rating": "Gold",
+    "notes": "Played the tutorial, seems fine.",
+    "os": "Ubuntu MATE 18.04.1(Kernel 4.15.0-33)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "Ryzen 5 1500X / GTX 1060 6GB",
+    "protonVersion": "Default"
+  }
+]

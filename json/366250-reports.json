@@ -1,0 +1,39 @@
+[
+  {
+    "appId": "366250",
+    "title": "METAL SLUG",
+    "timestamp": 1534896000,
+    "rating": "Borked",
+    "notes": "Crash in C++ runtime",
+    "os": "Arch Linux",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i7 6700K/ RX 580",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "366250",
+    "title": "METAL SLUG",
+    "timestamp": 1535051087,
+    "rating": "Borked",
+    "notes": "\"Assertion failed\" on startup and black screen after clicked 3x on the ignore button",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i3-550 / GT 740",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "366250",
+    "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1050/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.14.71-1-MANJARO",
+    "notes": "Visual C++ error preventing the game to start.",
+    "os": "\"Manjaro Linux\" (64\u00a0bits)",
+    "protonVersion": "Default",
+    "ram": "7898 Mo",
+    "rating": "Borked",
+    "timestamp": 1538973886,
+    "title": "METAL SLUG"
+  }
+]

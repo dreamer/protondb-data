@@ -1,0 +1,46 @@
+[
+  {
+    "appId": "202310",
+    "title": "Ridge Racer\u2122 Unbounded",
+    "timestamp": 1534896000,
+    "rating": "Platinum",
+    "notes": "",
+    "os": "Debian Stretch",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4770K / GTX 1080ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "202310",
+    "title": "Ridge Racer\u2122 Unbounded",
+    "timestamp": 1535086886,
+    "rating": "Silver",
+    "notes": "Xbox360 controller seems not work properly",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4790K / GTX 970",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "202310",
+    "title": "Ridge Racer\u2122 Unbounded",
+    "timestamp": 1535450733,
+    "rating": "Silver",
+    "notes": "Game runs, Only it wont connect with the servers, so it forces me to quit the game.",
+    "os": "Antergos",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-6800K",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "202310",
+    "title": "Ridge Racer\u2122 Unbounded",
+    "timestamp": 1535458339,
+    "rating": "Borked",
+    "notes": "Game runs, Only it wont connect with the servers, so it forces me to quit the game. Works with Wine staging",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4790K / GTX 970",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "399810",
+    "cpu": "Intel Core i7-5820K @ 3.30GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA GeForce GTX 980",
+    "gpuDriver": "NVIDIA 410.66",
+    "kernel": "4.17.19-1-MANJARO",
+    "notes": "Installs, but launches only a black window. ",
+    "os": "Manjaro Linux",
+    "protonVersion": "Beta (3.7-8)",
+    "ram": "16 GB",
+    "rating": "Borked",
+    "timestamp": 1540924611,
+    "title": "Call of Cthulhu\u00ae"
+  }
+]

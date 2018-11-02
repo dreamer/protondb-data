@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "42640",
+    "title": "Blur",
+    "timestamp": 1535306577,
+    "rating": "Platinum",
+    "notes": "Game works flawlessly and with good performance, the online connectivity appears to work too, I was able to create an online account and login. Only tried playing singleplayer though.",
+    "os": "Elementary OS 5.0 b1 (Kernel 4.15.0)",
+    "gpuDriver": "Mesa 18.3.0-devel padoka",
+    "specs": "TR 1900X / RX 56 Nano",
+    "protonVersion": "3.7-4"
+  }
+]

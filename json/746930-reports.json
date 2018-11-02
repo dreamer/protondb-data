@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "746930",
+    "cpu": "AMD Ryzen Threadripper 1920X 12-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 410.57",
+    "kernel": "4.19.0-rc7-mainline",
+    "notes": "Game was running at 25fps with a frame time of 30ms. Hand textures/meshes are missing.",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "Beta (3.7-8)",
+    "ram": "64350 Mb",
+    "rating": "Bronze",
+    "timestamp": 1539641400,
+    "title": "OrbusVR"
+  }
+]

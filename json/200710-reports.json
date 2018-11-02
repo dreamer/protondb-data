@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "200710",
+    "title": "Torchlight II",
+    "timestamp": 1535356184,
+    "rating": "Platinum",
+    "notes": "Perfect",
+    "os": "Ubuntu 18.04.1 LTS",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "Ryzen 7 1700X",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "200710",
+    "title": "Torchlight II",
+    "timestamp": 1535683330,
+    "rating": "Platinum",
+    "notes": "Perfekt",
+    "os": "Xubuntu 18.04 LTS",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "i5-4570",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "874240",
+    "title": "MU Legend",
+    "timestamp": 1534944466,
+    "rating": "Borked",
+    "notes": "Launcher loads but prompts \"An error has occurred. Please restart Steam and try again later.\"",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "Ryzen 5 1400 / GTX 1060 3GB",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "874240",
+    "title": "Mu Legend",
+    "timestamp": 1536187383,
+    "rating": "Borked",
+    "notes": "Updater don't connect and launch.",
+    "os": "Linux Mint 19 Cinamon",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Phenom II X6 1090T / GTX 1060 6GB",
+    "protonVersion": "Default"
+  }
+]

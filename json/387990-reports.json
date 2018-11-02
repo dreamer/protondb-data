@@ -1,0 +1,147 @@
+[
+  {
+    "appId": "387990",
+    "title": "Scrap Mechanic",
+    "timestamp": 1534896000,
+    "rating": "Borked",
+    "notes": "Black game window appears, then the game crashes to Bugsplat",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i7 5820k / GTX 980",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "387990",
+    "title": "Scrap Mechanic",
+    "timestamp": 1535013789,
+    "rating": "Borked",
+    "notes": "Doesn't work at all. Opens and complains about \"Please check your DirectX version\" and crashes.",
+    "os": "Arch Linux (linux-zen-4.18.3)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-2600K (8) @ 4.0 GHz + NVIDIA GTX 960 4GB VRAM",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "387990",
+    "cpu": "i5-6600K CPU @ 3.50GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "notes": "Runs only with PROTON_USE_WINED3D11=1 %command%. Then it's very stable, saves work, fullscreen... Since it is not DXVK performance is not as good as other games. But was able to crank out 60fps with some low settings. That's in 4k.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "rating": "Gold",
+    "timestamp": "1536451200",
+    "title": "Scrap Mechanic"
+  },
+  {
+    "appId": "387990",
+    "cpu": "i7-3770 CPU @ 3.40GHz",
+    "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.19.0-1-MANJARO",
+    "notes": "Must use PROTON_USE_WINED3D11=1 %command% , however, despite no dxvk, performance is still playable, but lower than windows. ",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "Proton 3.7-6 Beta",
+    "ram": "7934 Mb",
+    "rating": "Silver",
+    "timestamp": 1536780847,
+    "title": "Scrap Mechanic"
+  },
+  {
+    "appId": "387990",
+    "cpu": "AMD Ryzen 7 1700X Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Runs only with PROTON_USE_WINED3D11=1 %command%! but very stable and smooth with that, only some performance loss...",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "16056 Mb",
+    "rating": "Gold",
+    "timestamp": 1537297661,
+    "title": "Scrap Mechanic"
+  },
+  {
+    "appId": "387990",
+    "cpu": "Intel(R) Xeon(R) CPU E3-1230 v5 @ 3.40GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060 6GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.8-zen1-1-zen",
+    "notes": "Runs only with PROTON_USE_WINED3D11=1 %command%. Lights are buggy, performance is lower than on Windows",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "15989 Mb",
+    "rating": "Silver",
+    "timestamp": 1537460015,
+    "title": "Scrap Mechanic"
+  },
+  {
+    "appId": "387990",
+    "cpu": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
+    "duration": "severalHours",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Works, but lights shine black rays and performance is worse than Windows.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15972 Mb",
+    "rating": "Gold",
+    "timestamp": 1537976051,
+    "tweaks": {
+      "useWineD3d11": true
+    },
+    "title": "Scrap Mechanic"
+  },
+  {
+    "appId": "387990",
+    "cpu": "Intel(R) Celeron(R) CPU G540 @ 2.50GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Sandybridge Desktop x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.15.0-36-generic",
+    "notes": "It did not work without the PROTON_USE_WINED3D11=1 %command% twaek. It worked with it but it was unplayable slow. ",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15876 Mb",
+    "rating": "Borked",
+    "timestamp": 1539363642,
+    "title": "Scrap Mechanic"
+  },
+  {
+    "appId": "387990",
+    "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.18.12-94.current",
+    "notes": "Remember about PROTON_USE_WINED3D11=1 %command%,the performance is worse than on Windows, but not that much",
+    "os": "\"Solus\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16063 Mb",
+    "rating": "Gold",
+    "timestamp": 1539535493,
+    "tweaks": {
+      "useWineD3d11": true
+    },
+    "title": "Scrap Mechanic"
+  },
+  {
+    "appId": "387990",
+    "cpu": "AMD Ryzen 5 1600 Six-Core Processor",
+    "duration": "severalHours",
+    "gpu": "NVIDIA Corporation GeForce GTX 960/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.18.13-1-default",
+    "notes": "It's definitely playable but you're losing performance compared to Windows. Everything works, including Steam Cloud Sync, Workshop and Multiplayer. The only real issue is that you can't see through glass.",
+    "os": "\"openSUSE Tumbleweed\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7988 Mb",
+    "rating": "Silver",
+    "timestamp": 1540070786,
+    "tweaks": {
+      "useWineD3d11": true
+    },
+    "title": "Scrap Mechanic"
+  }
+]

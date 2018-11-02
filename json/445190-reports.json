@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "445190",
+    "title": "Expeditions: Viking",
+    "timestamp": 1535144822,
+    "rating": "Platinum",
+    "notes": "No issues",
+    "os": "Xubuntu 18.04",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "AMD Ryzen 5 1600X/ Radeon RX 560 OC",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "445190",
+    "cpu": "AMD Ryzen 7 1700 Eight-Core Processor",
+    "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Hangs indefinitely at loading screen. ",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Proton 3.7-6 Beta",
+    "ram": "16035 Mb",
+    "rating": "Borked",
+    "timestamp": 1537009373,
+    "title": "Expeditions: Viking"
+  }
+]

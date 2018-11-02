@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "278510",
+    "title": "JUDGEMENT SILVERSWORD - Resurrection -",
+    "timestamp": 1535082887,
+    "rating": "Platinum",
+    "notes": "None.",
+    "os": "Ubuntu 18.04 64-bit",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-7700HQ/GTX 1050Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "278510",
+    "title": "JUDGEMENT SILVERSWORD - Resurrection -",
+    "timestamp": 1535752870,
+    "rating": "Platinum",
+    "notes": "Runs like native.",
+    "os": "Elementary OS 5.0 b1 (Kernel 4.15.0)",
+    "gpuDriver": "Mesa 18.3.0-devel padoka",
+    "specs": "TR 1900X / RX 56 Nano",
+    "protonVersion": "3.7-5"
+  }
+]

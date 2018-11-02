@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "209650",
+    "title": "Call of Duty: Advanced Warfare",
+    "timestamp": 1535064894,
+    "rating": "Silver",
+    "notes": "Extremely slow loading. First level took 30 minutes to load on an HDD. Crashed when I attempted to change resolution to 4k",
+    "os": "Arch Linux 64-bit (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4770K / GTX 1080",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "209650",
+    "cpu": "AMD Ryzen 7 1800X Eight-Core Processor",
+    "duration": "severalHours",
+    "gpu": "X.Org Radeon RX Vega (VEGA10, DRM 3.26.0, 4.18.12-arch1-1-ARCH, LLVM 7.0.0)",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.1",
+    "kernel": "4.18.12-arch1-1-ARCH",
+    "notes": "Loading times are significantly improved if you disable Shader Preload in the Graphics settings. However, this will incur significant stuttering during gameplay until all the shaders have been cached. The stuttering makes the game almost unplayable. When the game isn't stuttering, it performs admirably. I get around 80-100 FPS on my Vega 64.",
+    "os": "\"Antergos Linux\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "32175 Mb",
+    "rating": "Bronze",
+    "timestamp": 1538804731,
+    "title": "Call of Duty\u00ae: Advanced Warfare - Gold Edition"
+  }
+]

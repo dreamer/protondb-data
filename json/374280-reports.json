@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "374280",
+    "title": "Hired Ops",
+    "timestamp": 1534944086,
+    "rating": "Borked",
+    "notes": "Game doesn't even start, most likely due to integrated custom anticheat",
+    "os": "Arch Linux",
+    "gpuDriver": "mesa-git 104270.aa79cc2bc8-1",
+    "specs": "i5-4690K / AMD Radeon RX 580",
+    "protonVersion": "Default"
+  }
+]

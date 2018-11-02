@@ -1,0 +1,74 @@
+[
+  {
+    "appId": "228760",
+    "title": "Trackmania 2 Canyon",
+    "timestamp": 1535363366,
+    "rating": "Platinum",
+    "notes": "No issues what so ever",
+    "os": "LInux Mint 19 64-bit (kernel 4.15)",
+    "gpuDriver": "NVIDIA-driver-390",
+    "specs": "I5 2310 / GTX 1050 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "228760",
+    "title": "TrackMania\u00b2 Canyon",
+    "timestamp": 1535110241,
+    "rating": "Silver",
+    "notes": "Doesn't always start (4 out of 5 times). Antialiasing does not work.",
+    "os": "Arch Linux 64-bit (kernel 4.16.18-rt12-1-rt)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-2600 / GT 730",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "228760",
+    "title": "Trackmania\u00b2 Canyon",
+    "timestamp": 1535385123,
+    "rating": "Platinum",
+    "notes": "Works flawlessly. Tested single- and multiplayer with custom maps and music.",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-3570",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "228760",
+    "title": "TrackMania\u00b2 Canyon",
+    "timestamp": 1535481938,
+    "rating": "Gold",
+    "notes": "Got some audio crackling after multiple hours of gameplay.",
+    "os": "Arch Linux 64-Bit (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-2500k / GTX 660",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "228760",
+    "cpu": "AMD FX(tm)-8350 Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "15937 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537462389,
+    "title": "TrackMania\u00b2 Canyon"
+  },
+  {
+    "appId": "228760",
+    "cpu": "AMD FX-8350 Eight-Core",
+    "duration": "severalHours",
+    "gpu": "NVIDIA GeForce GTX 1070",
+    "gpuDriver": "NVIDIA 396.54.09",
+    "kernel": "4.18.16-arch1-1-ARCH",
+    "notes": "Tested Single,Multi,Online,Splitscreen,Custom Maps,Workshop and every Graphics Settings. For now no issues...",
+    "os": "Antergos",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "16 GB",
+    "rating": "Platinum",
+    "timestamp": 1540720558,
+    "title": "TrackMania\u00b2 Canyon"
+  }
+]

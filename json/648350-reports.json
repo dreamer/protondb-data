@@ -1,0 +1,38 @@
+[
+  {
+    "appId": "648350",
+    "title": "Jurassic World Evolution",
+    "timestamp": 1534946223,
+    "rating": "Borked",
+    "notes": "Crashes on startup, leaves zombie process",
+    "os": "Kubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "INTEL i5-3570k",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "648350",
+    "title": "Jurassic World Evolution",
+    "timestamp": 1535636096,
+    "rating": "Borked",
+    "notes": "Crashes, won't start get a window to submit a report and leaves 3 processes",
+    "os": "Kubuntu 18.04.1",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "specs": "Ryzen 2700x / Vega 56",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "648350",
+    "cpu": "i7-7820HK CPU @ 2.90GHz",
+    "gpu": "GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.7-arch1-1-ARCH",
+    "notes": "States that it can't reach server, and won't start.",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "32122 Mb",
+    "rating": "Borked",
+    "timestamp": 1537040330,
+    "title": "Jurassic World Evolution"
+  }
+]

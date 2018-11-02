@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "39670",
+    "title": "Chaser",
+    "timestamp": 1535035398,
+    "rating": "Platinum",
+    "notes": "no",
+    "os": "Antergos",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "AMD Athlon X4 845 / RX 460",
+    "protonVersion": "Default"
+  }
+]

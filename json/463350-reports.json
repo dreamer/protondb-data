@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "463350",
+    "title": "Storm of Spears",
+    "timestamp": 1535671473,
+    "rating": "Borked",
+    "notes": "don't run no messages of error or another thing",
+    "os": "lubuntu 18.04 64 bits gtx 650",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "core2quad q8400",
+    "protonVersion": "3.7.5"
+  }
+]

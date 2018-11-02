@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "70000",
+    "title": "Dino D-Day",
+    "timestamp": 1535054772,
+    "rating": "Silver",
+    "notes": "You can create your own game, but if you try to join an online match, ti crashes",
+    "os": "Antergos",
+    "gpuDriver": "vulkan-radeon",
+    "specs": "i5-8400, RX 480",
+    "protonVersion": "Default"
+  }
+]

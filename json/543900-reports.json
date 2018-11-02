@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "543900",
+    "title": "METAL GEAR SURVIVE",
+    "timestamp": 1535716591,
+    "rating": "Borked",
+    "notes": "Connection error, infinity loop in entrance scene.   ",
+    "os": "Fedora 28 (kernel: 4.17.19-200.fc28.x86_64)",
+    "gpuDriver": "NVIDIA 396.45",
+    "specs": "E3-1230v2 / GTX970",
+    "protonVersion": "3.7-5"
+  }
+]

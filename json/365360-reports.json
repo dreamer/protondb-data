@@ -1,0 +1,72 @@
+[
+  {
+    "appId": "365360",
+    "title": "Battle Brothers",
+    "timestamp": 1534949990,
+    "rating": "Gold",
+    "notes": "Launch Option: \"export MESA_GL_VERSION_OVERRIDE=3.3COMPAT && %command%\"",
+    "os": "Arch Linux 64-bit (Kernel 4.18.3)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i7-3520M",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "365360",
+    "title": "Battle Brothers",
+    "timestamp": 1535034571,
+    "rating": "Borked",
+    "notes": "Wont start, error message is : A critical error as occurred. Your videocard seems to have no framebuffer support. ",
+    "os": "Ubuntu 18.04 64 bit (Kernel 4.15.0-32-generic)",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "specs": "Intel\u00ae UHD Graphics 620 (Kabylake GT2)",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "365360",
+    "title": "Battle Brothers",
+    "timestamp": 1535190743,
+    "rating": "Platinum",
+    "notes": "Works great",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 390",
+    "specs": "i5 4690K",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "365360",
+    "title": "Battle Brothers",
+    "timestamp": 1535257767,
+    "rating": "Gold",
+    "notes": "launch options : export MESA_GL_VERSION_OVERRIDE=3.3COMPAT && %command%",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "i7-7560U / iGPU Iris Plus 640",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "365360",
+    "title": "Battle Brothers",
+    "timestamp": 1535280714,
+    "rating": "Platinum",
+    "notes": "not a\u00a0single problem",
+    "os": "Gentoo (Kernel 4.18.4)",
+    "gpuDriver": "Mesa 18.2.0_rc4",
+    "specs": "Threadripper 1950X / RX 480",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "365360",
+    "cpu": "AMD Ryzen 3 2200G with Radeon Vega Graphics",
+    "duration": "severalHours",
+    "gpu": "X.Org AMD RAVEN (DRM 3.26.0, 4.18.0-10-generic, LLVM 7.0.0)",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.2",
+    "kernel": "4.18.0-10-generic",
+    "notes": "No need to modify anything, runs really well.",
+    "os": "Ubuntu 18.10 (64 bit)",
+    "protonVersion": "Beta (3.16-2)",
+    "ram": "15025 Mb",
+    "rating": "Platinum",
+    "timestamp": 1540237760,
+    "title": "Battle Brothers"
+  }
+]

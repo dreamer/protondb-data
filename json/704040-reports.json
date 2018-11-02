@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "704040",
+    "cpu": "AMD Athlon II X4 630",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA GeForce GTX 1050 Ti",
+    "gpuDriver": "NVIDIA 390.87",
+    "kernel": "4.15.0-38-generic",
+    "notes": "White screen is not running the game",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Default",
+    "ram": "8 GB",
+    "rating": "Borked",
+    "timestamp": 1540717111,
+    "title": "Castle Clicker : Building Tycoon"
+  }
+]

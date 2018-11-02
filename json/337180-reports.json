@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "337180",
+    "title": "Velocity 2X",
+    "timestamp": 1535003001,
+    "rating": "Borked",
+    "notes": "All text is missing in game, attempting to blindly start a level results in a hard freeze.",
+    "os": "Linux Mint 18.3 Cinnamon 64-bit (Kernel 4.15)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-7300HQ / GTX 1060",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "337180",
+    "title": "Velocity 2X",
+    "timestamp": 1535075327,
+    "rating": "Borked",
+    "notes": "Game speed is uncapped, on my system it runs at around 6x normal speed.\nMay be perfectly playable on a slower system or if artificially slowed down.\nCan randomly crash in level select, but this bug is present in Windows as well.",
+    "os": "Linux Mint 18.3 Cinnamon 64-bit (Kernel 4.15.0-33.36)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-7300HQ / GTX 1060",
+    "protonVersion": "Default"
+  }
+]

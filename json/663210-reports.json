@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "663210",
+    "title": "12 Labours of Hercules VII: Fleecing the Fleece (Platinum Edition)",
+    "timestamp": 1535644855,
+    "rating": "Platinum",
+    "notes": "Even runs fullscreen correctly!",
+    "os": "Linux Mint 18.2 64-bit (Kernel 4.13)",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "i5-6500 / GTX 1060",
+    "protonVersion": "Default"
+  }
+]

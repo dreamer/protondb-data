@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "405500",
+    "title": "Dangerous Golf",
+    "timestamp": 1535146466,
+    "rating": "Borked",
+    "notes": "Error: DX11 feature level 10.0 is reuired to run the engine. The R7 360 doesn't seem to support Vulkan or anything over openGL 3.1 on Linux, which is required to run most games under the default Proton.",
+    "os": "Xubuntu 18",
+    "gpuDriver": "Mesa 18.1.5",
+    "specs": "Intel i5-4460, R7 360",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "405500",
+    "title": "Dangerous Golf",
+    "timestamp": 1535505491,
+    "rating": "Bronze",
+    "notes": "Unstable/low framerate. No graphical issues",
+    "os": "Antergos (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-2600 / GTX 1070",
+    "protonVersion": "Default"
+  }
+]

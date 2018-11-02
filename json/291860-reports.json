@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "291860",
+    "title": "Pit People",
+    "timestamp": 1534962685,
+    "rating": "Platinum",
+    "notes": "One click to install, and everything work flawless",
+    "os": "Xubuntu 18.04 64-bit (Kernel 4.18.3)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-4970 no K / GTX 960",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "291860",
+    "title": "Pit People",
+    "timestamp": 1536015230,
+    "rating": "Platinum",
+    "notes": "Normal installation, no tweaks, ran flawlessly.",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7 7700HQ GTX 1060 6GB",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "277390",
+    "title": "Videoball",
+    "timestamp": 1535595146,
+    "rating": "Borked",
+    "notes": "Launces in Wine, with errors",
+    "os": "Arch Linux 64bit (Kernal 4.18.5)",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "Ryzen 5 1400 / RX 570",
+    "protonVersion": "Default"
+  }
+]

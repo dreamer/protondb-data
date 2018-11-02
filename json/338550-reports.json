@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "338550",
+    "title": "Terra Lander",
+    "timestamp": 1535279284,
+    "rating": "Platinum",
+    "notes": "flawless",
+    "os": "manjaro",
+    "gpuDriver": "nouveau",
+    "specs": "gtx 260",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "338550",
+    "title": "Terra Lander",
+    "timestamp": 1535279959,
+    "rating": "Platinum",
+    "notes": "flawless.",
+    "os": "Manjaro Stable 64-bit (Kernel 4.14)",
+    "gpuDriver": "nouveau",
+    "specs": "core 2 / gtx 260",
+    "protonVersion": "Default"
+  }
+]

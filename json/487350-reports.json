@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "487350",
+    "title": "Pirate Pop Plus",
+    "timestamp": 1535897516,
+    "rating": "Platinum",
+    "notes": "Works perfectly",
+    "os": "Arch Linux 4.18.3-arch1-1-ARCH",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-7700HQ / GTX 1060 3gb",
+    "protonVersion": "Default"
+  }
+]

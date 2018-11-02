@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "788770",
+    "title": "Meteor 60 Seconds!",
+    "timestamp": 1535651058,
+    "rating": "Silver",
+    "notes": "When you fly in the rocket, there are some graphical glitches in the sprites of the earth and the asteroid",
+    "os": "Kubuntu 18.04 64-bit (Kernel 4.15.0)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 2700x / GTX 1080",
+    "protonVersion": "Default"
+  }
+]

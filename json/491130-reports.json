@@ -1,0 +1,31 @@
+[
+  {
+    "appId": "491130",
+    "cpu": "i5-6600K CPU @ 3.50GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Runs at about 15fps in 4k. Regardless of any graphics settings. Even in 640x480",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "15972 Mb",
+    "rating": "Borked",
+    "timestamp": 1536964703,
+    "title": "Red Trigger"
+  },
+  {
+    "appId": "491130",
+    "cpu": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54.09",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Runs absolutely horrible.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "15972 Mb",
+    "rating": "Borked",
+    "timestamp": 1540109321,
+    "title": "Red Trigger"
+  }
+]

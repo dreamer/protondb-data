@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "302750",
+    "title": "The Counting Kingdom",
+    "timestamp": 1535152902,
+    "rating": "Gold",
+    "notes": "Had a few crashes until I modified the launch options, afterwards it worked without any further issues. Launch Options as follows; minus the quotes. \"PROTON_NO_D3D11=1 %command%\"",
+    "os": "Ubuntu 16.04.4 LTS (64 bit)",
+    "gpuDriver": "Mesa 17.3.6 - padoka PPA",
+    "specs": "AMD Phenom(tm) II X6 1035T Processor / AMD Radeon HD 6950 1GB ",
+    "protonVersion": "Default"
+  }
+]

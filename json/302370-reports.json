@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "302370",
+    "title": "Tex Murphy: Overseer",
+    "timestamp": 1534959094,
+    "rating": "Borked",
+    "notes": "Game launches, but FMV doesn't work (\"MPEG2 driver error\") making the game unplayable.",
+    "os": "Kubuntu 18.04 (Kernel 4.15.0-32)",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i3-6100 / GTX 750",
+    "protonVersion": "Default"
+  }
+]

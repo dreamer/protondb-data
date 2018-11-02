@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "441830",
+    "title": "I am Setsuna",
+    "timestamp": 1534989528,
+    "rating": "Bronze",
+    "notes": "Character models are not rendered",
+    "os": "Archlinux (4.18.3-arch1-1-ARCH)",
+    "gpuDriver": "NVIDIA 396.51-5",
+    "specs": "Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "441830",
+    "title": "I am Setsuna",
+    "timestamp": 1535024854,
+    "rating": "Silver",
+    "notes": "Character models are transparent, controllers don't work (Logitech F310)",
+    "os": "Arch Linux 64-bit (Kernel 4.18.4)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Intel HD Graphics 520",
+    "protonVersion": "Default"
+  }
+]

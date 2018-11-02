@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "635200",
+    "title": "Distrust",
+    "timestamp": 1536175476,
+    "rating": "Silver",
+    "notes": "It works out of the box, and it is perfectly playable, but the character geometry is missing, so you can only see the lanterns/shadow of each one",
+    "os": "Ubuntu 18.04.1 LTS",
+    "gpuDriver": "NVIDIA 396.54 ",
+    "specs": "i5-2400S/GT1030",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "635200",
+    "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Select the Play Distrust with DirectX 9 option; played through the tutorial on highest graphics settings.",
+    "os": "Linux Mint 18.3 Sylvia (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "32113 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538269981,
+    "title": "Distrust"
+  }
+]

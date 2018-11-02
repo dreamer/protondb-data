@@ -1,0 +1,30 @@
+[
+  {
+    "appId": "273570",
+    "cpu": "i5-7400 CPU @ 3.00GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Not full screen but big enough to play.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "15980 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536697314,
+    "title": "Descent"
+  },
+  {
+    "appId": "273570",
+    "cpu": "AMD Ryzen 7 1800X Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.18",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Jumpy on a mouse configuration. You may wish to configure inputs. Is not full screen. ",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16034 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537658563,
+    "title": "Descent"
+  }
+]

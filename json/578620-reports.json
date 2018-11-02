@@ -1,0 +1,76 @@
+[
+  {
+    "appId": "578620",
+    "title": "GORN",
+    "timestamp": 1535194965,
+    "rating": "Borked",
+    "notes": "No Hands,Weapons, Faces rendered",
+    "os": "Arch (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4790K, Nvidia GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "578620",
+    "title": "GORN",
+    "timestamp": 1535396806,
+    "rating": "Borked",
+    "notes": "Game is stable but unplayable due to many invisible objects - see Vulkan \"no stream output\" issue.",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7 6700 / GTX 780",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "578620",
+    "title": "Gorn",
+    "timestamp": 1535653961,
+    "rating": "Borked",
+    "notes": "Runs fine but weapons, hands, and enemy skin does not render.",
+    "os": "Gentoo (Kernel 4.15.18)",
+    "gpuDriver": "AMDGPU Mesa 18.1.6",
+    "specs": "Ryzen 7 1800X",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "578620",
+    "title": "GORN",
+    "timestamp": 1536007990,
+    "rating": "Bronze",
+    "notes": "Missing textures for weapons, both player and enemy.  Very hard to play",
+    "os": " Xubuntu 64-bit (Kernel 4.15)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-6700K / GTX 980",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "578620",
+    "cpu": "Intel Core i7-6700K @ 4.00GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA GeForce GTX 1080",
+    "gpuDriver": "NVIDIA 396.54.09",
+    "kernel": "4.18.12-arch1-1-ARCH",
+    "notes": "Needs stream output - see https://github.com/doitsujin/dxvk/issues/695 - basically right drivers (NVIDIA 396.54.09 in my case) and Proton 3.16. Except for slightly lower performance than in Windows (case for all VR games) it works perfectly.\n\nDid not test asymmetric multiplayer.",
+    "os": "Arch Linux",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "32 GB",
+    "rating": "Platinum",
+    "timestamp": 1540331056,
+    "title": "GORN"
+  },
+  {
+    "appId": "578620",
+    "cpu": "Intel Core i7-4790K @ 4.00GHz",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA GeForce GTX 1070",
+    "gpuDriver": "NVIDIA 396.54.09",
+    "kernel": "4.18.16-arch1-1-ARCH",
+    "notes": "Works great after switching to NVidia 396.54.09!",
+    "os": "Linux 4.x",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "16 GB",
+    "rating": "Platinum",
+    "timestamp": 1540679534,
+    "title": "GORN"
+  }
+]

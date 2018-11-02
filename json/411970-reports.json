@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "411970",
+    "title": "Ty the Tasmanian Tiger 2",
+    "timestamp": 1535755260,
+    "rating": "Silver",
+    "notes": "Wholly playable, some performance drops compared to running on Windows, no working controller support.",
+    "os": "Linux Mint Debian Edition 3 64-bit (Kernel 4.9.0-8)",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "i5-4670k",
+    "protonVersion": "Default"
+  }
+]

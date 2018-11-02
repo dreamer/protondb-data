@@ -1,0 +1,115 @@
+[
+  {
+    "appId": "381780",
+    "title": "80 Days",
+    "timestamp": 1534932970,
+    "rating": "Borked",
+    "notes": "Works fine with Wine",
+    "os": "Ubuntu Mate 16.04",
+    "gpuDriver": "?",
+    "specs": "i7-7500U / Intel 5916",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "381780",
+    "title": "80 Days",
+    "timestamp": 1534960749,
+    "rating": "Bronze",
+    "notes": "No sound, might have been a problem with my bluetooth headphones",
+    "os": "Antergos x64 KDE (4.18.3-arch1-1)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i7-7550U/ Intel HD 620",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "381780",
+    "title": "80 Days",
+    "timestamp": 1535126634,
+    "rating": "Platinum",
+    "notes": "Runs flawlessly, requires nvidia driver version 396 to work, failed to start with 390",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "NVIDIA 396",
+    "specs": "Ryzen 2400G / GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "381780",
+    "title": "80 Days",
+    "timestamp": 1535485756,
+    "rating": "Gold",
+    "notes": "Didn't start first time. Started second time with no changes.",
+    "os": "Ubuntu 16.04.5",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-2500K / GTX 960",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "381780",
+    "title": "80 Days",
+    "timestamp": 1535605595,
+    "rating": "Platinum",
+    "notes": "Works fine :)",
+    "os": "Gentoo Linux 4.18.5",
+    "gpuDriver": "Mesa 18.2.0_rc4",
+    "specs": "Ryzen 5 2500U / Vega M",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "381780",
+    "title": "80 Days",
+    "timestamp": 1535318735,
+    "rating": "Platinum",
+    "notes": "Works to perfection!",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "E5-2665 / GTX 970 ",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "381780",
+    "cpu": "Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 520 (Skylake GT2) x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.4.0-134-generic",
+    "notes": "Crashes immediately, giving a message saying there's logs located at executable directory",
+    "os": "elementary OS 0.4.1 Loki (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "7847 Mb",
+    "rating": "Borked",
+    "timestamp": 1537464216,
+    "title": "80 Days"
+  },
+  {
+    "appId": "381780",
+    "cpu": "Intel(R) Core(TM) i3 CPU         550  @ 3.20GHz",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA Corporation GeForce GT 740/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Works like a charm",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "5886 Mb",
+    "rating": "Platinum",
+    "timestamp": 1539519702,
+    "title": "80 Days"
+  },
+  {
+    "appId": "381780",
+    "cpu": "AMD FX-4100 Quad-Core",
+    "duration": "severalHours",
+    "gpu": "NVIDIA GeForce GTX 580",
+    "gpuDriver": "NVIDIA 390.77",
+    "kernel": "4.18.5-041805-generic",
+    "notes": "D3D11 disabled, doesn't run fullscreen. Windowed mode shows some minor glitches (black circles next to the icons on mouse over (incorrect tooltips?), font scaling does not seem right) but generally works fine.",
+    "os": "Ubuntu 16.04.5 LTS",
+    "protonVersion": "Default",
+    "ram": "8 GB",
+    "rating": "Silver",
+    "timestamp": 1540417649,
+    "title": "80 Days",
+    "tweaks": {
+      "disableD3d11": true
+    }
+  }
+]

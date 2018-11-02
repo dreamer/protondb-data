@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "302590",
+    "title": "Of Guards And Thieves",
+    "timestamp": 1535162421,
+    "rating": "Silver",
+    "notes": "The only issue I encounter was when I wanted to quit the game, the game stop responding and I was forced to kill the process via command line",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-8600K / 1080ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "302590",
+    "title": "Of Guards and Thieves",
+    "timestamp": 1535164850,
+    "rating": "Platinum",
+    "notes": "Stable 60 fps, able to join and play matches",
+    "os": "Manjaro (4.18.3-1 Cinnamon 3.8.8)",
+    "gpuDriver": "NVIDIA 396.51-1",
+    "specs": "i5-3570K / GTX 970",
+    "protonVersion": "Default"
+  }
+]

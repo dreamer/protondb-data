@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "4520",
+    "title": "Full Spectrum Warrior",
+    "timestamp": 1534809600,
+    "rating": "Platinum",
+    "notes": "No noticeable issues",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7 4790k / GTX 1080 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "4520",
+    "title": "Full Spectrum Warrior",
+    "timestamp": 1535121113,
+    "rating": "Platinum",
+    "notes": "Loading or saving games takes some time, but works",
+    "os": "openSuse leap 15 64-bit Kernel default",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "-",
+    "protonVersion": "Default"
+  }
+]

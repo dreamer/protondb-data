@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "351640",
+    "title": "Eternal Senia",
+    "timestamp": 1535467146,
+    "rating": "Silver",
+    "notes": "The fonts seems a bit problematic. Steam Overlay only works after using Alt+Enter (bad practice on this case). The advice to not use Alt+Enter to go fullscreen is even more important on Linux (the correct way is to use F5 or F6), as there is significant graphic corruption with many parts of the screen blinking when pressing F12, but it's required at least once to enable Steam Overlay. Noticed some frame reduction against King Smile boss. Played with controller and it worked properly.",
+    "os": "Xubuntu 18.04.1 64-bit (Kernel 4.17.18)",
+    "gpuDriver": "Mesa 18.3.0-devel (git-9de34b4dde)",
+    "specs": "i3-6100U / Intel HD 520",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "351640",
+    "cpu": "i7-4770K CPU @ 3.50GHz",
+    "gpu": "GeForce GTX 770/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.5-200.fc28.x86_64",
+    "notes": "Perfectly playable. Pressing F5 to go fullscreen does not work, but Alt+Enter does it.",
+    "os": "\"Fedora release 28 (Twenty Eight)\" (64-bitowy)",
+    "protonVersion": "3.7-6",
+    "ram": "15980 MB",
+    "rating": "Gold",
+    "timestamp": 1536934299,
+    "title": "Eternal Senia"
+  }
+]

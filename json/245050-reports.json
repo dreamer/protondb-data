@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "245050",
+    "title": "SpellForce 2 - Demons of the Past",
+    "timestamp": 1535644569,
+    "rating": "Gold",
+    "notes": "Good performance without highest graphics options",
+    "os": "Kubuntu 18.04.1 (Kernel 4.15)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4790K / GTX 970",
+    "protonVersion": "Default"
+  }
+]

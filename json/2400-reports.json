@@ -1,0 +1,39 @@
+[
+  {
+    "appId": "2400",
+    "title": "The Ship",
+    "timestamp": 1535594927,
+    "rating": "Gold",
+    "notes": "Once had purple wall textures, simply restarted and it fixed. ",
+    "os": "Solus OS 3.99..",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i5-4460 /Radeon RX 560",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "2400",
+    "title": "The Ship: Murder Party",
+    "timestamp": 1536149054,
+    "rating": "Borked",
+    "notes": "Fails to run (can be fixed by applying virtual desktop), when you load arcade mode it complains about missing auth module and crashes",
+    "os": "Debian 9 (4.9.0-8-amd64)",
+    "gpuDriver": "NVIDIA 340.106",
+    "specs": "E 8400/GT 8500 512Mb",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "2400",
+    "cpu": "AMD Ryzen 5 1600 Six-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.15.0-34-generic",
+    "notes": "it launched in a borderless window in one corner of the screen for several seconds, and then went properly fullscreen. I didn't need to manually turn on virtual desktop. I got an authentication error when trying to load arcade mode, and it made the game crash. When I tried to join a game, it was unable to communicate with the server and wouldn't populate the list. When I tried to host my game, nothing at all seemed to happen.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "32175 Mb",
+    "rating": "Bronze",
+    "timestamp": 1538102168,
+    "title": "The Ship: Murder Party"
+  }
+]

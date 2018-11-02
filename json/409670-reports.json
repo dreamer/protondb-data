@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "409670",
+    "title": "Pink Hour",
+    "timestamp": 1536253670,
+    "rating": "Platinum",
+    "notes": "Works perfectly",
+    "os": "Arch linux 64-bit",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "1600x/rx480",
+    "protonVersion": "Default"
+  }
+]

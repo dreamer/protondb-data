@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "336150",
+    "title": "Virtual Pool 4",
+    "timestamp": 1535214250,
+    "rating": "Platinum",
+    "notes": "Starts in windowed mode, but fullscreen works flawlessly",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-7600K / 1080ti",
+    "protonVersion": "Default"
+  }
+]

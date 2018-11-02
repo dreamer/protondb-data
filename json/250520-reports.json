@@ -1,0 +1,50 @@
+[
+  {
+    "appId": "250520",
+    "title": "Underrail",
+    "timestamp": 1534936699,
+    "rating": "Borked",
+    "notes": "Will not start",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-980X / NVIDIA GTX 1080 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "250520",
+    "title": "Underrail",
+    "timestamp": 1534940587,
+    "rating": "Borked",
+    "notes": "Doesn't start",
+    "os": "Debian unstable",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i5-7400 / NVIDIA GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "250520",
+    "title": "Underrail",
+    "timestamp": 1535722651,
+    "rating": "Borked",
+    "notes": "Doesn't start",
+    "os": "Debian unstable",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-7400 / NVIDIA GTX 1070",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "250520",
+    "cpu": "Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 520 (Skylake GT2) x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.2.2",
+    "kernel": "4.18.12-arch1-1-ARCH",
+    "notes": "requires manual installation of dotnet452 and xna40 (see https://steamcommunity.com/app/250520/discussions/0/2747650363465250646/ on tutorial)",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "19940 Mb",
+    "rating": "Gold",
+    "timestamp": 1539530258,
+    "title": "UnderRail"
+  }
+]

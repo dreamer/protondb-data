@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "486720",
+    "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54.06",
+    "kernel": "4.18.12-1-ck-skylake",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "32073 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538865279,
+    "title": "Bastard Bonds"
+  }
+]

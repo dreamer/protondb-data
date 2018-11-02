@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "233310",
+    "title": "Avadon 2: The Corruption",
+    "timestamp": 1535388752,
+    "rating": "Platinum",
+    "notes": "Runs Great",
+    "os": "Ubuntu 16.04 64-bit (Kernel 4.4.0)",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "i7-2620m/intel sandybridge mobile",
+    "protonVersion": "Default"
+  }
+]

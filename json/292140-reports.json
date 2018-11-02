@@ -1,0 +1,40 @@
+[
+  {
+    "appId": "292140",
+    "title": "Final Fantasy XIII-2",
+    "timestamp": 1535250081,
+    "rating": "Bronze",
+    "notes": "the game did not run well on windows so it will not run well now ...\nA waste of time to try it.\nthe performance is worse",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i3-8100",
+    "protonVersion": "and Default"
+  },
+  {
+    "appId": "292140",
+    "cpu": "i7-4910MQ CPU @ 2.90GHz",
+    "gpu": "GeForce GTX 860M/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.24.02",
+    "notes": "Does not start - probably similar to FF XIII",
+    "os": "Ubuntu 17.10 (64 bit)",
+    "protonVersion": "Default",
+    "rating": "Borked",
+    "timestamp": "1536364800",
+    "title": "FINAL FANTASY\u00ae XIII-2"
+  },
+  {
+    "appId": "292140",
+    "cpu": "AMD Ryzen Threadripper 1900X 8-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 410.57",
+    "kernel": "4.19.0-1-MANJARO",
+    "notes": "The game requires a lib that only works in 32-bit prefixes, which proton currently does not support. ",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "Beta (3.16-1)",
+    "ram": "48164 Mb",
+    "rating": "Borked",
+    "timestamp": 1539715234,
+    "title": "FINAL FANTASY\u00ae XIII-2"
+  }
+]

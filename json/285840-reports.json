@@ -1,0 +1,35 @@
+[
+  {
+    "appId": "285840",
+    "title": "Enemy Mind",
+    "timestamp": 1535305862,
+    "rating": "Silver",
+    "notes": "The game starts and runs but it lags randomly. The audio is also slightly screwed up",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i5 6600k / RX 470",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "285840",
+    "title": "Enemy Mind",
+    "timestamp": 1536147007,
+    "rating": "Borked",
+    "notes": "Just a black screen",
+    "os": "Arch 64-bit (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4790K / GTX 1080",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "285840",
+    "title": "Enemy Mind",
+    "timestamp": 1536155731,
+    "rating": "Silver",
+    "notes": "Noticable performance drop, lower than Windows. Controls get laggy if you press them a bit long, pretty frustrating. Other things are fine.",
+    "os": "Ubuntu 18.04.1 LTS 64-bit (Kernel 4.15.0-34)",
+    "gpuDriver": "Mesa 18.3.0 devel",
+    "specs": "Intel Pentium N3540 / Intel HD Graphics",
+    "protonVersion": "3.7-3"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "appId": "323460",
+    "title": "Raiden IV: Overkill",
+    "timestamp": 1534896000,
+    "rating": "Silver",
+    "notes": "Everything works, except when Xbox One controller is plugged in (through USB) keeps pulling direction up. Some have reported same problem on Win.",
+    "os": "Elementary OS 5.0",
+    "gpuDriver": "Mesa 18.3.0-devel padoka",
+    "specs": "TR 1900x / RX 56",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "323460",
+    "cpu": "i5-3570K CPU @ 3.40GHz",
+    "gpu": "GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "notes": "Everything seems to work. XBOX One Controller keeps inputting UP (keyboard works tho).",
+    "os": "Solus (64 bit)",
+    "protonVersion": "3.7-5 Beta",
+    "rating": "Silver",
+    "timestamp": "1536364800",
+    "title": "Raiden IV: OverKill"
+  },
+  {
+    "appId": "323460",
+    "cpu": "i7-4900MQ CPU @ 2.80GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Haswell Mobile x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.1.6",
+    "kernel": "4.17.17-87.current",
+    "notes": "Works great on Solus, can't confirm controller-issue though. ",
+    "os": "\"Solus\" (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "15467 Mb",
+    "rating": "Gold",
+    "timestamp": 1536747308,
+    "title": "Raiden IV: OverKill"
+  },
+  {
+    "appId": "323460",
+    "cpu": "Intel Core i5-8350U @ 1.70GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "Intel UHD 620 (Kabylake GT2)",
+    "gpuDriver": "3.0 Mesa 18.2.3 - padoka PPA",
+    "kernel": "4.15.0-38-generic",
+    "notes": "As as others have reported, works for the most part except Xbox controllers keeps inputting up. I've tried a generic USB joystick and don't have the same problem.",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Default",
+    "ram": "16 GB",
+    "rating": "Silver",
+    "timestamp": 1540866104,
+    "title": "Raiden IV: OverKill"
+  }
+]

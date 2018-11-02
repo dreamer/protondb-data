@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "331650",
+    "title": "Carmageddon TDR 2000",
+    "timestamp": 1535460817,
+    "rating": "Borked",
+    "notes": "Gives an error EXCEPTION Access Violation with some RAM entries",
+    "os": "Antergos",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-6800K / GTX 1080",
+    "protonVersion": "Default"
+  }
+]

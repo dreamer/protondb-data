@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "394600",
+    "title": "Mighty Gunvolt",
+    "timestamp": 1535058711,
+    "rating": "Platinum",
+    "notes": "Runs, just don't know why anyone would play it.  :-D",
+    "os": "Fedora 28",
+    "gpuDriver": "Mesa 18.0.5-3",
+    "specs": "i5-3690k",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "394600",
+    "title": "Mighty Gunvolt",
+    "timestamp": 1535073381,
+    "rating": "Silver",
+    "notes": "Perhaps some odd behavior in the button binding screen, but otherwise flawless.",
+    "os": "Ubuntu 18.04.1 LTS (Kernel 4.15.0-32-generic)",
+    "gpuDriver": "NVIDIA-driver-390",
+    "specs": "Intel i7-4470K (3.5GHz x 8) / GeForce GTX 760",
+    "protonVersion": "Default"
+  }
+]

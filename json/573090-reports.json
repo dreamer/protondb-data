@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "573090",
+    "title": "Stormworks: Build and Rescue ",
+    "timestamp": 1535950138,
+    "rating": "Gold",
+    "notes": "Knowing this game is still in Early Access it runs perfect compared to Windows edition. Sometimes crashes, multiplayer sometimes laggy. Most of the times I would say it's the same as Windows",
+    "os": "Ubuntu 18.04 LTS 64-bit (kernel 4.15)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "X5460 @3.35Ghz / GTX 1060 3GB",
+    "protonVersion": "3-7-5"
+  },
+  {
+    "appId": "573090",
+    "cpu": "AMD FX(tm)-6300 Six-Core Processor",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 960/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "os": "Linux Mint 18.3 Sylvia (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16061 Mb",
+    "rating": "Platinum",
+    "timestamp": 1539076626,
+    "title": "Stormworks: Build and Rescue"
+  }
+]

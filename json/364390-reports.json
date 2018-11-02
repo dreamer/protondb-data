@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "364390",
+    "title": "Downfall",
+    "timestamp": 1534896000,
+    "rating": "Borked",
+    "notes": "Just nothing happened",
+    "os": "Antergos",
+    "gpuDriver": "Intel",
+    "specs": "Celeron N3350 / Intel HD 500",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "364390",
+    "cpu": "AMD Ryzen Threadripper 1900X 8-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "X.Org Radeon RX Vega (VEGA10, DRM 3.27.0, 4.19.0-041900rc6-generic, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.19.0-041900rc6-generic",
+    "notes": "Game won't start, nothing happens",
+    "os": "elementary OS 5.0 Juno (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "15960 Mb",
+    "rating": "Borked",
+    "timestamp": 1539188099,
+    "title": "Downfall"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "appId": "703840",
+    "title": "Animal Super Squad",
+    "timestamp": 1535447021,
+    "rating": "Borked",
+    "notes": "\"DX11 feature level 10.0 is required to run the engine.\"",
+    "os": "Manjaro Stable 64-bit (Kernel 4.14.66-1)",
+    "gpuDriver": "NVIDIA 396.54-2",
+    "specs": "i5-7300HQ / GTX 1050",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "703840",
+    "cpu": "Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 960/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.18.5-90.current",
+    "notes": "Runs completely flawless out of the box",
+    "os": "\"Solus\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "16002 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537811227,
+    "title": "Animal Super Squad"
+  },
+  {
+    "appId": "703840",
+    "cpu": "Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 960/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.0-8-generic",
+    "os": "Ubuntu Cosmic Cuttlefish (development branch) (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "16001 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538744223,
+    "title": "Animal Super Squad"
+  }
+]

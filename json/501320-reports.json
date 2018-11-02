@@ -1,0 +1,38 @@
+[
+  {
+    "appId": "501320",
+    "title": "The Shrouded Isle",
+    "timestamp": 1534932646,
+    "rating": "Borked",
+    "notes": "Works fine with standard Wine installation",
+    "os": "Ubuntu Mate 16.04",
+    "gpuDriver": "?",
+    "specs": "i7-7500U / Intel 5916",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "501320",
+    "title": "The Shrouded Isle",
+    "timestamp": 1535904985,
+    "rating": "Borked",
+    "notes": "crashes upon start (haven't checked on workarounds)",
+    "os": "Mint 18.1 Cinnamon 64-bit (kernel 4.4)",
+    "gpuDriver": "Intel HD graphics",
+    "specs": "Intel Core i3-3110M @  2.4GHz x 2",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "501320",
+    "cpu": "i7-4790K CPU @ 4.00GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.7-arch1-1-ARCH",
+    "notes": "No issues",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "15985 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536786147,
+    "title": "The Shrouded Isle"
+  }
+]

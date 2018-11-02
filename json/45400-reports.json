@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "45400",
+    "title": "Fortix",
+    "timestamp": 1534928155,
+    "rating": "Gold",
+    "notes": "",
+    "os": "Ubuntu",
+    "gpuDriver": "Padoka PPA ?",
+    "specs": "Intel i5/Ivy Bridge",
+    "protonVersion": "Default"
+  }
+]

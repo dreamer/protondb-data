@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "23300",
+    "title": "Yosumin!",
+    "timestamp": 1535769783,
+    "rating": "Borked",
+    "notes": "Text is replaced by colored boxes",
+    "os": "openSUSE Tumbleweed 64-bit (Kernel 4.18.5-1-default)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i5 3550 / RX580 4GB",
+    "protonVersion": "3.7-5"
+  }
+]

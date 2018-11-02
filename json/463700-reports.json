@@ -1,0 +1,31 @@
+[
+  {
+    "appId": "463700",
+    "cpu": "i5-4590 CPU @ 3.30GHz",
+    "gpu": "GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Fully playable with good performance and Xbox controller functionality. Ambient wind noise seems overly loud and sometimes drowns out dialog; possibly a bug.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "24010 Mb",
+    "rating": "Gold",
+    "timestamp": 1536983967,
+    "title": "Super Cloudbuilt"
+  },
+  {
+    "appId": "463700",
+    "cpu": "Intel Core i5-4590 @ 3.30GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA GeForce GTX 970",
+    "gpuDriver": "NVIDIA 396.54.09",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Game has audio issues that typically require installing xact to the prefix via winetricks, but doing so will cause the game to crash on startup. Playable otherwise.",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "24 GB",
+    "rating": "Silver",
+    "timestamp": 1540386242,
+    "title": "Super Cloudbuilt"
+  }
+]

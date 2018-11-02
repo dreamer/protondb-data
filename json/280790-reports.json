@@ -1,0 +1,143 @@
+[
+  {
+    "appId": "280790",
+    "title": "Creativerse",
+    "timestamp": 1535068674,
+    "rating": "Platinum",
+    "notes": "Performs really well, no errors so far.",
+    "os": "ArchLinux 64-bit (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "AMD FX(tm)-8320",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "280790",
+    "title": "Creativerse",
+    "timestamp": 1535123884,
+    "rating": "Borked",
+    "notes": "wrong ELF class: ELFCLASS32",
+    "os": "Manjaro Stable 64-bit 4.17.17-1",
+    "gpuDriver": "Mesa 18.1.6 Radeon RX/480/",
+    "specs": "i5-7500",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "280790",
+    "title": "Creativerse",
+    "timestamp": 1535136877,
+    "rating": "Platinum",
+    "notes": "not one single issue this game should be whitelisted",
+    "os": "ubuntu 18.04 (kernel 4.15.0-33-generic)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 2600 / GTX 1050 ti 4GB",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "280790",
+    "title": "Creativerse",
+    "timestamp": 1535173710,
+    "rating": "Platinum",
+    "notes": "Worked really great",
+    "os": "Manjaro stable 64-bit",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "GTX 770M",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "280790",
+    "title": "Creativerse",
+    "timestamp": 1535901488,
+    "rating": "Platinum",
+    "notes": "After some Updates it works very well, highest perfomance",
+    "os": "Manjaro Stable 64-bit 4.18.5-1",
+    "gpuDriver": "AMD Radeon RX 480 Graphics, Mesa 18.1.7 ",
+    "specs": "Intel Core i5-7500",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "280790",
+    "cpu": "Intel(R) Pentium(R) CPU  N3540  @ 2.16GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Bay Trail x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.1.5",
+    "notes": "Crashes at start. Error log says something about DirectX11 failed to start, but steam installed DirectX9 so i guess that is the problem.",
+    "os": "Ubuntu Cosmic Cuttlefish (development branch) (64 bit)",
+    "protonVersion": "3.7-3",
+    "rating": "Borked",
+    "timestamp": "1536364800",
+    "title": "Creativerse"
+  },
+  {
+    "appId": "280790",
+    "cpu": "Intel(R) Pentium(R) CPU  N3540  @ 2.16GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Bay Trail x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.1.5",
+    "kernel": "4.18.0-7-generic",
+    "notes": "Put \"PROTON_USE_WINED3D11=1 %command%\" without the quotes to the games launch options. It runs perfectly, but performance was lower than i expected it to be.",
+    "os": "Ubuntu Cosmic Cuttlefish (development branch) (64 bit)",
+    "protonVersion": "3.7-3",
+    "ram": "3831 Mb",
+    "rating": "Gold",
+    "timestamp": 1536591734,
+    "title": "Creativerse"
+  },
+  {
+    "appId": "280790",
+    "cpu": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Works perfectly with PROTON_USE_WINED3D11=1 %command%",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15972 Mb",
+    "rating": "Gold",
+    "timestamp": 1537824831,
+    "title": "Creativerse"
+  },
+  {
+    "appId": "280790",
+    "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 620 (Kaby Lake GT2) x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.15.0-34-generic",
+    "notes": "setting 'PROTON_USE_WINED3D11=1 %command% ' in game properties in steam works ",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7874 Mb",
+    "rating": "Gold",
+    "timestamp": 1537878790,
+    "title": "Creativerse"
+  },
+  {
+    "appId": "280790",
+    "cpu": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+    "duration": "severalHours",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Haswell x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.15.0-36-generic",
+    "os": "KDE neon User Edition 5.13 (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "15901 Mb",
+    "rating": "Gold",
+    "timestamp": 1538773851,
+    "tweaks": {
+      "useWineD3d11": true
+    },
+    "title": "Creativerse"
+  },
+  {
+    "appId": "280790",
+    "cpu": "Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz",
+    "duration": "moreThanTenHours",
+    "gpu": "NVIDIA Corporation GeForce GTX 1050 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-36-generic",
+    "notes": "No tweaks, as I was unaware of them.  Only issues are Scratchy audio (music/sound fx/etc.) and unable to see the text in the Help menu or for \"Apply\" \"Reset to Default\" in the Settings.  Every once in a while I lose my mouse when trying to exit the game.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15988 Mb",
+    "rating": "Silver",
+    "timestamp": 1539702949,
+    "title": "Creativerse"
+  }
+]

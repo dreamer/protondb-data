@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "622170",
+    "title": "Offensive Combat: Redux!",
+    "timestamp": 1535196611,
+    "rating": "Silver",
+    "notes": "Game runs but doesn't connect to server.",
+    "os": "Arch Linux 64-bit (Kernel 4.18.5)",
+    "gpuDriver": "mesa-git 18.3.0_devel.104104.de57926dc9",
+    "specs": "Ryzen 7 1700 / RX480",
+    "protonVersion": "Default"
+  }
+]

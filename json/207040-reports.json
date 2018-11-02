@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "207040",
+    "title": "Sine Mora",
+    "timestamp": 1535544628,
+    "rating": "Borked",
+    "notes": "Black screen",
+    "os": "Debian 9.4 (Kernel 4.9.0-6-amd64)",
+    "gpuDriver": "NVIDIA 375.82",
+    "specs": "AMD Ryzen 7 2700x / GTX 1050",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "207040",
+    "cpu": "AMD FX(tm)-8320 Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.8-arch1-1-ARCH",
+    "notes": "Black screen. You hear sounds, you seem to be able to \"play\" but don't see anything.",
+    "os": "Linux 4.x (64 Bit)",
+    "protonVersion": "3.7-6",
+    "ram": "16068 MB",
+    "rating": "Borked",
+    "timestamp": 1537444844,
+    "title": "Sine Mora"
+  }
+]

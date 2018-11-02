@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "486290",
+    "title": "Waddle Home",
+    "timestamp": 1535027807,
+    "rating": "Borked",
+    "notes": "just crashes before boot",
+    "os": "Antergos",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 7 1700x/RX 480",
+    "protonVersion": "Default"
+  }
+]

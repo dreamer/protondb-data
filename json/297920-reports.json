@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "297920",
+    "title": "Space Colony",
+    "timestamp": 1535870310,
+    "rating": "Borked",
+    "notes": "Took three tries to install the dependencies and then silently failed to start",
+    "os": "Linux Mint 19 64 Bit (Kernel 4.15)",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "I5-7400 / GTX 1050Ti",
+    "protonVersion": "Default"
+  }
+]

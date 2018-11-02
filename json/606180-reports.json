@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "606180",
+    "title": "Vive Video",
+    "timestamp": 1535195718,
+    "rating": "Borked",
+    "notes": "just dont start",
+    "os": "Arch (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-4790K / GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "606180",
+    "title": "Vive Video",
+    "timestamp": 1535199017,
+    "rating": "Gold",
+    "notes": "Works after restart of Steam ",
+    "os": "Arch (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4790K / GTX 1070",
+    "protonVersion": "Default"
+  }
+]

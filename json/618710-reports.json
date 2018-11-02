@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "618710",
+    "title": "Elminage ORIGINAL - Priestess of Darkness and The Ring of the Gods\n",
+    "timestamp": 1534963088,
+    "rating": "Borked",
+    "notes": "Game freezes after opening logo. Crashes shortly after with this error: \"MovieError pins 80040218\"",
+    "os": "Ubuntu 18.04 LTS",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "specs": "I5-4690k/R9 280",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "appId": "333210",
+    "cpu": "AMD Ryzen 5 1600X Six-Core Processor",
+    "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+    "gpuDriver": "4.5.0 NVIDIA 384.130",
+    "notes": "",
+    "os": "Linux Mint 18.3 Sylvia (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "rating": "Platinum",
+    "timestamp": "1536364800",
+    "title": "Kaiju-A-GoGo"
+  },
+  {
+    "appId": "333210",
+    "cpu": "i7-4790K CPU @ 4.00GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "notes": "No issues observed",
+    "os": "Arch Linux (64 bit)",
+    "protonVersion": "3.7-5",
+    "rating": "Platinum",
+    "timestamp": "1536364800",
+    "title": "Kaiju-A-GoGo"
+  }
+]

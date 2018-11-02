@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "295110",
+    "cpu": "Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "X.Org Radeon RX 580 Series (POLARIS10, DRM 3.26.0, 4.18.14-arch1-1-ARCH, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel (git-797e34f658)",
+    "kernel": "4.18.14-arch1-1-ARCH",
+    "notes": "Daybreak logo screen shows, but the game closes afterwards after some time",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "Beta (3.16-1)",
+    "ram": "15990 Mb",
+    "rating": "Borked",
+    "timestamp": 1539630492,
+    "title": "Just Survive"
+  }
+]

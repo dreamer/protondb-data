@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "113420",
+    "title": "Fallen Earth",
+    "timestamp": 1534949133,
+    "rating": "Borked",
+    "notes": "Fallen Earth Updater crash on start",
+    "os": "Arch Linux 64-bit (Kernel 4.18.4)",
+    "gpuDriver": "Mesa-git 104270.aa79cc2bc8-1",
+    "specs": "i5-4690k / RX 580",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "113420",
+    "title": "Fallen Earth",
+    "timestamp": 1535017348,
+    "rating": "Borked",
+    "notes": "Fallen Earth Updater crashes on start into the window for error submission.",
+    "os": "Ubuntu 18.04 64-bit (Kernel 4.15.0)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "AMD FX-6100 / GTX 960 4GB",
+    "protonVersion": "Default"
+  }
+]

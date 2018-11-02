@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "2840",
+    "title": "X: Beyond the Frontier",
+    "timestamp": 1535199546,
+    "rating": "Bronze",
+    "notes": "Options might need an alt+tab to get focus (click on it wont work)",
+    "os": "Ubuntu 18.04 64-bit (Kernel 4.4.0)",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "i5-3570K / GTX 680",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "2840",
+    "title": "X: Beyond the Frontier",
+    "timestamp": 1536238658,
+    "rating": "Gold",
+    "notes": "Options Menu sometimes need alt-tab and should run with 4:3 resolution",
+    "os": "Archlinux 640bit (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Xeon X5670 / GTX 1060",
+    "protonVersion": "3.7.5"
+  }
+]

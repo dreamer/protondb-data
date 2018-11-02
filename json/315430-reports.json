@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "315430",
+    "title": "Polarity",
+    "timestamp": 1535568343,
+    "rating": "Borked",
+    "notes": "Does'nt start, instant crashing",
+    "os": "Archlinux 64-bit 4.18.4-arch1-1-ARCH",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "Intel Xeon E3-1231v3 | AMD Radeon R9 290",
+    "protonVersion": "3.7-4"
+  }
+]

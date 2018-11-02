@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "610180",
+    "title": "The Jackbox Party Pack 4",
+    "timestamp": 1535491925,
+    "rating": "Platinum",
+    "notes": "No issues",
+    "os": "Ubuntu 18.04.1 (Kernel 4.15.0-33)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Intel Xeon E5 / NVIDIA GTX 1070",
+    "protonVersion": "Default"
+  }
+]

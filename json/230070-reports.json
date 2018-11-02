@@ -1,0 +1,72 @@
+[
+  {
+    "appId": "230070",
+    "title": "The Age of Decadence",
+    "timestamp": 1534809600,
+    "rating": "Bronze",
+    "notes": "Stuttering on camera panning regardless of settings",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-3470 / GT 1030",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "230070",
+    "title": "The Age of Decadence",
+    "timestamp": 1534896000,
+    "rating": "Platinum",
+    "notes": "Everything works perfect. Fullscreen/window/alt-tab, battles, dialogues, music etc. ",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "Mesa 18.3.0",
+    "specs": "I5 3570k/AMD HD 7870/8GB ram",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "230070",
+    "title": "The Age of Decadence",
+    "timestamp": 1534942007,
+    "rating": "Platinum",
+    "notes": "Seems to work perfectly with highest graphics settings (tested only shortly)",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-950 / NVIDIA GTX 970",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "230070",
+    "title": "The Age of Decadence",
+    "timestamp": 1535571166,
+    "rating": "Platinum",
+    "notes": "Everything working as expected",
+    "os": "Opensuse Tumbleweed (Kernel 4.17.13)",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i7-7700K / Quadro K620",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "230070",
+    "cpu": "AMD FX(tm)-6300 Six-Core Processor",
+    "gpu": "GeForce GT 630/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.77",
+    "kernel": "4.17.0-0.bpo.3-amd64",
+    "os": "Debian GNU/Linux 9.5 (stretch) (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "7945 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536931131,
+    "title": "The Age of Decadence"
+  },
+  {
+    "appId": "230070",
+    "cpu": "AMD Ryzen 7 1700X Eight-Core Processor",
+    "gpu": "X.Org Radeon RX 580 Series (POLARIS10, DRM 3.27.0, 4.19.0-041900rc4-generic, LLVM 6.0.0)",
+    "gpuDriver": "3.1 Mesa 18.1.7 - padoka PPA",
+    "kernel": "4.19.0-041900rc4-generic",
+    "os": "Pop!_OS 18.04 LTS (64 bit)",
+    "protonVersion": "3.7.6",
+    "ram": "16033 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537217470,
+    "title": "The Age of Decadence"
+  }
+]

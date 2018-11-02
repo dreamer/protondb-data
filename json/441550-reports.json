@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "441550",
+    "title": "STAR WARS\u2122 Rebellion",
+    "timestamp": 1534957917,
+    "rating": "Silver",
+    "notes": "Occasional minor sound stutter",
+    "os": "Linux Mint 18.3 64-bit",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "i5-3570 / GTX 970",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "441550",
+    "cpu": "AMD A8-3870 APU with Radeon(tm) HD Graphics",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTS 450/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Game works fine and without any issues. Just after some time it minimizes. Can be restored afterwards but just appears as a small window with the original solution. Other than that all good. ",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15515 Mb",
+    "rating": "Silver",
+    "timestamp": 1539215334,
+    "title": "STAR WARS\u2122 Rebellion"
+  }
+]

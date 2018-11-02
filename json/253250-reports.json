@@ -1,0 +1,75 @@
+[
+  {
+    "appId": "253250",
+    "title": "Batman Arkham City",
+    "timestamp": 1536470695,
+    "rating": "Silver",
+    "notes": "WINEPREFIX=\"/mnt/sdb1/Games/steamapps/compatdata/200260/pfx\" WINEARCH=win64 wine winecfg\n\nand change from windows 7 to winxp\ufeff\n\nbefore rename the setup Folder in Main Folder to SetupDisabled for .net bug",
+    "os": "Debian 4.17.0-3-amd64",
+    "gpuDriver": "NVIDIA 396.45",
+    "specs": "2700k 1070oc",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "253250",
+    "title": "Batman: Arkham City GOTY",
+    "timestamp": 1536494160,
+    "rating": "Gold",
+    "notes": "Performance: Runs ok. Not so smooth as running on Windows directly, but it's playable\n\nWorkaround: Game wasn't opening. Crashed with this message:\n\nSystem.InvalidTimeZoneException: Exception of type 'System.InvalidTimeZoneException' was thrown.\nat System.TimeZoneInfo.FromRegistryKey (System.String id, Microsoft.Win32.RegistryKey key) [0x00014] in <773ec02b42f74a918ccd74911c8063c9>:0\n\nSearching on web, discovered that removing /etc/localtime symlink (which in my case points to ../usr/share/zoneinfo/America/Sao_Paulo) solves the issue and the game opens",
+    "os": "Ubuntu 18.04.1 LTS (Kernel 4.15.0-33-generic)",
+    "gpuDriver": "Mesa 18.3.0-devel - padoka PPA",
+    "specs": "A10 5800K / Radeon 7660D",
+    "protonVersion": "3.7"
+  },
+  {
+    "appId": "253250",
+    "title": "Stonehearth",
+    "timestamp": 1535453993,
+    "rating": "Borked",
+    "notes": "Game opens but gets stuck during initial logo. Music runs in the background",
+    "os": "Archlinux (Kernel 4.18.4)",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "i7 4770s / r9 285",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "253250",
+    "cpu": "AMD Ryzen 5 1600X Six-Core Processor",
+    "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+    "gpuDriver": "4.5.0 NVIDIA 384.130",
+    "notes": "Game opens but gets stuck during initial logo. Music runs in the background",
+    "os": "Linux Mint 18.3 Sylvia (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "rating": "Bronze",
+    "timestamp": "1536364800",
+    "title": "Stonehearth"
+  },
+  {
+    "appId": "253250",
+    "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Everything works. didn't use to work with version of proton lower than 3.7.6",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "3.7.6 beta",
+    "ram": "15979 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537108632,
+    "title": "Stonehearth"
+  },
+  {
+    "appId": "253250",
+    "cpu": "AMD FX(tm)-6300 Six-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 960/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Runs perfect nothing needed to be done.",
+    "os": "Linux Mint 18.3 Sylvia (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16061 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537725089,
+    "title": "Stonehearth"
+  }
+]

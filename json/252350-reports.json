@@ -1,0 +1,82 @@
+[
+  {
+    "appId": "252350",
+    "title": "Double Dragon Neon",
+    "timestamp": 1534896000,
+    "rating": "Platinum",
+    "notes": "",
+    "os": "Debian Stretch",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4490K / GTX 1080ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "252350",
+    "title": "Double Dragon: Neon",
+    "timestamp": 1535577507,
+    "rating": "Borked",
+    "notes": "Requires \"PROTON_NO_ESYNC=1 %command%\" to run. Game crashes randomly usually within a few minutes of gameplay.",
+    "os": "Elementary OS 5.0 b1 (Kernel 4.15.0)",
+    "gpuDriver": "Mesa 18.3.0-devel padoka",
+    "specs": "TR 1900X / RX 56 Nano",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "252350",
+    "cpu": "i7-6700HQ CPU @ 2.60GHz",
+    "gpu": "GeForce GTX 950M/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.4.0-134-generic",
+    "notes": "Occasional FPS drops, otherwise seems fine including controller support.  Played through first stage.",
+    "os": "Ubuntu 16.04.5 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7841 Mb",
+    "rating": "Platinum",
+    "timestamp": "1536345378",
+    "title": "Double Dragon: Neon"
+  },
+  {
+    "appId": "252350",
+    "cpu": "AMD FX(tm)-6300 Six-Core Processor",
+    "gpu": "X.Org AMD Radeon (TM) RX 460 Graphics (POLARIS11, DRM 3.23.0, 4.15.0-34-generic, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.15.0-34-generic",
+    "notes": "runs fine",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "7958 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537296192,
+    "title": "Double Dragon: Neon"
+  },
+  {
+    "appId": "252350",
+    "cpu": "AMD A10-9600P RADEON R5, 10 COMPUTE CORES 4C+6G",
+    "duration": "moreThanTenHours",
+    "gpu": "X.Org AMD CARRIZO (DRM 3.23.0, 4.15.0-36-generic, LLVM 7.0.0)",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.1 - padoka PPA",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Good performance, Game settings: vsync enable good",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15550 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538719427,
+    "title": "Double Dragon: Neon"
+  },
+  {
+    "appId": "252350",
+    "cpu": "AMD A10-9600P RADEON R5, 10 COMPUTE CORES 4C+6G",
+    "duration": "moreThanTenHours",
+    "gpu": "X.Org AMD CARRIZO (DRM 3.26.0, 4.18.0-9-generic, LLVM 7.0.0)",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.2",
+    "kernel": "4.18.0-9-generic",
+    "notes": "Game Controller: Work\nGame Native Settings: vsync enable",
+    "os": "Ubuntu Cosmic Cuttlefish (development branch) (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15550 Mb",
+    "rating": "Platinum",
+    "timestamp": 1539389648,
+    "title": "Double Dragon: Neon"
+  }
+]

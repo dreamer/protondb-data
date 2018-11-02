@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "420570",
+    "title": "Cubixx HD",
+    "timestamp": 1535363911,
+    "rating": "Borked",
+    "notes": "Just doesn't start (no error messages or blackscreen)",
+    "os": "Mint 18.1 Cinnamon 64-bit (kernel 4.4)",
+    "gpuDriver": "Intel HD graphics",
+    "specs": "Intel Core i3-3110M @  2.4GHz x 2",
+    "protonVersion": "Default"
+  }
+]

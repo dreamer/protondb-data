@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "33520",
+    "title": "Tropico",
+    "timestamp": 1534959796,
+    "rating": "Silver",
+    "notes": "The game runs well in Fullscreen mode, no issues with Bink Video. Although attempting to switch to \"Hardware acceleration\" in the Settings results in the game telling you of a missing DirectX 7 Driver.",
+    "os": "Arch Linux (Kernel 4.18.3-arch1-1-ARCH)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "AMD FX 4100 / Radeon RX 560",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "33520",
+    "cpu": "Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz",
+    "gpu": "GeForce 8500 GT/PCIe/SSE2",
+    "gpuDriver": "3.3.0 NVIDIA 340.106",
+    "kernel": "4.9.0-8-amd64",
+    "notes": "works like native. ",
+    "os": "Debian GNU/Linux 9.5 (stretch) (64 bit)",
+    "protonVersion": "3-7-6",
+    "ram": "5715 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536989171,
+    "title": "Tropico Reloaded"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "appId": "438140",
+    "title": "Star Realms",
+    "timestamp": 1534809600,
+    "rating": "Platinum",
+    "notes": "",
+    "os": "Debian Testing",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i5-4690 / GTX 660OC",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "438140",
+    "title": "Star Realms",
+    "timestamp": 1535453408,
+    "rating": "Platinum",
+    "notes": "Flawless",
+    "os": "Ubuntu 18.04.1 LTS (Kernel 4.15.0)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-6900K",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "438140",
+    "cpu": "i7-2640M CPU @ 2.80GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Sandybridge Mobile x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.1.7",
+    "kernel": "4.16.0-2-amd64",
+    "notes": "appears to throw an error:\n\nFailed to initialize graphics.\nMake sure you have DirectX 11 installed, have up to date\ndrivers for your graphics card and have not disabled\n3D acceleration in display settings.\nInitializeEngineGraphics failed\n\nclick OK. then it dies.",
+    "os": "Debian GNU/Linux testing (buster) (64 bit)",
+    "protonVersion": "Default",
+    "ram": "11889 Mb",
+    "rating": "Borked",
+    "timestamp": 1536720262,
+    "title": "Star Realms"
+  },
+  {
+    "appId": "438140",
+    "cpu": "AMD FX(tm)-8320 Eight-Core Processor",
+    "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15988 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536933640,
+    "title": "Star Realms"
+  },
+  {
+    "appId": "438140",
+    "cpu": "Intel Core i7-4510U @ 2.00GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA GeForce GTX 750 Ti",
+    "gpuDriver": "NVIDIA 396.54",
+    "kernel": "4.18.0-10-generic",
+    "notes": "Played a campaign game and against the AI without any issues. Took a bit long to find anyone online so online multiplayer was not tested.",
+    "os": "Ubuntu 18.10",
+    "protonVersion": "Beta (3.7-8)",
+    "ram": "8 GB",
+    "rating": "Platinum",
+    "timestamp": 1540665722,
+    "title": "Star Realms"
+  }
+]

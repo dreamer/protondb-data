@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "371670",
+    "title": "Rolling Sun",
+    "timestamp": 1534896000,
+    "rating": "Borked",
+    "notes": "Doens't startup at all, a message pop up and it says:\"failed to recognize gpu\", if you click okay the game failes to initialize the \"starting\" screen",
+    "os": "Antergos",
+    "gpuDriver": "?",
+    "specs": "?",
+    "protonVersion": "Default"
+  }
+]

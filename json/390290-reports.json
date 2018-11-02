@@ -1,0 +1,54 @@
+[
+  {
+    "appId": "390290",
+    "title": "Bulb Boy",
+    "timestamp": 1535214211,
+    "rating": "Platinum",
+    "notes": "Flawless",
+    "os": "Fedora 28 64-bit",
+    "gpuDriver": "NVIDIA 396.45",
+    "specs": "i7-4770 / NVIDIA GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "390290",
+    "title": "Bulb Boy",
+    "timestamp": 1535449002,
+    "rating": "Platinum",
+    "notes": "No issues observed",
+    "os": "Antergos",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-2600 / GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "390290",
+    "cpu": "i3-6006U CPU @ 2.00GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 520 (Skylake GT2) x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Game Crashed with Errormessage: BulbBoy.exe caused an Access Violation (0xc0000005)",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-3",
+    "ram": "7894 Mb",
+    "rating": "Borked",
+    "timestamp": 1536849654,
+    "title": "Bulb Boy"
+  },
+  {
+    "appId": "390290",
+    "cpu": "Intel(R) Core(TM) i7-4712HQ CPU @ 2.30GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Haswell Mobile x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Tested with discrete NVidia card, works flawlessly as far as I tested (GTX 750M with 390 series driver).  Tested with integrated Intel GPU (see sys info) and it crashes on every start.  Not sure what to rate that as... I guess switching graphics cards is a tweak.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Beta (3.16-1)",
+    "ram": "15956 Mb",
+    "rating": "Gold",
+    "systemInfoNotes": "Optimus graphics with GTX 750M (390 series driver).",
+    "timestamp": 1539644819,
+    "title": "Bulb Boy"
+  }
+]

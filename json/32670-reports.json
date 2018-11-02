@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "32670",
+    "title": "Delta Force: Black Hawk Down",
+    "timestamp": 1535227636,
+    "rating": "Borked",
+    "notes": "Gives error \"Application load error 5:0000065434\" at launch.",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-6600 / GTX 1060",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "32670",
+    "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Gives Steam Error \"Application load error 5:0000065434\" then exits.",
+    "os": "Linux Mint 18.3 Sylvia (64 bit)",
+    "protonVersion": "Beta (3.16-1)",
+    "ram": "32113 Mb",
+    "rating": "Borked",
+    "timestamp": 1539669039,
+    "title": "Delta Force: Black Hawk Down"
+  }
+]

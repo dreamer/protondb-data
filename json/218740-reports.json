@@ -1,0 +1,42 @@
+[
+  {
+    "appId": "218740",
+    "title": "Pid",
+    "timestamp": 1535346159,
+    "rating": "Platinum",
+    "notes": "Perfect",
+    "os": "KDE Neon",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-4670k / GTX 770",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "218740",
+    "cpu": "AMD FX(tm)-6300 Six-Core Processor",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 1050 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Runs fine. Keyboard controls work. Have not tried a controller. ",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "11957 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538195108,
+    "title": "Pid"
+  },
+  {
+    "appId": "218740",
+    "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+    "duration": "severalHours",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060 with Max-Q Design/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.9-arch1-1-ARCH",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "7842 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538433375,
+    "title": "Pid"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "342300",
+    "cpu": "AMD Ryzen 7 1700 Eight-Core Processor",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.18.5-1-default",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "16052 Mb",
+    "rating": "Borked",
+    "systemInfoNotes": "OS: OpenSUSE Tumbleweed",
+    "timestamp": 1536684860,
+    "title": "Zombie Kill of the Week - Reborn"
+  }
+]

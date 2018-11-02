@@ -1,0 +1,94 @@
+[
+  {
+    "appId": "333600",
+    "title": "NEKOPARA Vol. 1",
+    "timestamp": 1534945503,
+    "rating": "Gold",
+    "notes": "Font issues. Workaround: add LC_ALL=ja_JP.UTF-8 %command% as a launch option.",
+    "os": "Solus",
+    "gpuDriver": "NVIDIA 390.77 / Mesa 18.1.6",
+    "specs": "FX-6300 / NVIDIA GTX 960 4GB",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "333600",
+    "title": "NEKOPARA Vol. 1",
+    "timestamp": 1535030169,
+    "rating": "Borked",
+    "notes": "Very poor performance, sounds do not work at all",
+    "os": "Arch Linux 4.18.1-arch1-1-ARCH",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "GTX 1060",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "333600",
+    "title": "NEKOPARA Vol. 1",
+    "timestamp": 1535089080,
+    "rating": "Silver",
+    "notes": "Stable at 60FPS. Cut scene videos do not work (with Wine only, I had to install codecs - still no idea how to do that with Steam Play). LC_ALL=ja_JP.UTF-8 %command% to fix font.",
+    "os": "KDE neon 5.13 / Ubuntu 16.04 LTS (Kernel 4.15)",
+    "gpuDriver": "Mesa 18.3",
+    "specs": "i7-6700HQ",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "333600",
+    "title": "NEKOPARA Vol. 1",
+    "timestamp": 1535264446,
+    "rating": "Platinum",
+    "notes": "Stable 60 FPS, requires enabling advanced options to stop computer from overheating.",
+    "os": "Arch Linux 4.18.1-arch1-1-ARCH",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-6700 / GTX 1080 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "333600",
+    "title": "NEKOPARA Vol. 1",
+    "timestamp": 1535422797,
+    "rating": "Silver",
+    "notes": "Japanese font is missing. LC_ALL=ja_JP.UTF-8 %command% doesnt help :<",
+    "os": "4.18.5-arch1-1-ARCH",
+    "gpuDriver": "flatpak 1.0.0, NVIDIA-dkms 396.54-2, mesa 18.1.7-1, xorg-server 1.20.1-1",
+    "specs": "i5-6600 / gtx 1060 3gb",
+    "protonVersion": "3.7-3"
+  },
+  {
+    "appId": "333600",
+    "title": "Nekopara Vol. 1",
+    "timestamp": 1535707440,
+    "rating": "Platinum",
+    "notes": "very good",
+    "os": "Manjaro Stable 64-bit (Kernel 4.18.3)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Mesa DRI Intel(R) HD Graphics 620 (Kaby Lake GT2)",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "333600",
+    "title": "NEKOPARA Vol. 1",
+    "timestamp": 1536171574,
+    "rating": "Silver",
+    "notes": "English works, japan need tweaks, fullscreen not working",
+    "os": "Fedora 28 64-bit (Kernel 17.12.19)",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "Ryzen 2700X / Vega 56",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "333600",
+    "cpu": "Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz",
+    "duration": "severalHours",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-36-generic",
+    "notes": "needs ja_JP.UTF-8 locale for japanese font (as others have noted), otherwise works flawlessly",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7866 Mb",
+    "rating": "Gold",
+    "timestamp": 1538879726,
+    "title": "NEKOPARA Vol. 1"
+  }
+]

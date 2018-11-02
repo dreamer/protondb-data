@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "275510",
+    "title": "Z Steel Soldiers",
+    "timestamp": 1535740784,
+    "rating": "Silver",
+    "notes": "Menus look great. Tutorial works but graphics are grey with some corruption. ",
+    "os": "Ubuntu 18.04.1 64-bit(Kernel 4.15.0-33)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-7400 / GTX 1080",
+    "protonVersion": "3.7-5"
+  }
+]

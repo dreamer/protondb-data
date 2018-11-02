@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "611020",
+    "cpu": "AMD Athlon(tm) X4 880K Quad Core Processor",
+    "duration": "severalHours",
+    "gpu": "X.Org Radeon RX 580 Series (POLARIS10, DRM 3.26.0, 4.18.0-12.1-liquorix-amd64, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.18.0-12.1-liquorix-amd64",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "7914 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538867729,
+    "title": "CityBattle | Virtual Earth"
+  }
+]

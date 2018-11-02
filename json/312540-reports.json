@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "312540",
+    "title": "Ys VI: The Ark of Napishtim",
+    "timestamp": 1534896000,
+    "rating": "Platinum",
+    "notes": "Got up to the first galba boss with no issues, runs at full speed. ",
+    "os": "Debian Sid",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 7 2700x / RX 580",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "appId": "417880",
+    "title": "Everybody's Gone to the Rapture",
+    "timestamp": 1536260473,
+    "rating": "Silver",
+    "notes": "Small graphics glitches, after changing tasks: small sound distortions.",
+    "os": "Ubuntu 18.04  64-bit (Kernel 4.15.0-34-generic)",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "AMD Ryzen 5 1600 Six-Core",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "417880",
+    "cpu": "AMD Ryzen 7 1700X Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-34-generic",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16056 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537566412,
+    "title": "Everybody's Gone to the Rapture"
+  }
+]

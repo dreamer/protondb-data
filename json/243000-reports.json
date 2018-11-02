@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "243000",
+    "title": "Omikron - The Nomad Soul",
+    "timestamp": 1535231739,
+    "rating": "Borked",
+    "notes": "Works but at extremely low frame rates",
+    "os": "Arch Linux 64 Bit (4.18.3-arch1-1-ARCH)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-7700K / GTX 970",
+    "protonVersion": "Default"
+  }
+]

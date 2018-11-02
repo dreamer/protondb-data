@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "345390",
+    "title": "King's Quest",
+    "timestamp": 1534943155,
+    "rating": "Borked",
+    "notes": "Will not launch at all",
+    "os": "Kubuntu",
+    "gpuDriver": "Mesa 18.3.0-devel - padoka PPA",
+    "specs": "Ryzen 5 1600 / AMD RX560",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "345390",
+    "cpu": "i7-7700HQ CPU @ 2.80GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 630 (Kaby Lake GT2) x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.15.0-20-generic",
+    "notes": "wont launch ",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "default",
+    "ram": "15899 Mb",
+    "rating": "Borked",
+    "timestamp": 1536763859,
+    "title": "King's Quest"
+  }
+]

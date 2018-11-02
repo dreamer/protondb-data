@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "224740",
+    "cpu": "Intel i7-6700K",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "Vega 64",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "kernel": "4.18.12-300.fc29.x86_64",
+    "notes": "Steam incorrectly downloads a broken Linux version that's unlisted in the store.",
+    "os": "Linux 4.x",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "32GB",
+    "rating": "Borked",
+    "timestamp": 1540519989,
+    "title": "Clockwork Empires"
+  }
+]

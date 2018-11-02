@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "551770",
+    "title": "ECHO",
+    "timestamp": 1535001573,
+    "rating": "Borked",
+    "notes": "The graphics are perfect, runs just as well as on Windows 10, but the audio is completely broken, the settings have no effect at all, sounds that should be quiet hums or footsteps are extremely loud, while speech and music seems to be fine.",
+    "os": "ArchLinux 64-bit (Kernel 4.18.3)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "FX-8320 / R9 380",
+    "protonVersion": "Default"
+  }
+]

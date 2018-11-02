@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "506140",
+    "title": "Shop Heroes",
+    "timestamp": 1535062636,
+    "rating": "Platinum",
+    "notes": "Works as expected.",
+    "os": "Linux Mint 18.3 Cin 64-bit (K:4.15.0)",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "GeForce GTX 750 Ti",
+    "protonVersion": "Default"
+  }
+]

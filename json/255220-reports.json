@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "255220",
+    "title": "GRID Autosport",
+    "timestamp": 1535257816,
+    "rating": "Borked",
+    "notes": "Crashes on game logo after startup.",
+    "os": "Ubuntu 18.04 (4.15)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-6700K / GTX 1080",
+    "protonVersion": "3.7-3"
+  }
+]

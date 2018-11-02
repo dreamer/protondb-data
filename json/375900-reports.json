@@ -1,0 +1,36 @@
+[
+  {
+    "appId": "375900",
+    "title": "Trackmania Turbo",
+    "timestamp": 1535383299,
+    "rating": "Borked",
+    "notes": "The game requires Uplay. Uplay crashes on start.",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-3570",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "375900",
+    "title": "Trackmania\u00ae Turbo",
+    "timestamp": 1536174877,
+    "rating": "Borked",
+    "notes": "Uplay not working",
+    "os": "Fedora 28 64-bit (Kernel 17.12.19)",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "Ryzen 2700X / Vega 56",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "375900",
+    "cpu": "i5-6600K CPU @ 3.50GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "notes": "Uplay crashes",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "rating": "Borked",
+    "timestamp": "1536451200",
+    "title": "Trackmania\u00ae Turbo"
+  }
+]

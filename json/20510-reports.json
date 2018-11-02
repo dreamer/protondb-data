@@ -1,0 +1,90 @@
+[
+  {
+    "appId": "20510",
+    "title": "S.T.A.L.K.E.R.: Clear Sky",
+    "timestamp": 1534896000,
+    "rating": "Borked",
+    "notes": "Splash Screen appears, then the game closes.",
+    "os": "elementary OS 0.4.1 Loki",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "FX-6100 / GTX 1050",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "20510",
+    "title": "S.T.A.L.K.E.R.: Clear Sky",
+    "timestamp": 1535059305,
+    "rating": "Platinum",
+    "notes": "Runs great, no errors, fullscreen 1080p and savegame ok",
+    "os": "Debian 64-bit Unstable (4.17.0-1-amd64)",
+    "gpuDriver": "NVIDIA 396.45-1",
+    "specs": "Intel(R) Pentium(R) CPU G850 @ 2.90GHz",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "20510",
+    "title": "S.T.A.L.K.E.R.: Clear Sky",
+    "timestamp": 1535505257,
+    "rating": "Borked",
+    "notes": "Part of the error - xrRenderDX10\\dx10HW.cpp",
+    "os": "Manjaro Stable 64-bit (Kernel 4.17.18-1)",
+    "gpuDriver": "X.Org AMD CYPRESS",
+    "specs": "i7 - K 875",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "20510",
+    "title": "S.T.A.L.K.E.R.: Clear Sky",
+    "timestamp": 1535979302,
+    "rating": "Platinum",
+    "notes": "Runs perfectly smooth, but setting video settings to maximum might be an overkill.",
+    "os": "Arch Linux 64bit (kernel: 4.18.5-arch1-1-ARCH)",
+    "gpuDriver": "NVIDIA 396.54-2",
+    "specs": "i7-7700HQ / 1050 4GB",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "20510",
+    "cpu": "i7 CPU       K 875  @ 2.93GHz",
+    "gpu": "X.Org AMD CYPRESS (DRM 2.50.0 / 4.17.19-1-MANJARO, LLVM 6.0.1)",
+    "gpuDriver": "3.1 Mesa 18.1.8",
+    "kernel": "4.17.19-1-MANJARO",
+    "notes": "Add this to the launch options: PROTON_USE_WINED3D11=1 %command%\nAfter that it runs with no issue.",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7976 Mb",
+    "rating": "Gold",
+    "timestamp": 1536998644,
+    "title": "S.T.A.L.K.E.R.: Clear Sky"
+  },
+  {
+    "appId": "20510",
+    "cpu": "AMD A10-7850K Radeon R7, 12 Compute Cores 4C+8G",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "AMD Radeon RX 460",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.3",
+    "kernel": "4.18.16-arch1-1-ARCH",
+    "notes": "Error: Cannot find file z:/media/games/steamlibrary/steamapps/common/STALKER Clear Sky/gamedata/configs/system.ltx \nReinstalling applications may fix the problem.",
+    "os": "Arch Linux",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "16 GB",
+    "rating": "Borked",
+    "timestamp": 1540691967,
+    "title": "S.T.A.L.K.E.R.: Clear Sky"
+  },
+  {
+    "appId": "20510",
+    "cpu": "AMD A10-7850K Radeon R7, 12 Compute Cores 4C+8G",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "AMD Radeon RX 460",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.3",
+    "kernel": "4.18.16-arch1-1-ARCH",
+    "notes": "Error: Cannot find file z:/media/games/steamlibrary/steamapps/common/STALKER Clear Sky/gamedata/configs/system.ltx Reinstalling applications may fix the problem.",
+    "os": "Arch Linux",
+    "protonVersion": "Beta (3.7-8)",
+    "ram": "16 GB",
+    "rating": "Borked",
+    "timestamp": 1540759154,
+    "title": "S.T.A.L.K.E.R.: Clear Sky"
+  }
+]

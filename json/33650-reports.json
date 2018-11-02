@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "33650",
+    "title": "Puzzler World",
+    "timestamp": 1534968529,
+    "rating": "Borked",
+    "notes": "Video won't show (just shows my desktop), but intro sound will play. Then nothing; had to kill process from terminal.",
+    "os": "Ubuntu 18.04 LTS",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "specs": "I5-4690k/R9 280",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "33650",
+    "title": "Puzzler World",
+    "timestamp": 1535137713,
+    "rating": "Borked",
+    "notes": "Black screen, only sound is working",
+    "os": "Arch Linux 64-bit (Kernel 4.18.4)",
+    "gpuDriver": "Mesa 18.3.0-devel (git-e345247092)",
+    "specs": "i5-4690k / RX 580",
+    "protonVersion": "Default"
+  }
+]

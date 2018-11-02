@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "401910",
+    "title": "Darknet",
+    "timestamp": 1535002748,
+    "rating": "Gold",
+    "notes": "Non-VR mode tested only",
+    "os": "OpenSuSE/Leap 15.0",
+    "gpuDriver": "NVIDIA 390.67",
+    "specs": "Ryzen 5 1600/GTX 1050ti",
+    "protonVersion": "Default"
+  }
+]

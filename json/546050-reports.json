@@ -1,0 +1,77 @@
+[
+  {
+    "appId": "546050",
+    "title": "Puyo Puyo\u2122Tetris\u00ae",
+    "timestamp": 1534809600,
+    "rating": "Silver",
+    "notes": "No music.",
+    "os": "ArchLinux",
+    "specs": "?",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "546050",
+    "title": "Puyo Puyo\u2122Tetris\u00ae",
+    "timestamp": 1535374620,
+    "rating": "Silver",
+    "notes": "no music, after some playing time, the game freeze",
+    "os": "Ubuntu 18.04.1 LTS 64-bit (Kernel 4.15.0-33-generic)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-6300HQ / GTX 960M",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "546050",
+    "title": "Puyo Puyo\u2122Tetris\u00ae",
+    "timestamp": 1536155096,
+    "rating": "Bronze",
+    "notes": "No sounds, crashes mid-game",
+    "os": "Ubuntu 18.04 64-bit  (kernel 4.15.0-33-generic)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-7700 / GTX 1050-Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "546050",
+    "cpu": "i5-4210U CPU @ 1.70GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Haswell Mobile x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Everything was tested. Audio does not work without installing xact via winetricks and setting xaudio2_7 as Native under winecfg.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7",
+    "ram": "7857 Mb",
+    "rating": "Gold",
+    "timestamp": 1536714374,
+    "title": "Puyo Puyo\u2122Tetris\u00ae"
+  },
+  {
+    "appId": "546050",
+    "cpu": "AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx",
+    "gpu": "X.Org AMD RAVEN (DRM 3.26.0, 4.18.7-arch1-1-ARCH, LLVM 6.0.1)",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.0",
+    "kernel": "4.18.7-arch1-1-ARCH",
+    "notes": "Won't start -- presents modal dialog complaining that \"The server is not reachable, check your Internet connection and hit Retry\". Repeats this process when you hit Retry.",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "Default",
+    "ram": "14997 Mb",
+    "rating": "Borked",
+    "timestamp": 1537137619,
+    "title": "Puyo Puyo\u2122Tetris\u00ae"
+  },
+  {
+    "appId": "546050",
+    "cpu": "Intel Core i7-4790K @ 4.00GHz",
+    "duration": "severalHours",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti",
+    "gpuDriver": "NVIDIA 396.54.09",
+    "kernel": "4.15.0-38-generic",
+    "notes": "winetricks xact + winecfg xaudio2_7 native, music then works and it seems to fix the crashing also.",
+    "os": "KDE neon User Edition 5.14",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "16 GB",
+    "rating": "Gold",
+    "timestamp": 1540753585,
+    "title": "Puyo Puyo\u2122Tetris\u00ae"
+  }
+]

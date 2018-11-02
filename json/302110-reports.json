@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "302110",
+    "title": "Small Town Terrors Pilgrim's Hook Collector's Edition",
+    "timestamp": 1535405835,
+    "rating": "Borked",
+    "notes": "Shows as Running for a few seconds, then stops without opening.",
+    "os": "Ubuntu 17.10 64-bit",
+    "gpuDriver": "NVIDIA 340.104",
+    "specs": "AMD Athlon X2 5000+ / GeForce 8500 GT",
+    "protonVersion": "Default"
+  }
+]

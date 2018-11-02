@@ -1,0 +1,35 @@
+[
+  {
+    "appId": "345240",
+    "title": "Grand Theft Auto V",
+    "timestamp": 1536402760,
+    "rating": "Gold",
+    "notes": "Follow the dxvk config explained in other posts but as of september 8 you also need to disable esync, your launch options should look like following:\nDXVK_CONFIG_FILE=/home/user/gta_dxvk.conf PROTON_NO_ESYNC=1 %command%",
+    "os": "Manjaro latest",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5 3570k gtx 970",
+    "protonVersion": "3.7.6"
+  },
+  {
+    "appId": "345240",
+    "title": "SHOGUN: Total War - Collection",
+    "timestamp": 1535530545,
+    "rating": "Borked",
+    "notes": "A totally blank launcher screen; after leaving it the game crashed",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "Mesa 18.3-devel",
+    "specs": "i5-3210/HD 4000",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "345240",
+    "title": "SHOGUN: Total War\u2122 - Gold Edition",
+    "timestamp": 1535331058,
+    "rating": "Borked",
+    "notes": "Launcher screen is completely blank, but areas are clickable. ",
+    "os": "Arch Linux 64bit (Kernel 4.14)",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "i3-4000M",
+    "protonVersion": "Default"
+  }
+]

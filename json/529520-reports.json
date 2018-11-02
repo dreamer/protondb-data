@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "529520",
+    "title": "Mutant Football League",
+    "timestamp": 1535236280,
+    "rating": "Borked",
+    "notes": "Starts but crashes after a few seconds",
+    "os": "SteamOS",
+    "gpuDriver": "NVIDIA 387.22",
+    "specs": "i5",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "appId": "208480",
+    "title": "Assassin's Creed\u00ae III",
+    "timestamp": 1535022122,
+    "rating": "Borked",
+    "notes": "\"Unable to find the Ubisoft Game Launcher, please re-install Assassin's Creed III.\n\nUbisoft Game Launcher:\nThere was a problem starting your game, the Ubisoft Game Launcher was not found. Please try re-installing the game. Error code is 2.",
+    "os": "Arch Linux (4.18.3-arch1-1-ARCH)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 5 1600 / RX 480",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "208480",
+    "cpu": "AMD Ryzen 5 1600 Six-Core Processor",
+    "gpu": "X.Org Radeon RX 560 Series (POLARIS11, DRM 3.26.0, 4.18.7-1-MANJARO, LLVM 6.0.1)",
+    "gpuDriver": "3.1 Mesa 18.1.8",
+    "kernel": "4.18.7-1-MANJARO",
+    "notes": "Uplay does not show anything but a blank screen then crashes repeatedly. ",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "16056 Mb",
+    "rating": "Borked",
+    "timestamp": 1537020184,
+    "title": "Assassin\u2019s Creed\u00ae III"
+  },
+  {
+    "appId": "208480",
+    "cpu": "AMD Ryzen 5 1600X Six-Core",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA GeForce GTX 980 Ti",
+    "gpuDriver": "NVIDIA 410.73",
+    "kernel": "4.18.0-11-generic",
+    "notes": "Requires a functional Uplay",
+    "os": "Ubuntu 18.10",
+    "protonVersion": "Default",
+    "ram": "16 GB",
+    "rating": "Borked",
+    "timestamp": 1540757887,
+    "title": "Assassin\u2019s Creed\u00ae III"
+  }
+]

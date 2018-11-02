@@ -1,0 +1,39 @@
+[
+  {
+    "appId": "39200",
+    "title": "Dungeon Siege 2",
+    "timestamp": 1535020833,
+    "rating": "Bronze",
+    "notes": "runs but there is a huge black square instead of cursor, main character's head is black, strange cursor behavior",
+    "os": "ubuntu 16.04 64-bit (kernel 4.15.0-32-generic)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "Intel i7-3610QM / nvidia 650m 2gb",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "39200",
+    "title": "Dungeon Siege 2",
+    "timestamp": 1535272139,
+    "rating": "Silver",
+    "notes": "The cursor and the main character's head is black. However the game functions. The mouse cursor being a black box could be distracting enough to make this game Unstable. Depends on how much you want to play",
+    "os": "Arch Linux 64-bit (4.18.4-arch1-1-ARCH)",
+    "gpuDriver": "NVIDIA 396.54-1",
+    "specs": "i7-4790K/GTX 970",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "39200",
+    "cpu": "Intel Core i7-6700K @ 4.00GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA GeForce GTX 980",
+    "gpuDriver": "NVIDIA 390.77",
+    "kernel": "4.15.0-38-generic",
+    "notes": "Black cursor and black hero head was fixed after installing d3dx9 using winetricks. Runtime Config Options did not help.\n\nWINEPREFIX=\"$HOME/.steam/steam/steamapps/compatdata/39200/pfx\" winetricks d3dx9",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "16 GB",
+    "rating": "Gold",
+    "timestamp": 1540405195,
+    "title": "Dungeon Siege II"
+  }
+]

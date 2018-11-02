@@ -1,0 +1,39 @@
+[
+  {
+    "appId": "235360",
+    "title": "Prime World: Defenders",
+    "timestamp": 1535174565,
+    "rating": "Platinum",
+    "notes": "Runs smoothly",
+    "os": "Manjaro (4.18.3-1 Cinnamon 3.8.8)",
+    "gpuDriver": "NVIDIA 396.51-1",
+    "specs": "i5-3570K / GTX 970",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "235360",
+    "title": "Prime World: Defenders",
+    "timestamp": 1535491143,
+    "rating": "Platinum",
+    "notes": "flawless",
+    "os": "Arch Linux Stable 64-bit (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "E3-1230 v2 / GTX 660",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "235360",
+    "cpu": "AMD Phenom(tm) II X4 965 Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1050 Ti/PCIe/SSE2",
+    "gpuDriver": "4.5.0 NVIDIA 384.130",
+    "kernel": "4.13.0-41-generic",
+    "notes": "Very smooth. No issues right from first start.",
+    "os": "Linux Mint 18.3 Sylvia (64 Bit)",
+    "protonVersion": "Default",
+    "ram": "7975 MB",
+    "rating": "Platinum",
+    "timestamp": 1539715652,
+    "title": "Prime World: Defenders"
+  }
+]

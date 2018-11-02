@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "234900",
+    "cpu": "AMD FX-8320 Eight-Core",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA GeForce GTX 760",
+    "gpuDriver": "NVIDIA 410.73",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Upon (attempting to) start, it wants to install Adobe air. That fails because it doesn't accept an administrator password for clearance...",
+    "os": "Linux Mint 19 Tara",
+    "protonVersion": "Default",
+    "ram": "8 GB",
+    "rating": "Borked",
+    "timestamp": 1540925156,
+    "title": "Anodyne"
+  }
+]

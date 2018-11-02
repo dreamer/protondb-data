@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "283840",
+    "title": "ALLTYNEX Second",
+    "timestamp": 1535062390,
+    "rating": "Borked",
+    "notes": "Config screen opens and game window only pops up and closes",
+    "os": "Arch Linux",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 5 1600 / RX 570",
+    "protonVersion": "Default"
+  }
+]

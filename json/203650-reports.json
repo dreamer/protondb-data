@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "203650",
+    "title": "SONIC THE HEDGEHOG 4 Episode II",
+    "timestamp": 1535451770,
+    "rating": "Borked",
+    "notes": "Does not start",
+    "os": "Antergos",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-6800K / GTX 1080",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "203650",
+    "cpu": "AMD FX(tm)-8320 Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.6-arch1-1-ARCH",
+    "notes": "Doesn't start. No error messages.",
+    "os": "Linux 4.x (64 Bit)",
+    "protonVersion": "3.7-6",
+    "ram": "16068 MB",
+    "rating": "Borked",
+    "timestamp": 1537113052,
+    "title": "Sonic the Hedgehog 4 - Episode II"
+  }
+]

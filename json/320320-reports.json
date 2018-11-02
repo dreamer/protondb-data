@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "320320",
+    "title": "Darkstone",
+    "timestamp": 1535884833,
+    "rating": "Borked",
+    "notes": "Opens the window that immediately crashes to desktop ",
+    "os": "LUbuntu 18.04.1 LTS",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i7-4700HQ",
+    "protonVersion": "3.7-5"
+  }
+]

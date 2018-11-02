@@ -1,0 +1,111 @@
+[
+  {
+    "appId": "363440",
+    "title": "Mega Man Legacy Collection",
+    "timestamp": 1535408915,
+    "rating": "Platinum",
+    "notes": "Controller Support works, but Controller needs to be plugged in before starting the game, minor issue, but other than that, It's definitely whitelist worthy.",
+    "os": "Kubuntu 64-bit (Kernel 4.18)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "AMD Ryzen 7 1700x",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "363440",
+    "title": "Mega Man Legacy Collection",
+    "timestamp": 1535768706,
+    "rating": "Platinum",
+    "notes": "Perfect",
+    "os": "Arch Linux Stable x86_64 (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-6700 / GTX 1080",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "363440",
+    "title": "Mega Man Legacy Collection",
+    "timestamp": 1536543807,
+    "rating": "Platinum",
+    "notes": "Working Perfect",
+    "os": "Arch Linux LTS",
+    "gpuDriver": "NVIDIA GeForce GTX 960 4GB",
+    "specs": "Intel i7 920",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "363440",
+    "title": "Mega Man Legacy Collection",
+    "timestamp": 1536544084,
+    "rating": "Bronze",
+    "notes": "The screen was in mirror and in wrong angle",
+    "os": "Arch Linux LTS",
+    "gpuDriver": "NVIDIA GeForce GTX 960 4GB",
+    "specs": "Intel i7 920",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "363440",
+    "title": "Megaman Legacy Collection 1",
+    "timestamp": 1535323645,
+    "rating": "Platinum",
+    "notes": "None",
+    "os": "Linux Mint 19 64-bit (Kernel 4.18.5)",
+    "gpuDriver": "Mesa 18.3.0",
+    "specs": "Ryzen 2700x / Vega 56",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "363440",
+    "cpu": "i7-6700HQ CPU @ 2.60GHz",
+    "gpu": "GeForce GTX 950M/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.4.0-134-generic",
+    "notes": "Perfect, including 360 controller support.",
+    "os": "Ubuntu 16.04.5 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7841 Mb",
+    "rating": "Platinum",
+    "timestamp": "1536344253",
+    "title": "Mega Man Legacy Collection / \u30ed\u30c3\u30af\u30de\u30f3 \u30af\u30e9\u30b7\u30c3\u30af\u30b9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3"
+  },
+  {
+    "appId": "363440",
+    "cpu": "i7-4710MQ CPU @ 2.50GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Haswell Mobile x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.18.4-ext73-58.4-haswell",
+    "notes": "does not start",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7.5 beta",
+    "ram": "7872 Mb",
+    "rating": "Borked",
+    "timestamp": "1536337991",
+    "title": "Mega Man Legacy Collection / \u30ed\u30c3\u30af\u30de\u30f3 \u30af\u30e9\u30b7\u30c3\u30af\u30b9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3"
+  },
+  {
+    "appId": "363440",
+    "cpu": "AMD A10-4600M APU with Radeon(tm) HD Graphics",
+    "gpu": "X.Org AMD ARUBA (DRM 2.50.0",
+    "gpuDriver": "3.1 Mesa 18.1.5",
+    "notes": "Game won't start",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "rating": "Borked",
+    "timestamp": "1536364800",
+    "title": "Mega Man Legacy Collection / \u30ed\u30c3\u30af\u30de\u30f3 \u30af\u30e9\u30b7\u30c3\u30af\u30b9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3"
+  },
+  {
+    "appId": "363440",
+    "cpu": "i7-4790K CPU @ 4.00GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.7-arch1-1-ARCH",
+    "notes": "Even though the steam overlay fps counter says constant 60fps the game feels very laggy at times",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "15985 Mb",
+    "rating": "Silver",
+    "timestamp": 1536689127,
+    "title": "Mega Man Legacy Collection / \u30ed\u30c3\u30af\u30de\u30f3 \u30af\u30e9\u30b7\u30c3\u30af\u30b9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "579180",
+    "cpu": "AMD Ryzen 7 1700 Eight-Core",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA GeForce GTX 1060 6GB",
+    "gpuDriver": "NVIDIA 396.54",
+    "kernel": "4.15.0-38-generic",
+    "notes": "Game started, and ran, but only ran smoothly in fullscreen (except in cutscenes where it ran at 3 fps) and audio is choppy and borked throughout the bits I played.",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Default",
+    "ram": "16 GB",
+    "rating": "Borked",
+    "timestamp": 1540511789,
+    "title": "Ys VIII: Lacrimosa of DANA / \u30a4\u30fc\u30b9VIII-Lacrimosa of DANA-"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "499540",
+    "title": "Wake Up",
+    "timestamp": 1536011478,
+    "rating": "Bronze",
+    "notes": "Audio stuttering.  Abstract visuals so I can't tell if there are missing textures.",
+    "os": " Xubuntu 18.04 64-bit (Kernel 4.15)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-6700K / GTX 980",
+    "protonVersion": "Default"
+  }
+]

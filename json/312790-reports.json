@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "312790",
+    "cpu": "AMD Ryzen 7 2700X Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.15.0-34-generic",
+    "notes": "\"installs\" directX, then launches. Briefly shows Game Cursor, then gets stuck on black screen. Alt-Tabbing revealed an error window: \"prMovie: Open - Unable to connect pins\". Clicking ok on this error closes the game.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "32157 Mb",
+    "rating": "Borked",
+    "timestamp": 1537262066,
+    "title": "Agarest: Generations of War 2"
+  }
+]

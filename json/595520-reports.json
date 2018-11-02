@@ -1,0 +1,65 @@
+[
+  {
+    "appId": "595520",
+    "title": "FINAL FANTASY XII THE ZODIAC AGE",
+    "timestamp": 1534932901,
+    "rating": "Gold",
+    "notes": "Configuration utility won't run from Steam - launch FFXII_TZA_GameSetting.exe via Wine in a terminal in the game's installation directory to configure video settings.",
+    "os": "Linux Mint 19",
+    "gpuDriver": "NVIDIA Driver Version 396.51",
+    "specs": "NVIDIA GTX 970 / Intel Core i7 5820k",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "595520",
+    "title": "FINAL FANTASY XII THE ZODIAC AGE",
+    "timestamp": 1535198107,
+    "rating": "Silver",
+    "notes": "Configuration tool does not load,  Game play is fine, however the game will occassionaly not start when selection Play Final Fantasy XII The Zodiac age.  Restart the game and it will load.  No Xbox one controller support.",
+    "os": "Linux Mint 18.3 (Kernel 4.15.0-33)",
+    "gpuDriver": "Nivida 390.77",
+    "specs": "i5-7600K/GTX 1060 6GB",
+    "protonVersion": ""
+  },
+  {
+    "appId": "595520",
+    "title": "FINAL FANTASY XII THE ZODIAC AGE",
+    "timestamp": 1535457594,
+    "rating": "Gold",
+    "notes": "Configuration Tool doesn't load, but isn't needed as all the options from the Tool (and more) are accessible from in-game.",
+    "os": "Pop!_OS 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-6700HQ / GTX 970m",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "595520",
+    "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+    "duration": "moreThanTenHours",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-36-generic",
+    "notes": "More than 50 hours. Very good performance and also working with xbox one controllers bluetooth and usb",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Beta (3.7-8)",
+    "ram": "15988 Mb",
+    "rating": "Platinum",
+    "timestamp": 1540175900,
+    "title": "FINAL FANTASY XII THE ZODIAC AGE"
+  },
+  {
+    "appId": "595520",
+    "cpu": "Intel Core i7-8750H @ 2.20GHz",
+    "duration": "severalHours",
+    "gpu": "NVIDIA GeForce GTX 1080",
+    "gpuDriver": "NVIDIA 410.73",
+    "kernel": "4.19.0-041900-generic",
+    "notes": "Runs perfectly however if you disable vsync globally you'll need to toggle vsync on in game to cap fps to 60 to prevent hyper-speed.",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "16 GB",
+    "rating": "Platinum",
+    "timestamp": 1540789434,
+    "title": "FINAL FANTASY XII THE ZODIAC AGE"
+  }
+]

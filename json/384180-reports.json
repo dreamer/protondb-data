@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "384180",
+    "cpu": "Intel Core i5-4670K @ 3.40GHz",
+    "duration": "aboutAnHour",
+    "gpu": "AMD Radeon R9 270X",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.3",
+    "kernel": "4.18.16-arch1-1-ARCH",
+    "notes": "Played through the tutorial and a single player match. Briefly joined a Quick Play! match, didn't play a round but it connected fine.",
+    "os": "Linux 4.x (Arch Linux)",
+    "protonVersion": "Default",
+    "ram": "16 GB",
+    "rating": "Platinum",
+    "timestamp": 1540395995,
+    "title": "Prominence Poker"
+  }
+]

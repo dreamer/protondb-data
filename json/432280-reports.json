@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "432280",
+    "title": "BattleStorm",
+    "timestamp": 1535468118,
+    "rating": "Bronze",
+    "notes": "Gameplay is fine, changing resolution didn't do anything though.",
+    "os": "Ubuntu 18.04.1 64-bit (Kernel 4.15.0)",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i5-2400 / GT 730",
+    "protonVersion": "Default"
+  }
+]

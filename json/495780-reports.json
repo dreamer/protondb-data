@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "495780",
+    "title": "Hexoscope",
+    "timestamp": 1535973940,
+    "rating": "Platinum",
+    "notes": "Flawless",
+    "os": "Ubuntu 18.04 (4.15)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-7600 / GTX 1050Ti",
+    "protonVersion": "Default"
+  }
+]

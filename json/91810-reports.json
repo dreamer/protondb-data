@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "91810",
+    "title": "Ancients of Ooga",
+    "timestamp": 1535692271,
+    "rating": "Silver",
+    "notes": "No sound. Everything else works that I can tell.",
+    "os": "ArchLinux Testing (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 7 1700X / GTX 1070",
+    "protonVersion": "Default"
+  }
+]

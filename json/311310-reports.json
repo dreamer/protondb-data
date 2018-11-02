@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "311310",
+    "title": "Naval Action",
+    "timestamp": 1534977200,
+    "rating": "Borked",
+    "notes": "The window that opens is just empty, and eventually a pop-pup says it crashed. There is a crashlogs with several different issues (I think) but I am not skilled to interpret it.",
+    "os": "Solus 3.999",
+    "gpuDriver": "HD 7850, Mesa 18.1.6, radeon drivers",
+    "specs": "i5-3570K",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "311310",
+    "title": "Naval Action",
+    "timestamp": 1536390316,
+    "rating": "Bronze",
+    "notes": "Bad performance, from fluid 60fps down to 10fps",
+    "os": "KDE neon User Edition 5.13 (64 Bit)  Kernel-Version: 4.15.0-33-generic",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-6600K/GTX970",
+    "protonVersion": "steam-runtime--release_2018-06-14,3.7.6"
+  }
+]

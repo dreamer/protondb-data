@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "263100",
+    "title": "9.03m",
+    "timestamp": 1535380206,
+    "rating": "Borked",
+    "notes": "Keeps running first time install each open, don't know.",
+    "os": "Ubuntu 16.04 64-bit (Kernel 4.4.0)",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "i7-2620M",
+    "protonVersion": "Default"
+  }
+]

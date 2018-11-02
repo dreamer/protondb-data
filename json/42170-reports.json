@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "42170",
+    "title": "Krater",
+    "timestamp": 1535380546,
+    "rating": "Gold",
+    "notes": "When you start the game it tries to get HTML information from a server but fails. Just press ok to close the news window and the game works well.",
+    "os": "Ubuntu 16.04.5 (Kernel 4.15.0)",
+    "gpuDriver": "NVIDIA 396.45",
+    "specs": "Intel i5-6300HQ",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "42170",
+    "cpu": "AMD Ryzen 5 2600X Six-Core Processor",
+    "gpu": "X.Org Radeon RX 580 Series (POLARIS10, DRM 3.26.0, 4.18.9-92.current, LLVM 6.0.1)",
+    "gpuDriver": "3.1 Mesa 18.1.6",
+    "kernel": "4.18.9-92.current",
+    "notes": "Freezes during load screen. Proton 3.7-6",
+    "os": "\"Solus\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16052 Mb",
+    "rating": "Borked",
+    "timestamp": 1537811347,
+    "title": "Krater"
+  }
+]

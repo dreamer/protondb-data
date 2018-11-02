@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "537180",
+    "title": "Digimon Masters Online",
+    "timestamp": 1535057488,
+    "rating": "Borked",
+    "notes": "\"HashCode: 13811712\" and \"Translation Needed\" error when trying to start the game (from its own launcher).",
+    "os": "Void Linux 64-bit (Kernel 4.17.17)",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i5-4670K / GTX 770 2GB",
+    "protonVersion": "Default"
+  }
+]

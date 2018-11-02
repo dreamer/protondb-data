@@ -1,0 +1,63 @@
+[
+  {
+    "appId": "571740",
+    "title": "Golf It!",
+    "timestamp": 1534968463,
+    "rating": "Gold",
+    "notes": "Use Vulkan for best performance ",
+    "os": "Arch Linux (4.18.3-arch1-1-ARCH)",
+    "gpuDriver": "Mesa 18.1.6-1",
+    "specs": "FX-8320@4.2GHz / R9 280x",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "571740",
+    "title": "Golf It!",
+    "timestamp": 1535289881,
+    "rating": "Borked",
+    "notes": "Cannot host or join games - When in map editor mode the music was choppy and you could only put in certain directions",
+    "os": "Manjaro Stable 64-bit (Kernel 4.18.4-1)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 7 1700/RX 580",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "571740",
+    "title": "Golf It!",
+    "timestamp": 1535496503,
+    "rating": "Silver",
+    "notes": "Changing graphics settings lower will get 60FPS, but changing resolution will kill your game",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396",
+    "specs": "i5 4670k GTX 1080",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "571740",
+    "cpu": "Intel(R) Xeon(R) CPU E3-1230 v5 @ 3.40GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060 6GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.8-zen1-1-zen",
+    "notes": "Can't host / join a lobby.",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "15989 Mb",
+    "rating": "Borked",
+    "timestamp": 1537460179,
+    "title": "Golf It!"
+  },
+  {
+    "appId": "571740",
+    "cpu": "AMD Ryzen 7 1700 Eight-Core Processor",
+    "gpu": "X.Org Radeon RX 570 Series (POLARIS10, DRM 3.23.0, 4.15.0-34-generic, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.15.0-34-generic",
+    "notes": "As long as you pick (experimental Vulkan) when starting it works perfectly.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "7973 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537776164,
+    "title": "Golf It!"
+  }
+]

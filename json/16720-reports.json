@@ -1,0 +1,52 @@
+[
+  {
+    "appId": "16720",
+    "title": "Velvet Assassin",
+    "timestamp": 1534985205,
+    "rating": "Borked",
+    "notes": "Crashes at startup due to physx error. This is common on windows and resolved with installing Legacy Physx software. Attempted manual install to compatdata's drive_c and appropriate game location. No change. Game has worked in prior versions of wine per info on winehq.",
+    "os": "Ubuntu Mate 18.04 64-bit (Kernel 4.15.0-32)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "GTX 980",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "16720",
+    "title": "Velvet Assassin",
+    "timestamp": 1535315630,
+    "rating": "Borked",
+    "notes": "Steam client doesn't install Nvidia PhysX",
+    "os": "\tLinux Mint 18.03 (Kernel 4.10.0-38-generic )",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "I5-6400 / RX 460",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "16720",
+    "cpu": "AMD FX(tm)-6300 Six-Core Processor",
+    "gpu": "GeForce GT 630/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.77",
+    "kernel": "4.17.0-0.bpo.3-amd64",
+    "notes": "During the first time setup Steam installs Physx twice: first time, version 9.09 from \"redist\" directory (which is fine), second time,  version 9.12  from \"_CommonRedist\" directory (which breaks game).\nEasy solution: remove (or rename) \"_CommonRedist\" in the game's root directory BEFORE launching the game for the first time.\nIf you already launched game and now it crashes due to Physx error, you can remove broken prefix: \"<path_to_steam>/steam/steamapps/compatdata/16720/pfx\".",
+    "os": "Debian GNU/Linux 9.5 (stretch) (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "7945 Mb",
+    "rating": "Gold",
+    "timestamp": 1536854835,
+    "title": "Velvet Assassin"
+  },
+  {
+    "appId": "16720",
+    "cpu": "AMD FX(tm)-6300 Six-Core Processor",
+    "gpu": "X.Org AMD Radeon (TM) RX 470 Graphics (POLARIS10, DRM 3.26.0, 4.18.0-041800-generic, LLVM 6.0.0)",
+    "gpuDriver": "3.1 Mesa 18.1.7 - padoka PPA",
+    "kernel": "4.18.0-041800-generic",
+    "notes": "rename __CommonRedist and set launcher options PROTON_NO_D3D11=1, PROTON_NO_ESYNC=1 %command%, cutscenes black, work with xbox 360 controller wireless ( using xboxdrv)",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "16022 Mb",
+    "rating": "Silver",
+    "timestamp": 1537146354,
+    "title": "Velvet Assassin"
+  }
+]

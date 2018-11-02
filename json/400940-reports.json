@@ -1,0 +1,35 @@
+[
+  {
+    "appId": "400940",
+    "title": "Budget Cuts",
+    "timestamp": 1534809600,
+    "rating": "Silver",
+    "notes": "Required a reboot to start but then worked. Fine when framerate is ok, but asynch reprojection is glitchy. Ran directly off Windows partition. Ran off Budget Cuts beta.",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-6600K / GTX 980 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "400940",
+    "title": "Budget Cuts",
+    "timestamp": 1535201204,
+    "rating": "Borked",
+    "notes": "Enemys and NPCs are not rendered",
+    "os": "Arch (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4790K / GTX  1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "400940",
+    "title": "Budget Cuts",
+    "timestamp": 1535220492,
+    "rating": "Borked",
+    "notes": "Window freezes",
+    "os": "Arch Linux (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.54-1",
+    "specs": "i5-5820k / GTX 970",
+    "protonVersion": "Default"
+  }
+]

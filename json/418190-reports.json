@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "418190",
+    "title": "Helen's Mysterious Castle",
+    "timestamp": 1534947989,
+    "rating": "Platinum",
+    "notes": "works better tha windows",
+    "os": "Lubuntu 18.04",
+    "gpuDriver": "Mesa 18",
+    "specs": "psbdrmfb    onboard celeron",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "418190",
+    "title": "helen's mysterious castle",
+    "timestamp": 1535671696,
+    "rating": "Gold",
+    "notes": "the game no run in full screen but this is an char of the game, the same in windows",
+    "os": "lubuntu 18.04 64 bits gtx 650",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "core2quad q8400",
+    "protonVersion": "3.7.5"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "15310",
+    "title": "The Settlers: Heritage of Kings",
+    "timestamp": 1535263576,
+    "rating": "Platinum",
+    "notes": "Works fine",
+    "os": "Arch Linux 64-bit (Kernel 4.14.66-1-lts)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i7-8550U / Intel UHD 620",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "15310",
+    "cpu": "i5-6600K CPU @ 3.50GHz",
+    "gpu": "GeForce GTX 770",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "It runs better than Windows, but does have minor issues. Graphics settings are locked by default since it doesn't detect modern GPUs correctly, and the maximum resolution is 1600x900. Luckily it displays correctly without changing the resolution due to Steam Play's fullscreen-to-borderless-window scaling.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-3",
+    "ram": "15991 Mb",
+    "rating": "Platinum",
+    "systemInfoNotes": "XFCE",
+    "timestamp": 1536730158,
+    "title": "The Settlers\u00ae: Heritage of Kings"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "21980",
+    "title": "Call of Juarez\u00ae: Bound in Blood",
+    "timestamp": 1536160250,
+    "rating": "Gold",
+    "notes": "Screen resolution auto-detection is broken on first launch, so you need to edit ~/.steam/steam/steamapps/compatdata/21980/pfx/drive_c/users/steamuser/My Documents/Call of Juarez - Bound in Blood/Out/Settings/Video.scr and hardcode your resolution there, ie: Resolution(1920,1080).\nOnce it boots, press enter on the black screen, after dismissing the serial key disclaimer (shift+tab), and the welcome screen will appear. It is Golden from there. It works better than in windows10 (plagued with compatibility issues)\n",
+    "os": "Ubuntu 18.04.1 LTS",
+    "gpuDriver": "NVIDIA 396.54 ",
+    "specs": "i5-2400S/GT1030",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "21980",
+    "cpu": "AMD FX-6300 Six-Core",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA GeForce GTX 750 Ti",
+    "gpuDriver": "NVIDIA 410.66",
+    "kernel": "4.15.0-38-generic",
+    "notes": "There is a black screen if you do not modify the resolution of the game before you start (like someone wrote it here) but after this runs perfectly!!!! Great game!",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Beta (3.7-8)",
+    "ram": "8 GB",
+    "rating": "Gold",
+    "timestamp": 1540841926,
+    "title": "Call of Juarez\u00ae: Bound in Blood"
+  }
+]

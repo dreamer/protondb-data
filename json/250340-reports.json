@@ -1,0 +1,49 @@
+[
+  {
+    "appId": "250340",
+    "title": "Blockland",
+    "timestamp": 1534947781,
+    "rating": "Platinum",
+    "notes": " Runs flawlessly",
+    "os": "Fedora 28 64-bit (Kernel 4.17.14)",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "AMD Athlon X4 760K Quad (4) @ 4.100GHz / GTX 750 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "250340",
+    "title": "Blockland",
+    "timestamp": 1534985808,
+    "rating": "Bronze",
+    "notes": "No sound at all",
+    "os": "Arch Linux (Kernel 4.18.3)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Intel Intergrated Graphics",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "250340",
+    "title": "Blockland",
+    "timestamp": 1535069157,
+    "rating": "Platinum",
+    "notes": "Performance sometimes better than windows",
+    "os": "Debian 9 (stretch) (Kernel 4.9.0)",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "FX-8350 / GTX 1060",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "250340",
+    "cpu": "i5-6600K CPU @ 3.50GHz",
+    "gpu": "GeForce GTX 770",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Works perfectly as far as I can tell.",
+    "os": "Xubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-3",
+    "ram": "15991 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536979906,
+    "title": "Blockland"
+  }
+]

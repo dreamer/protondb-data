@@ -1,0 +1,83 @@
+[
+  {
+    "appId": "424370",
+    "title": "Wolcen: Lords of Mayhem",
+    "timestamp": 1535111640,
+    "rating": "Silver",
+    "notes": "2k res, both medium and high presets give 35-50fps which I think is not that good. Cannot say if it's because the game is alpha version, or if there's a performance hit. Minor glitches with some effect from time to time, but nothing that would make the game unplayable or unenjoyable.",
+    "os": "Arch Linux (Kernel 4.18.4)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 5 1600X / RX 480",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "424370",
+    "title": "Wolcen: Lords of Mayhem",
+    "timestamp": 1535439583,
+    "rating": "Silver",
+    "notes": "in alpha version, run, but can't connect to server (maybe server issues), fps about half windows, and stutter a lot to low-10 most of the time. change resolution/ quality crash the game.",
+    "os": "Antergos 18.1.5",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "i7-5820k / vega 64",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "424370",
+    "cpu": "i7-4790K CPU @ 4.00GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.7-arch1-1-ARCH",
+    "notes": "I had great performance but very long load times",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "15985 Mb",
+    "rating": "Silver",
+    "timestamp": 1536941729,
+    "title": "Wolcen: Lords of Mayhem"
+  },
+  {
+    "appId": "424370",
+    "cpu": "AMD FX-8350 Eight-Core",
+    "duration": "severalHours",
+    "gpu": "Radeon RX 570",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.2",
+    "kernel": "4.18.0-10-generic",
+    "notes": "Just press \"Play\" :)",
+    "os": "Ubuntu 18.10",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "16 GB",
+    "rating": "Platinum",
+    "timestamp": 1540411866,
+    "title": "Wolcen: Lords of Mayhem"
+  },
+  {
+    "appId": "424370",
+    "cpu": "AMD FX-8350 Eight-Core",
+    "duration": "severalHours",
+    "gpu": "Radeon RX 570",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.3",
+    "kernel": "4.18.16-arch1-1-ARCH",
+    "notes": "Arch users must use \"Steam (Runtime)\" and LLVM 7 or newer is required.",
+    "os": "Linux 4.x",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "16 GB",
+    "rating": "Platinum",
+    "timestamp": 1540632320,
+    "title": "Wolcen: Lords of Mayhem"
+  },
+  {
+    "appId": "424370",
+    "cpu": "Intel Core i5-3570K @ 3.40GHz",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA GeForce GTX 1070",
+    "gpuDriver": "NVIDIA 396.54.09",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Worked flawlessly. I had no issues at all.",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "16 GB",
+    "rating": "Platinum",
+    "timestamp": 1540655589,
+    "title": "Wolcen: Lords of Mayhem"
+  }
+]

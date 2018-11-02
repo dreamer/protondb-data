@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "238750",
+    "title": "Might & Magic X - Legacy",
+    "timestamp": 1534955246,
+    "rating": "Borked",
+    "notes": "ERROR: ld.so: object '/home/user/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.",
+    "os": "Manjaro 17.1.12",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-4690K",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "238750",
+    "title": "Might & Magic X - Legacy",
+    "timestamp": 1535642996,
+    "rating": "Borked",
+    "notes": "Launches uPlay login but unable to login to account \"A ubisoft service currently unavailable\"",
+    "os": "Kubuntu 18.04.1 (4.15.0-33)",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "specs": "Ryzen 2700x/Vega 56",
+    "protonVersion": "Default"
+  }
+]

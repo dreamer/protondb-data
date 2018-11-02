@@ -1,0 +1,46 @@
+[
+  {
+    "appId": "3970",
+    "title": "Prey (2006)",
+    "timestamp": 1534809600,
+    "rating": "Platinum",
+    "notes": "No noticeable issues",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-3470 / GT 1030",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "3970",
+    "title": "Prey (2006)",
+    "timestamp": 1534896000,
+    "rating": "Borked",
+    "notes": "The game experiences heavy stuttering multiple times per second. I would not consider playable in this state.",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "Ryzen 7 1700 / GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "3970",
+    "title": "Prey (2006)",
+    "timestamp": 1534940746,
+    "rating": "Silver",
+    "notes": "Some issues with the camera, I can't turn around because has side limits, you can solve this switching to windowed mode..",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-8750H/NVIDIA GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "3970",
+    "title": "Prey (2006)",
+    "timestamp": 1534940754,
+    "rating": "Silver",
+    "notes": "Some issues with the camera, I can't turn around because has side limits, you can solve this switching to windowed mode..",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-8750H/NVIDIA GTX 1070",
+    "protonVersion": "Default"
+  }
+]

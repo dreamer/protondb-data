@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "263400",
+    "title": "War of the Human Tanks",
+    "timestamp": 1535159421,
+    "rating": "Borked",
+    "notes": "WinXP-style application window appears and menu items can be clicked and opened, but all window content/game shows is a black screen. Game installed on NTFS partition.",
+    "os": "openSUSE Tumbleweed 64-bit (Kernel 4.18.0-1)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i5 3550 / RX580 4GB",
+    "protonVersion": "Default"
+  }
+]

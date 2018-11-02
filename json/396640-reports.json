@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "396640",
+    "title": "TowerClimb",
+    "timestamp": 1535508305,
+    "rating": "Borked",
+    "notes": "Immediately opens a runtime error dialog, stating \"Failed to load plugin C:\\users\\steamuser\\Temp\\cap5f47.tmp\\9.csx (126)\". No workarounds known",
+    "os": "Kubuntu 18.04.1 LTS (64 bit) (Kernel 4.15.0-33-generic)",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "specs": "Intel HD 5500",
+    "protonVersion": "Default"
+  }
+]

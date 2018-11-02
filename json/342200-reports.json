@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "342200",
+    "title": "MechWarrior Online",
+    "timestamp": 1534998107,
+    "rating": "Borked",
+    "notes": "The game crashes after the entry splash-screens but before the login screen. Used to work on regular wine-staging but now has the same behavior there.",
+    "os": "Manjaro 17.1.12",
+    "gpuDriver": "Mesa 18.1.6-1",
+    "specs": "i5-3570K / R9 380",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "342200",
+    "title": "MechWarrior Online",
+    "timestamp": 1535402965,
+    "rating": "Borked",
+    "notes": "None.  Black window after loading screen with only mouse coursor.",
+    "os": "Ubuntu 64-bit (Kernel 4.15.33)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "FX 8350",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "279480",
+    "cpu": "Intel(R) Core(TM) i3-3217U CPU @ 1.80GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Ivybridge Mobile x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.2.1",
+    "kernel": "4.15.6-gentoo-20160518",
+    "os": "\"Gentoo Base System release 2.2\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "3384 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538891891,
+    "title": "Abalone"
+  }
+]

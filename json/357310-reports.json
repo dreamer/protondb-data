@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "357310",
+    "cpu": "Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GT 545/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-33-generic",
+    "notes": "Fails to start, no helpful warning message.",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16021 Mb",
+    "rating": "Borked",
+    "timestamp": 1539202314,
+    "title": "Oriental Empires"
+  }
+]

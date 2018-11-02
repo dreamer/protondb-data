@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "205190",
+    "title": "Rocksmith",
+    "timestamp": 1535528662,
+    "rating": "Borked",
+    "notes": "Game runs perfectly. But it does not recognize the Real Tone Cable.",
+    "os": "Arch LInux 64-bit (Kernel 4.18.3)",
+    "gpuDriver": "NVIDIA 396.51-5",
+    "specs": "i7-7740X / GTX 1080",
+    "protonVersion": "Default"
+  }
+]

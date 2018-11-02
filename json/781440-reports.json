@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "781440",
+    "title": "OH MY GOD, LOOK AT THIS KNIGHT",
+    "timestamp": 1535824306,
+    "rating": "Gold",
+    "notes": "It is actually hilarious; the game starts telling the story and then the narrator realizes it's pitch black around him and recommends to install directX, then the game closes. Trying to open the game again starts by installing directX and the game runs great.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i5-4210U / gt820m",
+    "protonVersion": "3.7-5"
+  }
+]

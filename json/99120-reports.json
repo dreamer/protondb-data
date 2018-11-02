@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "99120",
+    "title": "Yar's Revenge",
+    "timestamp": 1534896000,
+    "rating": "Bronze",
+    "notes": "Only works in windowed mode has noticable issues with mouse and some artifacting ",
+    "os": "Linux Mint 18.3",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "GTX 1070",
+    "protonVersion": "Default"
+  }
+]

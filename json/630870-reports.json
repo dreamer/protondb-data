@@ -1,0 +1,25 @@
+[
+  {
+    "appId": "630870",
+    "title": "Chuusotsu! 1st Graduation: Time After Time",
+    "timestamp": 1535618325,
+    "rating": "Borked",
+    "notes": "Crashes as soon as you open the game.",
+    "os": "Arch Linux 64-bit (Kernel 4.18.5-zen)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4770 / GTX 770",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "630870",
+    "cpu": "i7-4770 CPU @ 3.40GHz",
+    "gpu": "GeForce GTX 770/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "notes": "Fullscreen crashes the game and opening doesn't work. Everything else works fine.",
+    "os": "Arch Linux (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "rating": "Silver",
+    "timestamp": "1536364800",
+    "title": "Chuusotsu! 1st Graduation: Time After Time"
+  }
+]

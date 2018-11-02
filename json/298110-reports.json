@@ -1,0 +1,31 @@
+[
+  {
+    "appId": "298110",
+    "cpu": "i5-4670K CPU @ 3.40GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.6-arch1-1-ARCH",
+    "notes": "Fails to install due to Uplay. Otherwise I have a working wine-staging version so should be no prob once Uplay is solved.",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15980 Mb",
+    "rating": "Borked",
+    "timestamp": 1536751094,
+    "title": "Far Cry\u00ae 4"
+  },
+  {
+    "appId": "298110",
+    "cpu": "AMD Ryzen 5 1600X Six-Core",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA GeForce GTX 980 Ti",
+    "gpuDriver": "NVIDIA 410.73",
+    "kernel": "4.18.0-11-generic",
+    "notes": "Requires Uplay",
+    "os": "Ubuntu 18.10",
+    "protonVersion": "Default",
+    "ram": "16 GB",
+    "rating": "Borked",
+    "timestamp": 1540760621,
+    "title": "Far Cry\u00ae 4"
+  }
+]

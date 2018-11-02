@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "505700",
+    "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 970M/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.24",
+    "kernel": "4.15.0-34-generic",
+    "notes": "A little laggy under my specs but 100% playable. Tested on SteamVR standard Vive & controllers.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15851 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538350066,
+    "title": "Anyland"
+  }
+]

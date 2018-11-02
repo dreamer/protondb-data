@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "368950",
+    "title": "Jigoku Kisetsukan: Sense of the Seasons",
+    "timestamp": 1535424799,
+    "rating": "Platinum",
+    "notes": "No problems that I could see.",
+    "os": "Gentoo AMD64 (Kernel 4.18.5)",
+    "gpuDriver": "Mesa git",
+    "specs": "Ryzen 5 1600 / RX 550",
+    "protonVersion": "3.7-4"
+  }
+]

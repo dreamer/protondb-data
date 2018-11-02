@@ -1,0 +1,14 @@
+[
+  {
+    "appId": "314010",
+    "cpu": "i3-3110M CPU @ 2.40GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Ivybridge Mobile x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "notes": "Simply doesn't start (no black screen, error log or anything).",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "3.7-3",
+    "rating": "Borked",
+    "timestamp": "1536451200",
+    "title": "Boid"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "217790",
+    "title": "Dogfight 1942",
+    "timestamp": 1535509642,
+    "rating": "Borked",
+    "notes": "Reason unknown",
+    "os": "Antergos (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-2600 / GTX 1070",
+    "protonVersion": "Default"
+  }
+]

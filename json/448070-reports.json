@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "448070",
+    "cpu": "i3-2100 CPU @ 3.10GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Sandybridge Desktop x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 17.0.7",
+    "kernel": "4.10.0-42-generic",
+    "notes": "Work on linux",
+    "os": "Ubuntu 17.04 (64 bit)",
+    "protonVersion": "no",
+    "ram": "3888 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536688992,
+    "title": "Red Risk"
+  }
+]

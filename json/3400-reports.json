@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "3400",
+    "title": "Hammer Heads Deluxe",
+    "timestamp": 1535308508,
+    "rating": "Platinum",
+    "notes": "Work perfectly",
+    "os": "Manjaro 64-bit (Kernel 4.18.4-1)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 7 1700/RX 580",
+    "protonVersion": "3.7-4"
+  }
+]

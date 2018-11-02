@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "285480",
+    "title": "The Entente Gold",
+    "timestamp": 1535553273,
+    "rating": "Gold",
+    "notes": "needs corefonts installed otherwise text in GUI is not readable. runs well.",
+    "os": "Debian 9",
+    "gpuDriver": "NVIDIA 340.106",
+    "specs": "E 8400/GT 8500 512Mb",
+    "protonVersion": "Default"
+  }
+]

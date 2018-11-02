@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "325420",
+    "cpu": "Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.14.70-1-MANJARO",
+    "notes": "Text rendering is missing entirely",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16006 Mb",
+    "rating": "Borked",
+    "timestamp": 1537467097,
+    "title": "Homebrew - Patent Unknown"
+  }
+]

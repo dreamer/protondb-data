@@ -1,0 +1,82 @@
+[
+  {
+    "appId": "32800",
+    "title": "The Lord of the Rings: War in the North",
+    "timestamp": 1535205827,
+    "rating": "Borked",
+    "notes": "Doesn't boot at all.",
+    "os": "Debian Stretch 64-bit (Kernel 4.9.0-8-amd64)",
+    "gpuDriver": "NVIDIA 390.67",
+    "specs": "i7-7700k/GTX 1060",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "32800",
+    "title": "The Lord of the Rings: War in the North",
+    "timestamp": 1535221336,
+    "rating": "Borked",
+    "notes": "It doesn't show anything",
+    "os": "Ubuntu 16.04 64-bit (Kernel 4.4.0)",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "i5-3570K / GTX 680",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "32800",
+    "cpu": "i7-4770K CPU @ 3.50GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.15.0-34-generic",
+    "notes": "\"Preparing to Launch\" and then it says it's running but I have no video window...?",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15986 Mb",
+    "rating": "Borked",
+    "timestamp": 1536791081,
+    "title": "Lord of the Rings: War in the North"
+  },
+  {
+    "appId": "32800",
+    "cpu": "AMD FX(tm)-8320 Eight-Core Processor",
+    "gpu": "X.Org AMD Radeon (TM) RX 480 Graphics (POLARIS10, DRM 3.23.0, 4.15.0-34-generic, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.15.0-34-generic",
+    "notes": "I tried running it by default and it just does nothing. Tried converting it to DXVK 0.72, does the same thing. Tried adjusting the Wineprefix to Windows xp and windows 7 but still had the same result. ",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "24004 Mb",
+    "rating": "Borked",
+    "timestamp": 1537296676,
+    "title": "Lord of the Rings: War in the North"
+  },
+  {
+    "appId": "32800",
+    "cpu": "Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 650 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 410.57",
+    "kernel": "4.18.9-92.current",
+    "notes": "Tried several winetricks and changing DXVK/WineD3D to no avail. Game won't launch",
+    "os": "\"Solus\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "12032 Mb",
+    "rating": "Borked",
+    "timestamp": 1537995940,
+    "title": "Lord of the Rings: War in the North"
+  },
+  {
+    "appId": "32800",
+    "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060 6GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.14.71-1-MANJARO",
+    "notes": "Does not start at all",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "16006 Mb",
+    "rating": "Borked",
+    "timestamp": 1538296931,
+    "title": "Lord of the Rings: War in the North"
+  }
+]

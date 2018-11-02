@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "316720",
+    "title": "planetarian ~the reverie of a little planet~",
+    "timestamp": 1534953791,
+    "rating": "Platinum",
+    "notes": "Needs compatible font, Sazanami Gothic works well",
+    "os": "Artix 64-bit",
+    "gpuDriver": "\"NVIDIA 396.51",
+    "specs": "Intel(R) Xeon(R) CPU E5640",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "316720",
+    "cpu": "Intel(R) Core(TM) i7-4930K CPU @ 3.40GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA Corporation TITAN V/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Needs an appropriate font - I used the freely available VL Gothic.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "64362 Mb",
+    "rating": "Platinum",
+    "timestamp": 1539045262,
+    "title": "planetarian ~the reverie of a little planet~"
+  }
+]

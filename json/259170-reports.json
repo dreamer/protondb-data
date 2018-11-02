@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "259170",
+    "title": "Alone in the Dark",
+    "timestamp": 1535368076,
+    "rating": "Bronze",
+    "notes": "Pressing keys causes screen to freeze for several seconds, otherwise works",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-4210H / Gtx 960m",
+    "protonVersion": "3.7-4"
+  }
+]

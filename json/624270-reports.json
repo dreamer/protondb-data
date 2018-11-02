@@ -1,0 +1,44 @@
+[
+  {
+    "appId": "624270",
+    "cpu": "i5-4590 CPU @ 3.30GHz",
+    "gpu": "GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "It works so far but there are frame drops, playing on full screen prevents mouse movement on menus and such, messed graphics when entering a pin number to open a cabinet. It crashes when saving and quitting (but thankfully it does save, so it is just an annoyance), and finally when moving the mouse slowly, the mouse cursor will move bottom right direction. There are probably more problems, you could probably finish the whole game this way, but good luck with that.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7926 Mb",
+    "rating": "Bronze",
+    "timestamp": 1536799456,
+    "title": "The Painscreek Killings"
+  },
+  {
+    "appId": "624270",
+    "cpu": "Intel(R) Core(TM) i5-2400S CPU @ 2.50GHz",
+    "gpu": "NVIDIA Corporation GeForce GT 1030/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54.05",
+    "kernel": "4.15.0-34-generic",
+    "notes": "It works, but the performance is questionable, the mouse seems erratic in some environments (although it may have to do with the game's own visual effects) and the game crashes on exit, leaving a full-screen black window",
+    "os": "KDE neon User Edition 5.13 (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "5928 Mb",
+    "rating": "Bronze",
+    "timestamp": 1537472941,
+    "title": "The Painscreek Killings"
+  },
+  {
+    "appId": "624270",
+    "cpu": "AMD Ryzen 7 1700 Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.8-arch1-1-ARCH",
+    "notes": "Some menus bugged (cabinet pin code), mouse can bug out when moving between game window and other windows in multimonitor (causes mouse to spin erratically, fixed by refocusing the game window), after reaching mayor's mansion, game becomes unplayable due to large open area loading in -- fps reduced to a slideshow. Beginning of game is smooth save for some microstutters. Developer has disavowed any plan to release on Linux natively.",
+    "os": "\"Antergos Linux\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "32186 Mb",
+    "rating": "Bronze",
+    "timestamp": 1537626626,
+    "title": "The Painscreek Killings"
+  }
+]

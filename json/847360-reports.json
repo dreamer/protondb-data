@@ -1,0 +1,30 @@
+[
+  {
+    "appId": "847360",
+    "cpu": "AMD FX(tm)-8320 Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 960/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "The main character has no body and  npc characters flash or disappear.  Other than that it runs well.",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "2.7.6 beta",
+    "ram": "16008 Mb",
+    "rating": "Bronze",
+    "timestamp": 1537506286,
+    "title": "Super Lucky's Tale"
+  },
+  {
+    "appId": "847360",
+    "cpu": "AMD FX(tm)-8350 Eight-Core Processor",
+    "gpu": "X.Org AMD Radeon R9 200 Series (HAWAII / DRM 3.26.0 / 4.18.7-200.fc28.x86_64, LLVM 6.0.1)",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.18.7-200.fc28.x86_64",
+    "notes": "very playable (keyboard control, audio settings), minor rendering errors (I only see Lucky's head), couldn't get controller to work in game though. DLC content not tested",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7937 Mb",
+    "rating": "Silver",
+    "timestamp": 1537511956,
+    "title": "Super Lucky's Tale"
+  }
+]

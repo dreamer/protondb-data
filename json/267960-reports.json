@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "267960",
+    "title": "Hyper Fighters",
+    "timestamp": 1535809908,
+    "rating": "Borked",
+    "notes": "Reason Unknown",
+    "os": "Antergos (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-2600 / GTX 1070",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "477740",
+    "title": "Zero Escape: The Nonary Games",
+    "timestamp": 1535282908,
+    "rating": "Gold",
+    "notes": "ZE2 requires openal for Audio to work but stable framerate, ZE1 goes black after the menu",
+    "os": "Antergos 18.7 (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-8400",
+    "protonVersion": "Default"
+  }
+]

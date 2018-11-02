@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "234160",
+    "title": "Strike Suit Infinity",
+    "timestamp": 1535277868,
+    "rating": "Borked",
+    "notes": "Fulscreen black screen and crash",
+    "os": "Archlinux 64 bits (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-6600 / GTX 650",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "234160",
+    "cpu": "i7-3930K CPU @ 3.20GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.7-arch1-1-ARCH",
+    "notes": "black window, and then it crash.",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "32109 Mb",
+    "rating": "Borked",
+    "timestamp": 1536763153,
+    "title": "Strike Suit Infinity"
+  }
+]

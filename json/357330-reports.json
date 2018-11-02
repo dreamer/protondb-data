@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "357330",
+    "title": "Space Beast Terror Fright",
+    "timestamp": 1535345335,
+    "rating": "Platinum",
+    "notes": "Excellent performance",
+    "os": "Linux Mint 18.3 64-bit (Kernel 4.15.0-33-generic)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-7700K / GTX 1070",
+    "protonVersion": "3.7-4"
+  }
+]

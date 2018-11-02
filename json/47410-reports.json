@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "47410",
+    "title": "Stronghold Kingdoms",
+    "timestamp": 1535198739,
+    "rating": "Borked",
+    "notes": "Does not start. (Doesnt work under WINE either)",
+    "os": "Linux Mint 19 64-Bit (Kernel 4.15)",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "AMD E450 APU",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "31700",
+    "title": "Iron Grip: Warlord",
+    "timestamp": 1535102904,
+    "rating": "Silver",
+    "notes": "Requires winetricks verb \"corefonts\" to launch, otherwise solid performance",
+    "os": "Manjaro (4.18.3-1 Cinnamon 3.8.8)",
+    "gpuDriver": "NVIDIA 396.51-1",
+    "specs": "i5-3570K / GTX 970",
+    "protonVersion": "Default"
+  }
+]

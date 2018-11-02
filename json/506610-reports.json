@@ -1,0 +1,35 @@
+[
+  {
+    "appId": "506610",
+    "title": "Five Nights At Freddy's: Sister Location",
+    "timestamp": 1535490620,
+    "rating": "Platinum",
+    "notes": "Everything seems to work perfectly out of the box, but I only played the first night.",
+    "os": "Antergos x64 (Arch 4.18.5) ",
+    "gpuDriver": "AMDGPU",
+    "specs": "RX 460",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "506610",
+    "title": "Five Nights at Freddy's: Sister Location",
+    "timestamp": 1535647099,
+    "rating": "Gold",
+    "notes": "Launch Options: PROTON_USE_WINED3D11=1 %command%",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i3-3240 / GX 470",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "506610",
+    "title": "Five Nights at Freddy's: Sister Location",
+    "timestamp": 1535806945,
+    "rating": "Platinum",
+    "notes": "Runs perfectly",
+    "os": "Ubuntu 18.04.1 LTS 64bit (4.15.0-33-generic)",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "i5-5200U / Intel HD Graphics 5500 (rev 09)",
+    "protonVersion": "3.7-5"
+  }
+]

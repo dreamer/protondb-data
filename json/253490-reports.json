@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "253490",
+    "title": "CABAL Online",
+    "timestamp": 1535097724,
+    "rating": "Borked",
+    "notes": "Must be installed in a 32 bit WINEPREFIX, The Anti-cheat XIGNCODE3 will refuse to work on 64 bits",
+    "os": "OpenSUSE Tumbleweed",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i5-6600k / GTX 970oc",
+    "protonVersion": "Default"
+  }
+]

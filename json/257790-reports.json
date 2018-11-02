@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "257790",
+    "title": "Riptide GP2",
+    "timestamp": 1534934263,
+    "rating": "Platinum",
+    "notes": "",
+    "os": "openSuse Leap 15.0",
+    "gpuDriver": "?",
+    "specs": "NVidia 1080 ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "257790",
+    "title": "Riptide GP2",
+    "timestamp": 1535984605,
+    "rating": "Platinum",
+    "notes": "All OK",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "I3 3217U 1,8ghz",
+    "protonVersion": "Default"
+  }
+]

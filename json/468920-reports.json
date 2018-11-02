@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "468920",
+    "cpu": "Intel Core i7-6700K @ 4.00GHz",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA GeForce GTX 970",
+    "gpuDriver": "NVIDIA 390.77",
+    "kernel": "4.15.0-36-generic",
+    "notes": "internet radio is not working, in menu 3d fish view is not working",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Beta (3.7-8)",
+    "ram": "16 GB",
+    "rating": "Silver",
+    "timestamp": 1540396250,
+    "title": "Ultimate Fishing Simulator"
+  }
+]

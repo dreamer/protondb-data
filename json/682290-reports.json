@@ -1,0 +1,22 @@
+[
+  {
+    "appId": "682290",
+    "cpu": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 980 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.9-1-MANJARO",
+    "notes": "Game intermittently force closes - eventually able to connect to US Servers but  still force closing. FPS are very low regardless of resolution, texture detail etc.\n----> https://www.youtube.com/watch?v=BEP20omgnOc",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "15982 Mb",
+    "rating": "Borked",
+    "timestamp": 1538425552,
+    "tweaks": {
+      "disableD3d11": true,
+      "disableEsync": true,
+      "useWineD3d11": true
+    },
+    "title": "Zeus' Battlegrounds"
+  }
+]

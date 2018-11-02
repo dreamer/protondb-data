@@ -1,0 +1,74 @@
+[
+  {
+    "appId": "211600",
+    "title": "Thief Gold",
+    "timestamp": 1534809600,
+    "rating": "Borked",
+    "notes": "Menus work. Always crashes on game start",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-3470 / GT 1030",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "211600",
+    "title": "Thief Gold",
+    "timestamp": 1535051108,
+    "rating": "Borked",
+    "notes": "Menus are bugged, trying to start game crashes. Game used to work under old Wine (1.x) versions, but hasn't worked in any 3.x version I've used.",
+    "os": "Mint 18.3 (4.13.0-45-generic)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-2600K / GTX 770",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "211600",
+    "title": "Thief Gold",
+    "timestamp": 1535364553,
+    "rating": "Gold",
+    "notes": "Works fine WITH TFix 1.26, I installed it to the game's directory with Wine.\nYou can download TFix from here: http://www.ttlg.com/forums/showthread.php?t=134733 or here: https://www.moddb.com/mods/tfix/downloads/tfix-126",
+    "os": "Fedora 28 64-bit (Kernel 4.17.18)",
+    "gpuDriver": "NVIDIA 396.45",
+    "specs": "AMD FX-6300 / GTX 1050 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "211600",
+    "title": "Thief Gold",
+    "timestamp": 1535469828,
+    "rating": "Gold",
+    "notes": "Needs TFix/NewDark applied",
+    "os": "Funtoo 64-bit (Kernel 4.14.12)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-6600 / GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "211600",
+    "cpu": "i5-3230M CPU @ 2.60GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Ivybridge Mobile x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.1.8",
+    "kernel": "4.18.6-arch1-1-ARCH",
+    "notes": "As others said, works after installing TFix. Before that, it crashed when clicking \"New training\"",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "7855 Mb",
+    "rating": "Gold",
+    "timestamp": 1536720923,
+    "title": "Thief\u2122 Gold"
+  },
+  {
+    "appId": "211600",
+    "cpu": "Intel(R) Xeon(R) CPU E3-1276 v3 @ 3.60GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 760/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.18.0-1-amd64",
+    "notes": "As mentioned, you need tfix.\n\nThis is what I did:\n\nexport STEAMPATH=/srv/steam  (You will probably need something else)\nexport WINEPREFIX=$STEAMPATH/steam/steamapps/compatdata/211600/pfx\nexport WINEPATH=$STEAMPATH/steam/steamapps/common/Proton 3.7/dist/bin/wine64\ncd \"$WINEPREFIX/drive_c/Program Files (x86)\"\nln -s $STEAMPATH/steam/steamapps/common/thief_gold/ .\n$WINEPATH ~/Downloads/TFix_1.26.exe (to apply TFIX)",
+    "os": "Debian GNU/Linux unstable (sid) (64 bit)",
+    "protonVersion": "Default",
+    "ram": "32091 Mb",
+    "rating": "Gold",
+    "timestamp": 1537681867,
+    "title": "Thief\u2122 Gold"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "673950",
+    "cpu": "AMD Phenom(tm) II X4 965 Processor",
+    "gpu": "X.Org AMD BARTS (DRM 2.50.0 / 4.15.0-33-generic, LLVM 6.0.0)",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.15.0-33-generic",
+    "notes": "Works Perfectly. Performance is faster than Windows I've Noticed. Multiplayer works great too.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7975 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536706755,
+    "title": "Farm Together"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "331190",
+    "title": "Master Spy",
+    "timestamp": 1535472622,
+    "rating": "Borked",
+    "notes": "only music with black screen",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 340.106",
+    "specs": "AMD Phenom(tm) II X4 905e",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "331190",
+    "cpu": "AMD Ryzen 7 1700X Eight-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "X.Org Radeon RX 580 Series (POLARIS10, DRM 3.26.0, 4.18.10-041810-generic, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.18.10-041810-generic",
+    "notes": "Audio but no video",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "16030 Mb",
+    "rating": "Borked",
+    "timestamp": 1539151895,
+    "title": "Master Spy"
+  }
+]

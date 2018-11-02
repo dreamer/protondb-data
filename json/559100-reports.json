@@ -1,0 +1,35 @@
+[
+  {
+    "appId": "559100",
+    "title": "Phantom Doctrine",
+    "timestamp": 1535109824,
+    "rating": "Borked",
+    "notes": "Shows a black screen with the mouse pointer before crashing to desktop.",
+    "os": "Gentoo Stable 17.0 64-bit (Kernel 4.14.65)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "Intel i7-6700HQ / GTX 1070 Mobile",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "559100",
+    "title": "Phantom Doctrine",
+    "timestamp": 1535301481,
+    "rating": "Borked",
+    "notes": "crashes immediately after showing splash screen, probably when trying to switch to full screen",
+    "os": "OpenSuSE Tumbleweed",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 7 1800X / Radeon R9 290X",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "559100",
+    "title": "Phantom Doctrine",
+    "timestamp": 1535392542,
+    "rating": "Silver",
+    "notes": "Running with a \"-WINDOWED\" flag gets the game running, borderless window mode works as well, fullscreen crashes on start\nStable 60FPS\nAmbient sounds(rain, wind, car engine, etc) play way louder than all other, gets real annoying real quick",
+    "os": "Gentoo Stable 17.0 64-bit (Kernel 4.14.65)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Intel i7-6700HQ / GTX 1070 Mobile",
+    "protonVersion": "3.7-4"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "11200",
+    "title": "Shadowgrounds: Survivor",
+    "timestamp": 1535015742,
+    "rating": "Borked",
+    "notes": "Doesn't start. Tries to install PhysX and fails with a File Not Found error.",
+    "os": "Ubuntu 16.04.5",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-2500K / GTX 960",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "11200",
+    "title": "Shadowgrounds: Survivor",
+    "timestamp": 1535469707,
+    "rating": "Platinum",
+    "notes": "Going thru config editor, it installed PhysX successfully.  Runs fine with no apparent glitches",
+    "os": "Kubuntu 18.04 64-bit (4.15.0-32)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "AMD FX8350 / NVIDIA GTX660",
+    "protonVersion": "3.7-4"
+  }
+]

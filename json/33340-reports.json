@@ -1,0 +1,35 @@
+[
+  {
+    "appId": "33340",
+    "title": "Dawn of Discovery - Venice",
+    "timestamp": 1534978070,
+    "rating": "Borked",
+    "notes": "Black screen except for in-game cursor style",
+    "os": "Antergos 4.18.3",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-6600k/GTX760",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "33340",
+    "title": "Dawn of Discovery: Venice",
+    "timestamp": 1535040360,
+    "rating": "Borked",
+    "notes": "The game reports it couldn't initialize DirectX. Tested with PROTON_NO_D3D11 and PROTON_USE_WINED3D11 variables.",
+    "os": "Arch Linux (Kernel 4.18.3)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "I5-6300HQ / GTX 960M",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "33340",
+    "title": "Dawn of Discovery: Venice",
+    "timestamp": 1536091559,
+    "rating": "Silver",
+    "notes": "Must install on Linux native (BTRFS/ext4/etc...), use winetricks listed in wine app db target to pfx directory in compatdata, must edit engine.ini in steamapps/common for dx9, text is still jagged",
+    "os": "Antergos 4.18.5",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-6600k/GTX760",
+    "protonVersion": "Default"
+  }
+]

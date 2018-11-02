@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "418180",
+    "cpu": "AMD Ryzen 5 1600X Six-Core Processor",
+    "duration": "lessThanAnHour",
+    "gpu": "X.Org AMD PITCAIRN (DRM 2.50.0 / 4.15.0-36-generic, LLVM 6.0.0)",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Played the tutorial. No issues identified.",
+    "os": "Ubuntu 18.04.1 LTS (64 Bit)",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "16037 MB",
+    "rating": "Platinum",
+    "timestamp": 1540158488,
+    "title": "Tempest: Pirate Action RPG"
+  }
+]

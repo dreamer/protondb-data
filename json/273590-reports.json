@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "273590",
+    "title": "Descent 3",
+    "timestamp": 1534978364,
+    "rating": "Borked",
+    "notes": "Opens launcher for the game, but cannot start because it doesn't think DirectX 3 is installed. This may be a problem that also exists when running native to Windows.",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-6600K / GTX 980 Ti",
+    "protonVersion": "Default"
+  }
+]

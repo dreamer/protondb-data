@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "324770",
+    "title": "eXperience 112",
+    "timestamp": 1535963939,
+    "rating": "Platinum",
+    "notes": "Very good performances, no",
+    "os": "Mageia 6 (kernel 4.17.18-desktop-1.mga6)",
+    "gpuDriver": "NVIDIA 390.87",
+    "specs": "i5-7300HQ - GTX1050",
+    "protonVersion": "3.7.5-"
+  }
+]

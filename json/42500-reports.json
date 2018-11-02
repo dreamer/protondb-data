@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "42500",
+    "title": "DogFighter",
+    "timestamp": 1535509795,
+    "rating": "Borked",
+    "notes": "Screen is stretched well beyond monitor",
+    "os": "Antergos (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-2600 / GTX 1070",
+    "protonVersion": "Default"
+  }
+]

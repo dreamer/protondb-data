@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "587260",
+    "title": "Tokyo Xanadu eX+",
+    "timestamp": 1536104978,
+    "rating": "Borked",
+    "notes": "Receive an error \"Graphics.cpp (255) : DXFAIL : Unknown error 887a0004\"",
+    "os": "Ubuntu 18.04.1 Kernel Version:  4.15.0",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "specs": " i7-7700HQ",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "587260",
+    "cpu": "i7-7700HQ CPU @ 2.80GHz",
+    "gpu": "GeForce GTX 1060/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Started up fine and controller works. Once it has to start processing 3D graphics, it crashes.",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "default",
+    "ram": "15899 Mb",
+    "rating": "Bronze",
+    "timestamp": 1537018248,
+    "title": "Tokyo Xanadu eX+"
+  }
+]

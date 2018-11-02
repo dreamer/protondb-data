@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "375910",
+    "cpu": "Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 520 (Skylake GT2) x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Uplay Account Login failed. No Connection to Uplay Server",
+    "os": "Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 520 (Skylake GT2) x86/MMX/SSE2",
+    "protonVersion": "Proton 3.7.6",
+    "ram": "7837 MB",
+    "rating": "Borked",
+    "timestamp": 1537437824,
+    "title": "Anno 2205\u2122"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "267360",
+    "title": "MURI",
+    "timestamp": 1535043341,
+    "rating": "Silver",
+    "notes": "Runs well, but there is no audio.",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "i5 2520m / Intel HD 3000",
+    "protonVersion": "Default"
+  }
+]

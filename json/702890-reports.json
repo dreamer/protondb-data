@@ -1,0 +1,35 @@
+[
+  {
+    "appId": "702890",
+    "title": "Blazblue Cross Tag Battle",
+    "timestamp": 1534896000,
+    "rating": "Borked",
+    "notes": "",
+    "os": "Ubuntu 18.0 LTS",
+    "gpuDriver": "NVIDIA 396",
+    "specs": "i5 3470 / Geforce 1060 3gb",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "702890",
+    "title": "Blazblue Cross Tag Battle",
+    "timestamp": 1534896000,
+    "rating": "Borked",
+    "notes": "",
+    "os": "Ubuntu 18-04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "Intel I5 3470 / Geforce 1060 3gb",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "702890",
+    "title": "BlazBlue Cross Tag Battle",
+    "timestamp": 1535339499,
+    "rating": "Borked",
+    "notes": "Startup crash with \"initRenderer\" error, which appears to be a DirectX error.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "gpuDriver": "Mesa 18.3.0-devel ",
+    "specs": "R9 280 (Southern Islands)",
+    "protonVersion": "Default"
+  }
+]

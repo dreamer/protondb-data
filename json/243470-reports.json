@@ -1,0 +1,12 @@
+[
+  {
+    "appId": "243470",
+    "title": "Watch_Dogs",
+    "timestamp": 1534896000,
+    "rating": "Borked",
+    "notes": "Installs Uplay fine but tries to launch the game and gets stuck at a clear loading screen",
+    "os": "Ubuntu 18.04",
+    "specs": "",
+    "protonVersion": "Default"
+  }
+]

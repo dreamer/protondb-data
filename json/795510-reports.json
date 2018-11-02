@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "795510",
+    "title": "Koihime Enbu RyoRaiRai",
+    "timestamp": 1535855277,
+    "rating": "Silver",
+    "notes": "Cant configure Dinput controls since it needs an external config tool that actually doesnt run. Works fine with Xinput controls and Steam controller layout Keyboard(xpadder like tool Steam has for converting joystick inputs to keyboard ones). Also the game crashes to desktop when joining a room. Arcade, Versus and training mode works fine.",
+    "os": "SteamOS Brewmaster Beta",
+    "gpuDriver": "Mesa 18.1.5",
+    "specs": "AMD A8-6410 with Radeon R5",
+    "protonVersion": "3.7.5"
+  }
+]

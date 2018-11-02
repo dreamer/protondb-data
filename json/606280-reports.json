@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "606280",
+    "cpu": "i7-8700K CPU @ 5GHz",
+    "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.7-041807-generic",
+    "notes": "Launches and then crashes during into screens.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "64352 Mb",
+    "rating": "Borked",
+    "timestamp": 1536904899,
+    "title": "Darksiders III"
+  }
+]

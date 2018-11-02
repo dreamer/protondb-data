@@ -1,0 +1,97 @@
+[
+  {
+    "appId": "39190",
+    "title": "Dungeon Siege",
+    "timestamp": 1535172854,
+    "rating": "Platinum",
+    "notes": "no",
+    "os": "Antergos",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "AMD Athlon X4 845 / RX 460",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "39190",
+    "title": "Dungeon Siege",
+    "timestamp": 1535224456,
+    "rating": "Silver",
+    "notes": "Game plays quite well. The only reason I didn't put \"completely stable\" is because the mouse is a bit flakey when trying to make small, precise movements. During game play this doesn't hinder much",
+    "os": "Arch Linux 64-bit (4.18.4-arch1-1-ARCH)",
+    "gpuDriver": "NVIDIA 396.54-1",
+    "specs": "i7-4790K/GTX 970",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "39190",
+    "title": "Dungeon Siege",
+    "timestamp": 1535285318,
+    "rating": "Silver",
+    "notes": "Whenever the mouse is moved horizontally or gets clicked it moves slightly upwards, but this is only annoying while navigating the menus",
+    "os": "Manjaro Stable 64-bit (Kernel 4.14.66-1-MANJARO)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-870 / GTX 770",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "39190",
+    "title": "Dungeon Siege",
+    "timestamp": 1535725941,
+    "rating": "Platinum",
+    "notes": "Runs flawlessly. Didn't notice mouse issues mentioned elsewhere. Steam-native inside Firejail.",
+    "os": "Arch Linux (Kernel 4.18.4)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 5 1600X / RX 480",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "39190",
+    "title": "Dungeon Siege",
+    "timestamp": 1535299435,
+    "rating": "Silver",
+    "notes": "The mouse pointer always moves up to the left when moving",
+    "os": "Linux Mint 19 64-bit (Kernel 4.15.0-33)",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i5-7700",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "39190",
+    "cpu": "i7-4710MQ CPU @ 2.50GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Haswell Mobile x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.3.0-devel - padoka PPA",
+    "notes": "",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7.5 beta",
+    "rating": "Platinum",
+    "timestamp": "1536451200",
+    "title": "Dungeon Siege"
+  },
+  {
+    "appId": "39190",
+    "cpu": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060 3GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.7-1-MANJARO",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "7919 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537332356,
+    "title": "Dungeon Siege"
+  },
+  {
+    "appId": "39190",
+    "cpu": "AMD FX(tm)-6100 Six-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 650/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 410.57",
+    "kernel": "4.14.74-1-MANJARO",
+    "notes": "Runs out of the box, but also possible to enable Killah's Fix to enable the Legends of Aranna content. Possible to set resolution through runtime arguments in Steam.",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16069 Mb",
+    "rating": "Platinum",
+    "timestamp": 1539723056,
+    "title": "Dungeon Siege"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "appId": "243360",
+    "title": "TrackMania\u00b2 Valley",
+    "timestamp": 1536164725,
+    "rating": "Gold",
+    "notes": "Maniaplanet common files are currently duplicated using $WINEPREFIX, recommend sharing %ProgramData%\\Maniaplanet & %USERPROFILE%\\My Documents\\Maniaplanet across all related products.",
+    "os": "Ubuntu 18.04.1 (Kernel 4.15.0-33)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-3570 / GTX 1060 6GB",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "243360",
+    "cpu": "i7-4790K CPU @ 4.00GHz",
+    "gpu": "GeForce GTX 770/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.51.02",
+    "kernel": "4.15.0-29-generic",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15741 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536672398,
+    "title": "TrackMania\u00b2 Valley"
+  },
+  {
+    "appId": "243360",
+    "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+    "duration": "moreThanTenHours",
+    "gpu": "NVIDIA Corporation GeForce GTX 770/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.51.02",
+    "kernel": "4.15.0-29-generic",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15741 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538832516,
+    "title": "TrackMania\u00b2 Valley"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "appId": "8600",
+    "title": "Race 07",
+    "timestamp": 1534940792,
+    "rating": "Platinum",
+    "notes": "60fps/1080p/vsync",
+    "os": "Ubuntu 18.04.1 LTS",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "specs": "i7-6700k / AMD R9 FURY X",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "8600",
+    "title": "Race 07",
+    "timestamp": 1535091844,
+    "rating": "Platinum",
+    "notes": "Performance was great! Works great.",
+    "os": "Arch linux 64 bit (Kernel linux-ck-haswell 4.17.11-6))",
+    "gpuDriver": "xf86-video-intel",
+    "specs": "i5-4300U / iGPU HD 4400",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "8600",
+    "title": "RACE 07",
+    "timestamp": 1535491011,
+    "rating": "Platinum",
+    "notes": "Flawlessly",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i3-3240 / GTX 470",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "8600",
+    "title": "RACE 07",
+    "timestamp": 1536075151,
+    "rating": "Platinum",
+    "notes": "no",
+    "os": "Antergos 64-bit (Kernel 4.18.3)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 3 1200 / GT 1030",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "8600",
+    "title": "Race 07",
+    "timestamp": 1536075944,
+    "rating": "Borked",
+    "notes": "Hardware error: Insufficient video memory detected. A minimum of 32 MB of free video memory required.",
+    "os": " Ubuntu 18.04.1 LTS (64 Bit)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": " i3-8100 / GeForce GTX 1060 3gb",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "8600",
+    "cpu": "i5-5200U CPU @ 2.20GHz",
+    "gpu": "GeForce 940M/PCIe/SSE2",
+    "gpuDriver": "4.5.0 NVIDIA 384.130",
+    "kernel": "4.15.0-33-generic",
+    "notes": "Played Flawlessly",
+    "os": "Linux Mint 18.3 Sylvia (64 bit)",
+    "protonVersion": "3.7.6-beta",
+    "ram": "7404 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536665251,
+    "title": "RACE 07"
+  },
+  {
+    "appId": "8600",
+    "cpu": "i5-7600K CPU @ 3.80GHz",
+    "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-33-generic",
+    "notes": "Only getting2 fps. tried windowed mode and lowest settings",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6-beta",
+    "ram": "16000 Mb",
+    "rating": "Borked",
+    "timestamp": 1536869929,
+    "title": "RACE 07"
+  }
+]

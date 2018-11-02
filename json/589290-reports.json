@@ -1,0 +1,46 @@
+[
+  {
+    "appId": "589290",
+    "title": "Hellblade: Senua's Sacrifice",
+    "timestamp": 1536506421,
+    "rating": "Gold",
+    "notes": "Graphics work out of the box (and actually adding the option \"PROTON_USE_WINED3D11=1 %command%\" as other suggested breaks them for me). Gamepad detected without problems. However it has audio issues (chirping and quiet voices). Workaround: Edit the wine prefix for the game and add an override for xaudio2_7 (native). ",
+    "os": "Manjaro Gnome 64-bit (Kernel 4.18.6)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 7 1700X",
+    "protonVersion": "3.7-6"
+  },
+  {
+    "appId": "589290",
+    "title": "Holdfast: Nations At War",
+    "timestamp": 1535319056,
+    "rating": "Borked",
+    "notes": "textures of bodies missed just saw heads with weapons lmao and menu not really accessible in game btw",
+    "os": "Manjaro Stable 64-bit (Kernel 4.14.66 LTS)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-2500k / GTX 1070",
+    "protonVersion": ""
+  },
+  {
+    "appId": "589290",
+    "title": "Holdfast: Nations At War",
+    "timestamp": 1535990565,
+    "rating": "Gold",
+    "notes": "ok the parameter \"PROTON_USE_WINED3D11=1 %command%\" do the trick and solve problems of missed body's texture",
+    "os": "Manjaro Stable 64-bit (Kernel 4.14 LTS)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-2500k / GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "589290",
+    "title": "Holdfast: Nations At War",
+    "timestamp": 1536755272,
+    "rating": "Silver",
+    "notes": "randomly lose mouse/keyboard control when you defocus (xfce desktop)",
+    "os": "Manjaro Stable 64-bit (Kernel 4.14 LTS)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-2500k / GTX 1070",
+    "protonVersion": "Default"
+  }
+]

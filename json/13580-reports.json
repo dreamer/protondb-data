@@ -1,0 +1,55 @@
+[
+  {
+    "appId": "13580",
+    "title": "Tom Clancy's Splinter Cell: Double Agent",
+    "timestamp": 1535346265,
+    "rating": "Gold",
+    "notes": "Excellent controller support. Performance is very good, but the highest widescreen resolution is 1280x960. There is a fix available, but I couldn't get it to work.\nhttps://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/scda",
+    "os": "Debian 9 (Kernel 4.9)",
+    "gpuDriver": "NVIDIA 384",
+    "specs": "i3 6100 / GTX 1060",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "13580",
+    "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Enabling High Detail Shader crashes the game. Other than that, game runs flawlessly.",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "15923 Mb",
+    "rating": "Gold",
+    "timestamp": 1537470798,
+    "title": "Tom Clancy's Splinter Cell Double Agent\u00ae"
+  },
+  {
+    "appId": "13580",
+    "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Enabling High Detail Shader crashes the game, and mouse cursor isn't visible inside Steam Overlay. Other than that, runs flawlessly.",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15923 Mb",
+    "rating": "Gold",
+    "timestamp": 1537858362,
+    "title": "Tom Clancy's Splinter Cell Double Agent\u00ae"
+  },
+  {
+    "appId": "13580",
+    "cpu": "Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 1050 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.14.71-1-MANJARO",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "32095 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538757121,
+    "title": "Tom Clancy's Splinter Cell Double Agent\u00ae"
+  }
+]

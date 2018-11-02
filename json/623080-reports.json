@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "623080",
+    "title": "Planetarian HD",
+    "timestamp": 1535829601,
+    "rating": "Platinum",
+    "notes": "Works perfectly.",
+    "os": "Manjaro Stable 64-bit (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-6700K / GTX 1080",
+    "protonVersion": "Default"
+  }
+]

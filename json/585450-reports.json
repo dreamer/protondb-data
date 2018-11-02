@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "585450",
+    "title": "Shadows Awakening",
+    "timestamp": 1536160237,
+    "rating": "Bronze",
+    "notes": "This is a Unity 3D that launches but sits at a black screen. So future updates could work.",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 390.87",
+    "specs": "Ryzen 7 2700X",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "475190",
+    "title": "Scanner Sombre",
+    "timestamp": 1536077775,
+    "rating": "Platinum",
+    "notes": "Stable 60 FPS after short initial stuttering",
+    "os": "Arch Linux 64-bit (Kernel 4.18.5) / Cinnamon 3.8.8",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-7600K",
+    "protonVersion": "Default"
+  }
+]

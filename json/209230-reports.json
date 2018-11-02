@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "209230",
+    "title": "Sherlock Holmes and The Hound of The Baskervilles",
+    "timestamp": 1535721849,
+    "rating": "Platinum",
+    "notes": "10 min. play. Ran perfectly. Steam overlay manually disabled.",
+    "os": "Manjaro Stable 64-bit (Kernel 4.14.66-1)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i5 M 460 @ 2.53GHz / Mob. Radeon HD5650",
+    "protonVersion": "3.7-5"
+  }
+]

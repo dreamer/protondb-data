@@ -1,0 +1,91 @@
+[
+  {
+    "appId": "39530",
+    "title": "Painkiller: Black Edition",
+    "timestamp": 1534952002,
+    "rating": "Gold",
+    "notes": "Only play the first level. It's probably okay.",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-3230M/ GTX 670MX",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "39530",
+    "title": "Painkiller: Black Edition",
+    "timestamp": 1534972467,
+    "rating": "Platinum",
+    "notes": "Runs just fine",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "AMDGPU",
+    "specs": "FX 6350, R9 280x",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "39530",
+    "title": "Painkiller: Black Edition",
+    "timestamp": 1535094889,
+    "rating": "Platinum",
+    "notes": "Stable and good performance. Fully completed first level.",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Xeon E5440 / GTX 650 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "39530",
+    "title": "Painkiller: Black Edition",
+    "timestamp": 1535111293,
+    "rating": "Platinum",
+    "notes": "Native performance. No issues.",
+    "os": "Arch Linux (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "Athlon II 860k / GT 730",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "39530",
+    "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Like native.",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15923 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538277969,
+    "title": "Painkiller: Black Edition"
+  },
+  {
+    "appId": "39530",
+    "cpu": "Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "X.Org AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.0-36-generic, LLVM 6.0.0)",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Like native",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15983 Mb",
+    "rating": "Platinum",
+    "timestamp": 1539253439,
+    "title": "Painkiller: Black Edition"
+  },
+  {
+    "appId": "39530",
+    "cpu": "AMD FX(tm)-6300 Six-Core Processor",
+    "duration": "lessThanAnHour",
+    "gpu": "X.Org Radeon RX 560 Series (POLARIS11, DRM 3.26.0, 4.18.12-zen1-1-zen, LLVM 7.0.0)",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.2",
+    "kernel": "4.18.12-zen1-1-zen",
+    "notes": "Played first level on max settings. Occasional framerate dips, but nothing serious.",
+    "os": "Antergos (64 bit)",
+    "protonVersion": "Beta (3.16-1)",
+    "ram": "7934 Mb",
+    "rating": "Platinum",
+    "timestamp": 1539619713,
+    "title": "Painkiller: Black Edition"
+  }
+]

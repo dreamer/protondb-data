@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "521200",
+    "title": "Epic Battle Fantasy 3",
+    "timestamp": 1535714052,
+    "rating": "Platinum",
+    "notes": "Not thoroughly tested, but seems to work perfectly",
+    "os": "Fedora 28 64-bit",
+    "gpuDriver": "NVIDIA 396.45",
+    "specs": "i7-2600 / GTX 1050 Ti",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "521200",
+    "title": "Epic Battle Fantasy 3",
+    "timestamp": 1535760869,
+    "rating": "Platinum",
+    "notes": "Played a few hours, completely playable, a little bit of slowdown sometimes",
+    "os": "Linux Mint",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-4720HQ",
+    "protonVersion": "Default"
+  }
+]

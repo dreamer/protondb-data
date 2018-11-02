@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "397350",
+    "title": "Lords of the Realm II",
+    "timestamp": 1535548682,
+    "rating": "Gold",
+    "notes": "Minor texture error in launcher still shows play button but behind it is white. In game works better then windows as you don't have to go through compatibility errors",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "Xeon w3565",
+    "protonVersion": "Default"
+  }
+]

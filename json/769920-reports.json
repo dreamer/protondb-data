@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "769920",
+    "title": "Odysseus Kosmos and his Robot Quest - Episode 1",
+    "timestamp": 1535128310,
+    "rating": "Platinum",
+    "notes": "Works flawlessly.",
+    "os": "Debian Stable 64-bit (Kernel 4.17)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4790K / GTX 970 Ti",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "27920",
+    "title": "Booster Trooper",
+    "timestamp": 1535982226,
+    "rating": "Silver",
+    "notes": "Slight text flicker in menus",
+    "os": "Ubuntu 18.04.1 64-bit(Kernel 4.15.0-33)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-7400 / GTX 1080",
+    "protonVersion": "3.7-5"
+  }
+]

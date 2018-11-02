@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "888090",
+    "title": "TREE",
+    "timestamp": 1535737089,
+    "rating": "Silver",
+    "notes": "Top bar and Dock remain visible. ",
+    "os": "Ubuntu 18.04.1 64-bit(Kernel 4.15.0-33)",
+    "gpuDriver": "396.54",
+    "specs": "i5-7400 / GTX 1080",
+    "protonVersion": "3.7-5"
+  }
+]

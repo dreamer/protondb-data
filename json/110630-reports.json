@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "110630",
+    "title": "Call of Duty",
+    "timestamp": 1536401113,
+    "rating": "Silver",
+    "notes": "Performance good. Need to apply \"__GL_ExtensionStringVersion=17700 %command%\" to launch options. Can't apply other luminosity",
+    "os": "Manjaro Stable 64-bit",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4790K / GTX 1060 6GB",
+    "protonVersion": "3.7-6"
+  }
+]

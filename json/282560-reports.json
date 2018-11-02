@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "282560",
+    "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060 6GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Just a blackscreen, nothing happens",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "7887 Mb",
+    "rating": "Borked",
+    "timestamp": 1537317041,
+    "title": "RollerCoaster Tycoon World\u2122"
+  }
+]

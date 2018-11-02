@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "1690",
+    "title": "Space Empires V",
+    "timestamp": 1534934470,
+    "rating": "Borked",
+    "notes": "Launcher starts normally but crashes when loading the game",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": " i7-7700HQ / GeForce GTX 1060 Mobile",
+    "protonVersion": "Default"
+  }
+]

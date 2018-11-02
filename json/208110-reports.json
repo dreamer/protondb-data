@@ -1,0 +1,30 @@
+[
+  {
+    "appId": "208110",
+    "cpu": "i7-8750H CPU @ 2.20GHz",
+    "gpu": "GeForce GTX 1050/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-33-generic",
+    "notes": "Most of the game was not tested, but what was tested worked perfectly. I strongly recommend increasing the resolution in the settings.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-3",
+    "ram": "15888 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536665811,
+    "title": "Myst V"
+  },
+  {
+    "appId": "208110",
+    "cpu": "i5-7440HQ CPU @ 2.80GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 630 (Kaby Lake GT2) x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.18.4-ext73-58.4-kabylake",
+    "notes": "nice",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7.6",
+    "ram": "7911 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537089475,
+    "title": "Myst V"
+  }
+]

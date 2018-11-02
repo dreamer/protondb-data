@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "469600",
+    "title": "Legion TD 2",
+    "timestamp": 1536032075,
+    "rating": "Platinum",
+    "notes": "Didn't notice any issues",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 390.87",
+    "specs": "i7-6700 / GTX 980",
+    "protonVersion": "Default"
+  }
+]

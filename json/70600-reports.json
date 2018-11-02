@@ -1,0 +1,106 @@
+[
+  {
+    "appId": "70600",
+    "title": "Worms Ultimate Mayhem",
+    "timestamp": 1534896000,
+    "rating": "Platinum",
+    "notes": "Everything functions, including videos.  Network play untested.",
+    "os": "Kubuntu 18.04",
+    "specs": "FX-6300 / Rx480 (Mesa Driver)",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "70600",
+    "title": "Worms Ultimate Mayhem",
+    "timestamp": 1534933467,
+    "rating": "Platinum",
+    "notes": "",
+    "os": "Xubuntu",
+    "gpuDriver": "NVIDIA proprietary drivwr",
+    "specs": "i5 6600k, 780ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "70600",
+    "title": "Worms Ultimate Mayhem",
+    "timestamp": 1534935241,
+    "rating": "Platinum",
+    "notes": "",
+    "os": "Antergos",
+    "gpuDriver": "NVIDIA 396.51-6",
+    "specs": "Ryzen 7 1700x / GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "70600",
+    "title": "Worms Ultimate Mayhem",
+    "timestamp": 1535243790,
+    "rating": "Gold",
+    "notes": "Runs perfectly. Steam Cloud did not automatically download save game, had to be manually moved.",
+    "os": "Lubuntu 18.04 64-bit (Kernel 4.15.0-33-generic)",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "specs": "Ryzen 5 1600 / RX 480",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "70600",
+    "title": "Worms Ultimate Mayhem",
+    "timestamp": 1535431278,
+    "rating": "Silver",
+    "notes": "don't move the window in windowed mode",
+    "os": "4.18.5-arch1-1-ARCH 64bit",
+    "gpuDriver": "flatpak 1.0.0, NVIDIA-dkms 396.54-2, mesa 18.1.7-1, xorg-server 1.20.1-1",
+    "specs": "i5-6600 / gtx 1060 3gb",
+    "protonVersion": "3.7-3"
+  },
+  {
+    "appId": "70600",
+    "title": "Worms Ultimate Mayhem",
+    "timestamp": 1535740653,
+    "rating": "Gold",
+    "notes": "Perfect even though there apear to be mouse acceleration issues when not using native monitor resolution",
+    "os": "Linux Mint 19 64-Bit (Kernel 4.15)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "I7-4770",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "70600",
+    "title": "Worms Ultimate Mayhem",
+    "timestamp": 1535719428,
+    "rating": "Silver",
+    "notes": "But videos don't work",
+    "os": "Linux Mint 19 64 bit (Kernel 4.15.0-33-generic)",
+    "gpuDriver": "NVIDIA 340.106",
+    "specs": "i5-3230M",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "70600",
+    "cpu": "i7-4710MQ CPU @ 2.50GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Haswell Mobile x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.18.4-ext73-58.4-haswell",
+    "notes": "runs fine ... but worm is transparent ..so not playable even if this the only flaw",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7.5 beta",
+    "ram": "7872 Mb",
+    "rating": "Bronze",
+    "timestamp": "1536342527",
+    "title": "Worms Ultimate Mayhem"
+  },
+  {
+    "appId": "70600",
+    "cpu": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 960/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.24",
+    "kernel": "4.15.0-34-generic",
+    "notes": "PS3 controller triggers were not working properly, but after rebinding they worked.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "11949 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537656274,
+    "title": "Worms Ultimate Mayhem"
+  }
+]

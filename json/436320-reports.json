@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "436320",
+    "title": "Raw Data",
+    "timestamp": 1535206672,
+    "rating": "Borked",
+    "notes": "HTC Vive. Nothing happens",
+    "os": "Ubuntu 18.04 64-bit (Kernel 4.15.0)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7 4790k / GTX 1080 Ti",
+    "protonVersion": "3.7-4"
+  }
+]

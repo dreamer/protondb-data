@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "750170",
+    "cpu": "Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz",
+    "duration": "severalHours",
+    "gpu": "NVIDIA Corporation GeForce GTX 960M/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.15.0-36-generic",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15963 Mb",
+    "rating": "Platinum",
+    "timestamp": 1539111903,
+    "title": "Diesel Railcar Simulator"
+  }
+]

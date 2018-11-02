@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "32610",
+    "title": "Delta Force Xtreme 2",
+    "timestamp": 1535232810,
+    "rating": "Borked",
+    "notes": "Produces error message \"Unable to create a network socket!\" at launch.",
+    "os": "Kubuntu 18.04 64-bit (Kernel 4.15)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-6600 / GTX 1060",
+    "protonVersion": "Default"
+  }
+]

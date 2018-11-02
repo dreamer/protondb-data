@@ -1,0 +1,14 @@
+[
+  {
+    "appId": "587000",
+    "cpu": "i7-4790K CPU @ 4.00GHz",
+    "gpu": "GeForce GTX 980/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "notes": "Runs perfectly out of the box!",
+    "os": "Solus (64 bit)",
+    "protonVersion": "3.7-3",
+    "rating": "Platinum",
+    "timestamp": "1536451200",
+    "title": "First Strike: Final Hour"
+  }
+]

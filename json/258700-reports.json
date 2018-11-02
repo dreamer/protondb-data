@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "258700",
+    "title": "Dragon Nest Europe",
+    "timestamp": 1535700134,
+    "rating": "Silver",
+    "notes": "Works perfectly fine on high settings, however there were some issues with the mouse (the mouse disappears at times). Don't forget to activate your account or you'll receive an unknown error when attempting to start the game.",
+    "os": "Arch Linux 64-bit",
+    "gpuDriver": "3.0 Mesa 18.1.7",
+    "specs": "i7-4700MQ / iGPU HD 4600",
+    "protonVersion": "3.7-5"
+  }
+]

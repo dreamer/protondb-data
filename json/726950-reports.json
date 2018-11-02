@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "726950",
+    "title": "Dark Rose Valkyrie",
+    "timestamp": 1534944452,
+    "rating": "Bronze",
+    "notes": "There's no sound at all. Otherwise seems fine",
+    "os": "Antergos",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-7700HQ / NVIDIA GTX 1060",
+    "protonVersion": "Default"
+  }
+]

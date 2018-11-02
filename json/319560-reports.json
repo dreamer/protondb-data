@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "319560",
+    "cpu": "AMD Ryzen 7 2700X Eight-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "X.Org Radeon RX 580 Series (POLARIS10, DRM 3.23.0, 4.16.0-2-amd64, LLVM 6.0.1)",
+    "gpuDriver": "3.1 Mesa 18.1.7",
+    "kernel": "4.16.0-2-amd64",
+    "notes": "The game does not accept any keypresses. At the very start you have to enter your name. You can't do anything unless you write something, which you can't. Mouse clicks work fine, though.",
+    "os": "Debian GNU/Linux testing (buster) (64 bit)",
+    "protonVersion": "Default",
+    "ram": "32155 Mb",
+    "rating": "Borked",
+    "timestamp": 1538299633,
+    "title": "Reprisal Universe"
+  }
+]

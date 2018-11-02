@@ -1,0 +1,39 @@
+[
+  {
+    "appId": "385760",
+    "title": "NBA 2K17",
+    "timestamp": 1535037405,
+    "rating": "Borked",
+    "notes": "-",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i5-4570S / GeForce GTX 750 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "385760",
+    "title": "NBA 2K17",
+    "timestamp": 1535179108,
+    "rating": "Borked",
+    "notes": "The game crash at startup after the team banners",
+    "os": "Manjaro Stable 64-bit",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-4790K / GTX 1060 6GB",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "385760",
+    "cpu": "AMD Ryzen 7 1700 Eight-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "X.Org AMD Radeon (TM) RX 480 Graphics (POLARIS10, DRM 3.26.0, 4.18.11-arch1-1-ARCH, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel (git-cb863de626)",
+    "kernel": "4.18.11-arch1-1-ARCH",
+    "notes": "Doesn't start at all",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "32159 Mb",
+    "rating": "Borked",
+    "timestamp": 1538514382,
+    "title": "NBA 2K17"
+  }
+]

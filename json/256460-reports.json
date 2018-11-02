@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "256460",
+    "cpu": "AMD FX(tm)-6350 Six-Core Processor",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 660/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.18.5-90.current",
+    "notes": "Everything worked fine. No tweaks necessary.",
+    "os": "\"Solus\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7916 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538275323,
+    "title": "Cosmic Star Heroine"
+  }
+]

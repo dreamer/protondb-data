@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "98600",
+    "title": "Demolition Inc.",
+    "timestamp": 1535861275,
+    "rating": "Borked",
+    "notes": "Exception / Access Violation",
+    "os": "Linux Mint 19 64-bit (4.15.0)",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i5-4690K / 970 GTX",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "98600",
+    "title": "Demolition Inc.",
+    "timestamp": 1535724031,
+    "rating": "Borked",
+    "notes": "Seems to start, but black screen only",
+    "os": "Linux Mint 18 64-bit (Kernel 4.4.0)",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "i5-4690K / GTX970",
+    "protonVersion": "Default"
+  }
+]

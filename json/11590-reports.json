@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "11590",
+    "title": "Hospital Tycoon",
+    "timestamp": 1535145774,
+    "rating": "Platinum",
+    "notes": "Runs perfectly",
+    "os": "Solus 3.9999 shannon (Kernel 4.17.14-86.current)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i7-4790 / R9 380",
+    "protonVersion": "Default"
+  }
+]

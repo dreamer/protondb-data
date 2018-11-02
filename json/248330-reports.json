@@ -1,0 +1,52 @@
+[
+  {
+    "appId": "248330",
+    "title": "Dino Run DX",
+    "timestamp": 1534896000,
+    "rating": "Silver",
+    "notes": "Fine in default window, strangely laggy full screen",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-6600k / GTX 980 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "248330",
+    "title": "Dino Run DX",
+    "timestamp": 1535763938,
+    "rating": "Platinum",
+    "notes": "runs flawless",
+    "os": "Archlinux 64-bit (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "E3-1230 V2 / GTX 660",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "248330",
+    "cpu": "i3-2100 CPU @ 3.10GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Sandybridge Desktop x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 17.0.7",
+    "kernel": "4.10.0-42-generic",
+    "os": "Ubuntu 17.04 (64 bit)",
+    "protonVersion": "Defalt",
+    "ram": "3888 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536691401,
+    "title": "Dino Run DX"
+  },
+  {
+    "appId": "248330",
+    "cpu": "AMD Ryzen 7 2700X Eight-Core Processor",
+    "duration": "aboutAnHour",
+    "gpu": "X.Org Radeon RX 580 Series (POLARIS10, DRM 3.23.0, 4.16.0-2-amd64, LLVM 6.0.1)",
+    "gpuDriver": "3.1 Mesa 18.1.7",
+    "kernel": "4.16.0-2-amd64",
+    "notes": "Everything works perfectly out of the box.",
+    "os": "Debian GNU/Linux testing (buster) (64 bit)",
+    "protonVersion": "Default",
+    "ram": "32155 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538197768,
+    "title": "Dino Run DX"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "509980",
+    "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-20-generic",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Default",
+    "ram": "32102 Mb",
+    "rating": "Borked",
+    "timestamp": 1539149775,
+    "title": "BIGFOOT"
+  }
+]

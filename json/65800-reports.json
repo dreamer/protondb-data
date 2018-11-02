@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "65800",
+    "title": "Dungeon Defenders",
+    "timestamp": 1535515889,
+    "rating": "Platinum",
+    "notes": "This is a native version, Proton is NOT needed to play this game",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4790K/ GTX 770",
+    "protonVersion": "Native version no needed."
+  }
+]

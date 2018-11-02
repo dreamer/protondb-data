@@ -1,0 +1,127 @@
+[
+  {
+    "appId": "40970",
+    "title": "Stronghold Crusader HD",
+    "timestamp": 1534896000,
+    "rating": "Platinum",
+    "notes": "",
+    "os": "Arch Linux",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "Ryzen 5 1600X / GTX 1080",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "40970",
+    "title": "Stronghold Crusader HD",
+    "timestamp": 1534938186,
+    "rating": "Silver",
+    "notes": "Multiplayer does not work",
+    "os": "Ubuntu 18-04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-3930k / NVIDIA GTX 980",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "40970",
+    "title": "Stronghold Crusader HD",
+    "timestamp": 1534942922,
+    "rating": "Silver",
+    "notes": "Works almost fine \u2713 but:\n- While Steam Overlay works out of the box,\n- Making Steam screenshot glitches screen and makes game unplayable (both in menu and game)\n- Alt tabbing also makes the game rendering glitched (black screen) and it also brokes Steam Overlay\nPartial solution:\n- Setting in game options resolution to something other than native fixes some issues! For me I've chosen 1600x900 (when native is 1920x1080)\n- Now alt-tabing works just fine.\n- Screenshotting *still* glitches the game but that *can be quickly fixed with alt-tabbing out-and-in*\n- Minor issue with that \"fix\" - when alt tabbing system bar is drawn over the game sometimes - changing video resolution fixes it until next alt-tab.\n- Otherwise game works fine! (Haven't checked multiplayer tho')",
+    "os": "Linux Mint 18.3 (Cinnamon)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-6700HQ / GTX 960M",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "40970",
+    "title": "Stronghold Crusader HD",
+    "timestamp": 1535117594,
+    "rating": "Silver",
+    "notes": "Crashes on alt-tab, no multiplayer",
+    "os": "Ubuntu 18.04 LTS With Cinnamon (Kernel 4.15.0-32-generic)",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i5-6300HQ / GTX 950M",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "40970",
+    "title": "Stronghold Crusader HD",
+    "timestamp": 1535131182,
+    "rating": "Platinum",
+    "notes": "Works fine",
+    "os": "Fedora release 28 64-bit (Kernel 4.17.17-200.fc28.x86_64)",
+    "gpuDriver": "3.1 Mesa 18.1.6",
+    "specs": "AMD FX(tm)-4100 Quad-Core / Radeon RX 580 Series",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "40970",
+    "title": "Stronghold Crusader HD",
+    "timestamp": 1535202146,
+    "rating": "Platinum",
+    "notes": "Nothing of Note",
+    "os": "Ubuntu 18.04 (Kernel 14.15)",
+    "gpuDriver": "Mesa 18.0.5",
+    "specs": "Intel i5-5200U/Intel HD Graphics 5500",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "40970",
+    "title": "Stronghold Crusader HD",
+    "timestamp": 1535290945,
+    "rating": "Platinum",
+    "notes": "Works perfectly",
+    "os": "Manjaro Stable 64-bit (Kernel 4.18.4-1)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 7 1700/RX 580",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "40970",
+    "title": "Stronghold Crusader HD",
+    "timestamp": 1535527177,
+    "rating": "Platinum",
+    "notes": "Works out of the box.",
+    "os": "Solus OS 3.9999 (Kernel 4.17.17)",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "B960 / GTX 520M",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "40970",
+    "title": "Stronghold Crusader HD",
+    "timestamp": 1536059625,
+    "rating": "Bronze",
+    "notes": "Switching to another workspace (I guess an equivalent to alt-tabbing) causes the game screen to go black.",
+    "os": "Arch Linux (Kernel 4.14)",
+    "gpuDriver": "Mesa 18.1.7.0",
+    "specs": "i5-5200U /  Intel HD Graphics 5500 ",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "40970",
+    "title": "Stronghold Crusader HD",
+    "timestamp": 1536212592,
+    "rating": "Bronze",
+    "notes": "Mouse scroll to the right/down is broken, otherwise it works as expected",
+    "os": "Manjaro Rolling amd64 (kernel 4.17.17)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Radeon R5 M230",
+    "protonVersion": "3.7-3"
+  },
+  {
+    "appId": "40970",
+    "cpu": "Intel Core i5-6400 @ 2.70GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA GeForce GTX 1080",
+    "gpuDriver": "NVIDIA 396.54",
+    "kernel": "4.15.0-38-generic",
+    "notes": "The game does not start in any way.",
+    "os": "Ubuntu 16.04.5 LTS",
+    "protonVersion": "Default",
+    "ram": "16 GB",
+    "rating": "Borked",
+    "timestamp": 1540758520,
+    "title": "Stronghold Crusader HD"
+  }
+]

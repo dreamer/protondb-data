@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "927270",
+    "cpu": "Intel i7-6700K",
+    "duration": "lessThanAnHour",
+    "gpu": "Vega 64",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "kernel": "4.18.12-300.fc29.x86_64",
+    "notes": "Some invisible characters. Light static on audio.",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "32 GB",
+    "rating": "Silver",
+    "timestamp": 1540226251,
+    "title": "Accounting+"
+  }
+]

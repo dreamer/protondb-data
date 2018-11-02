@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "451340",
+    "title": "Gold Rush: The Game",
+    "timestamp": 1535383626,
+    "rating": "Gold",
+    "notes": "Runs smoothly, no errors",
+    "os": "Ubuntu 18.04.1 LTS (Kernel 4.15.0-33)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i9-7900X / GTX 1060 6GB",
+    "protonVersion": "3.7-4"
+  }
+]

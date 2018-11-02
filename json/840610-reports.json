@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "840610",
+    "title": "Fortune-499",
+    "timestamp": 1535444474,
+    "rating": "Borked",
+    "notes": "d3d11: failed to create D3D11 device",
+    "os": "Ubuntu 16.04",
+    "gpuDriver": "NVIDIA 384.111",
+    "specs": "AMD FX(tm)-4100 Quad-Core / GeForce GTX 550 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "840610",
+    "cpu": "AMD Ryzen 5 1600 Six-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.67",
+    "kernel": "4.15.0-29deepin-generic",
+    "os": "Deepin 15.7 (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16038 Mb",
+    "rating": "Platinum",
+    "timestamp": 1539150970,
+    "title": "Fortune-499"
+  }
+]

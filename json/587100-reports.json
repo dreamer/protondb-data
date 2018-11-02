@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "587100",
+    "title": "Ys SEVEN",
+    "timestamp": 1535264208,
+    "rating": "Silver",
+    "notes": "Font is way too wide, occasionally overlaps or runs off the edge of the screen. Otherwise no issues found.",
+    "os": "Linux Mint 19 64-bit (Kernel 4.15)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7 870 / GTX 970",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "587100",
+    "title": "Ys SEVEN",
+    "timestamp": 1535859860,
+    "rating": "Gold",
+    "notes": "Button mapping icons for DualShock 4 are incorrect, but can still be configured how you want",
+    "os": "Debian Testing",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i5-4690 / GTX 660OC",
+    "protonVersion": "Default"
+  }
+]

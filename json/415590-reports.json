@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "415590",
+    "title": "Earthfall",
+    "timestamp": 1535676878,
+    "rating": "Platinum",
+    "notes": "Works great, but runs really slow on my card, use something better.",
+    "os": "Solus 64bits Kernel 4.17",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "AMD R7 240 2GB",
+    "protonVersion": "3.7-5"
+  }
+]

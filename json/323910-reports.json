@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "323910",
+    "title": "SteamVR Performance Test",
+    "timestamp": 1536326212,
+    "rating": "Borked",
+    "notes": "Tried to start, but couldn't run / Stayed in the background until reboot / None",
+    "os": "Ubuntu 18.04 4.15.0-33-generic",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i5-6600K / GTX 1060",
+    "protonVersion": "Default"
+  }
+]

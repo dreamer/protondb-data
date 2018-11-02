@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "286140",
+    "title": "Eidolon",
+    "timestamp": 1535928172,
+    "rating": "Borked",
+    "notes": "-",
+    "os": "Ubuntu 18.04 (4.15)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-7600 / GTX 1050Ti",
+    "protonVersion": "Default"
+  }
+]

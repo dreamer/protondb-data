@@ -1,0 +1,41 @@
+[
+  {
+    "appId": "353700",
+    "title": "The Deadly Tower of Monsters",
+    "timestamp": 1535718535,
+    "rating": "Silver",
+    "notes": "Game is playable, performance is pretty bad (20 to 30 FPS with terrible framepacing), DXVK hud is not showing and not writing logs so something funky with DXVK going on",
+    "os": "Arch Linux 64-bit (Kernel 4.18.3)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 7 1700 / GTX 1070",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "353700",
+    "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Playable, but runs at 30-45 FPS whatever the graphic options are; shadows off slightly improves performance, but not comparable to running on Windows.",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "15923 Mb",
+    "rating": "Silver",
+    "timestamp": 1537407543,
+    "title": "The Deadly Tower of Monsters"
+  },
+  {
+    "appId": "353700",
+    "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Playable, but with bad framerates (30-40). Overral, considerably worse performance than on Windows.",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15923 Mb",
+    "rating": "Silver",
+    "timestamp": 1537858032,
+    "title": "The Deadly Tower of Monsters"
+  }
+]

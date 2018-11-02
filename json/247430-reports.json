@@ -1,0 +1,51 @@
+[
+  {
+    "appId": "247430",
+    "title": "Hitman: Contracts",
+    "timestamp": 1535003817,
+    "rating": "Bronze",
+    "notes": "Game runs fine but the keyboard doesn't work",
+    "os": "ArchLinux (Kernel 4.18.3)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "Ryzen 5 2600 / GTX 770",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "247430",
+    "title": "Hitman: Contracts",
+    "timestamp": 1535181579,
+    "rating": "Silver",
+    "notes": "Game looks squashed on 1920*1080. Had to use 1280*1024 for more normal look. No problems with sound, keyboard or mouse.",
+    "os": "Arch Linux (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-8700 / GTX 1080 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "247430",
+    "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-34-generic",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "15923 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537423277,
+    "title": "Hitman: Contracts"
+  },
+  {
+    "appId": "247430",
+    "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54.05",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Runs fine",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15980 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537825759,
+    "title": "Hitman: Contracts"
+  }
+]

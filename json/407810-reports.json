@@ -1,0 +1,69 @@
+[
+  {
+    "appId": "407810",
+    "title": "Hard Reset Redux",
+    "timestamp": 1535041482,
+    "rating": "Platinum",
+    "notes": "Works perfectly",
+    "os": "Debian unstable",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i5-7400 / NVIDIA GTX 1070",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "407810",
+    "title": "Hard Reset Redux",
+    "timestamp": 1535722354,
+    "rating": "Platinum",
+    "notes": "Works perfectly",
+    "os": "Debian unstable",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-7400 / NVIDIA GTX 1070",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "407810",
+    "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "X.Org AMD Radeon (TM) R9 Fury Series (FIJI, DRM 3.23.0, 4.15.0-36-generic, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Fails to start with \"DirectX 10 Device Not Found!\" error.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "15901 Mb",
+    "rating": "Borked",
+    "timestamp": 1538528463,
+    "title": "Hard Reset Redux"
+  },
+  {
+    "appId": "407810",
+    "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.4.0-135-generic",
+    "notes": "When I tried to run the game, I got the error \"Failed to create IDXGIFactory1, Windows Vista SP2 or higher operating system needed!\" When I used the launch option \"PROTON_USE_WINED3D11=1 %command%\" I got the error \"DirectX 10 device not found!\" Any other launch options (or combinations of launch options) just causes it to run then immediately exit. It was unplayable for me with both Proton 3.7-6 and Proton 3.7-7 Beta. It's a shame too. I really wanted this to work.",
+    "os": "Linux Mint 17.3 Rosa (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15983 Mb",
+    "rating": "Borked",
+    "timestamp": 1538856772,
+    "title": "Hard Reset Redux"
+  },
+  {
+    "appId": "407810",
+    "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Set all graphics to ultra, including buffering, within the game. Because the settings were changed in game, I'm going to rate as Platinum.",
+    "os": "Linux Mint 18.3 Sylvia (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "32113 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538964919,
+    "title": "Hard Reset Redux"
+  }
+]

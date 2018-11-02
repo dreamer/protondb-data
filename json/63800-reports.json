@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "63800",
+    "title": "Delve Deeper",
+    "timestamp": 1534941221,
+    "rating": "Borked",
+    "notes": "Game installs from Steam, won't run, crashes straight back to the library.",
+    "os": "Fedora 28",
+    "gpuDriver": " NVIDIA 390.48",
+    "specs": "Intel i7-4770K / Nvidia GTX 780 Ti",
+    "protonVersion": "Default"
+  }
+]

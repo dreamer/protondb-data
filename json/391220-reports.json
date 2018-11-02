@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "391220",
+    "title": "Rise of the Tomb Raider",
+    "timestamp": 1535543200,
+    "rating": "Platinum",
+    "notes": "I had a perfect 60fps with no apparent glitching",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-7700HQ",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "391220",
+    "title": "Rise of the Tomb Raider",
+    "timestamp": 1535916962,
+    "rating": "Gold",
+    "notes": "It runs like great if not better than on Windows while in the game, though some menu options create weird loops (exit button, for example, repeats the music before letting you exit the game)",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7 7700HQ, gtx 1050",
+    "protonVersion": ""
+  }
+]

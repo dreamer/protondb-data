@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "527480",
+    "title": "Life Beetle",
+    "timestamp": 1535163498,
+    "rating": "Borked",
+    "notes": "It stays in running but nothing opens.",
+    "os": "Arch Linux (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-7700HQ / GTX 1060",
+    "protonVersion": "Default"
+  }
+]

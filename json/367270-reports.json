@@ -1,0 +1,42 @@
+[
+  {
+    "appId": "367270",
+    "title": "Angels Fall First",
+    "timestamp": 1535234131,
+    "rating": "Borked",
+    "notes": "cannot install microsoft .net, will not start at all because of this, maybe more issues too.",
+    "os": "Linux Mint 19",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": " i5-7600K / GTX 1080 ",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "367270",
+    "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 750 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Stalls while installing .NET",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15993 Mb",
+    "rating": "Borked",
+    "timestamp": 1537490863,
+    "title": "Angels Fall First"
+  },
+  {
+    "appId": "367270",
+    "cpu": "AMD Ryzen 7 1700 Eight-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 410.57",
+    "kernel": "4.18.12-arch1-1-ARCH",
+    "notes": "On first run, the game will stall during .NET installation. This game does not even use .NET as mentioned by the developers. Upon removing .NET install from redist folder, the game just does not start.",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16036 Mb",
+    "rating": "Borked",
+    "timestamp": 1539150362,
+    "title": "Angels Fall First"
+  }
+]

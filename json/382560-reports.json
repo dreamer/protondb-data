@@ -1,0 +1,38 @@
+[
+  {
+    "appId": "382560",
+    "title": "Hot Lava",
+    "timestamp": 1535109094,
+    "rating": "Silver",
+    "notes": "Performance is okay, I need to use Medium graphics quality; First start takes around 30seconds with no response, but works afterwards, ",
+    "os": "Arch Linux",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Intel Xeon E3-1230v5 / GTX 1060 6GB",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "382560",
+    "title": "Hot Lava",
+    "timestamp": 1536096675,
+    "rating": "Platinum",
+    "notes": "Performance is great, and I can run at highest graphics settings. Changing the resolution seems to be a bit unresponsive. Game runs well fullscreen and in windowed mode.",
+    "os": "Debian 9.5",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i5-4570",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "382560",
+    "cpu": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.77",
+    "kernel": "4.9.0-8-amd64",
+    "notes": "Initial startup time is a bit long, but after that there are no problems with the game.",
+    "os": "Debian GNU/Linux 9.5 (stretch) (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "15940 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537396624,
+    "title": "Hot Lava"
+  }
+]

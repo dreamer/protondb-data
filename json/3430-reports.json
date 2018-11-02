@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "3430",
+    "title": "Pizza Frenzy",
+    "timestamp": 1535290452,
+    "rating": "Platinum",
+    "notes": "Works Perfectly",
+    "os": "Manjaro Stable 64-bit (Kernel 4.18.4-1)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 7 1700/RX 580",
+    "protonVersion": "3.7-4"
+  }
+]

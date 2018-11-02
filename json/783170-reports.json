@@ -1,0 +1,20 @@
+[
+  {
+    "appId": "783170",
+    "cpu": "Intel(R) Core(TM) i7 CPU         870  @ 2.93GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.9-arch1-1-ARCH",
+    "notes": "Well, technically everything seems to work, and at minimum settings it's just about almost playable. Performance is real, real bad though.",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15975 Mb",
+    "rating": "Bronze",
+    "timestamp": 1538114433,
+    "tweaks": {
+      "disableEsync": true
+    },
+    "title": "INSOMNIA: The Ark"
+  }
+]

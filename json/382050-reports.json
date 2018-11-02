@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "382050",
+    "title": "Eon Altar",
+    "timestamp": 1534969931,
+    "rating": "Borked",
+    "notes": "",
+    "os": "Fedora 28",
+    "gpuDriver": "MESA 18.0.5-3",
+    "specs": "i5-4690K, AMD RX 560",
+    "protonVersion": "Default"
+  }
+]

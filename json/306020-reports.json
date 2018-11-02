@@ -1,0 +1,75 @@
+[
+  {
+    "appId": "306020",
+    "title": "Bloons Td 5",
+    "timestamp": 1535589259,
+    "rating": "Platinum",
+    "notes": "Seems to be identical to windows. Perfectly playable in the early game at least, not sure if late game will change with the increased numbers of enemies. ",
+    "os": "Linux Mint 19 (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-7700hq",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "306020",
+    "title": "Bloons TD5",
+    "timestamp": 1534959652,
+    "rating": "Bronze",
+    "notes": "Works good just no sound or music",
+    "os": "Ubuntu MATE 18.04.1 64-bit (Kernel 4.15.32)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "GTX 1050 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "306020",
+    "title": "Bloons TD5",
+    "timestamp": 1535119889,
+    "rating": "Bronze",
+    "notes": "no sound. ",
+    "os": "Manjaro Unstable 64-bit (Kernel 4.18.4-1)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-6300HQ",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "306020",
+    "title": "Bloons TD5",
+    "timestamp": 1535176862,
+    "rating": "Bronze",
+    "notes": "Ultrawide does not work, going into windowed mode works fine. Cloud saving works.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit) Kernel (4.15.0-33)",
+    "gpuDriver": "3.1 Mesa 18.1.5",
+    "specs": "AMD Ryzen 5 2600X Six-Core / Radeon RX Vega 56",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "306020",
+    "cpu": "AMD Ryzen 7 1800X Eight-Core Processor",
+    "gpu": "X.Org Radeon RX 580 Series (POLARIS10, DRM 3.26.0, 4.18.7-arch1-1-ARCH, LLVM 6.0.1)",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.0",
+    "kernel": "4.18.7-arch1-1-ARCH",
+    "notes": "No Sound",
+    "os": "\"Arch Linux\" (64 Bit)",
+    "protonVersion": "3.7-6",
+    "ram": "32158 MB",
+    "rating": "Silver",
+    "timestamp": 1537098857,
+    "title": "Bloons TD 5"
+  },
+  {
+    "appId": "306020",
+    "cpu": "AMD Ryzen 5 2600 Six-Core Processor",
+    "duration": "severalHours",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-36-generic",
+    "notes": "no sound- which I find to be an upgrade",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Default",
+    "ram": "32160 Mb",
+    "rating": "Silver",
+    "timestamp": 1539233063,
+    "title": "Bloons TD 5"
+  }
+]

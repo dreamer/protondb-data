@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "403830",
+    "title": "The Consuming Shadow",
+    "timestamp": 1535297417,
+    "rating": "Platinum",
+    "notes": "Runs Flawlessly",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-8700K/GTX 1080 Ti",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "351340",
+    "title": "Belladonna",
+    "timestamp": 1535422400,
+    "rating": "Platinum",
+    "notes": "No issues observed",
+    "os": "Antergos (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-2600 / GTX 1070",
+    "protonVersion": "Default"
+  }
+]

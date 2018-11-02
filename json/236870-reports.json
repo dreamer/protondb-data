@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "236870",
+    "title": "Hitman",
+    "timestamp": 1535303209,
+    "rating": "Platinum",
+    "notes": "I haven't done extensive testing, but it seems to run fine. ",
+    "os": "Antergos 4.14.18-4",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "I7-8700K / EVGA 1080 FTW ",
+    "protonVersion": "Default"
+  }
+]

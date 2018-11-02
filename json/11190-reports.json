@@ -1,0 +1,28 @@
+[
+  {
+    "appId": "11190",
+    "title": "Sherlock Holmes versus Jack the Ripper",
+    "timestamp": 1535064770,
+    "rating": "Platinum",
+    "notes": "No noticeable issues",
+    "os": "Ubuntu 18.04 64-bit (Kernel 4.15.0)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7 4790k / GTX 1080 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "11190",
+    "cpu": "Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA Corporation GeForce 9400 GT/PCIe/SSE2",
+    "gpuDriver": "3.3.0 NVIDIA 340.107",
+    "kernel": "4.18.12-arch1-1-ARCH",
+    "notes": "Got a random crash, same thing happened on Windows though, advised to save regularly just in case.",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "Default",
+    "ram": "3944 Mb",
+    "rating": "Platinum",
+    "timestamp": 1539626401,
+    "title": "Sherlock Holmes versus Jack the Ripper"
+  }
+]

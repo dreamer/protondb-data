@@ -1,0 +1,68 @@
+[
+  {
+    "appId": "557600",
+    "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "X.Org Radeon RX 580 Series (POLARIS10, DRM 3.23.0, 4.15.0-36-generic, LLVM 8.0.0)",
+    "gpuDriver": "4.5 (Compatibility Profile) Mesa 18.3.0-devel - padoka PPA",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Sound is crackling.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16006 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538910160,
+    "title": "Gorogoa"
+  },
+  {
+    "appId": "557600",
+    "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 770/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.11-200.fc28.x86_64",
+    "notes": "Perfect.",
+    "os": "\"Fedora release 28 (Twenty Eight)\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "15980 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538911903,
+    "title": "Gorogoa"
+  },
+  {
+    "appId": "557600",
+    "cpu": "Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Sandybridge Mobile",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.18.11-200.fc28.x86_64",
+    "notes": "Very slight sound crackling when game starts (does not matter, really). On this computer, it runs only with 3.7-6 (tried with 3.7-7 Beta and it didn't work). My graphics card does not support Vulkan, therefore I needed to use wined3d11: PROTON_USE_WINED3D11=1 %command%",
+    "os": "\"Fedora release 28 (Twenty Eight)\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "3830 Mb",
+    "rating": "Gold",
+    "timestamp": 1539024945,
+    "tweaks": {
+      "useWineD3d11": true
+    },
+    "title": "Gorogoa"
+  },
+  {
+    "appId": "557600",
+    "cpu": "Intel Core i5-6300U @ 2.40GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "Intel HD 520 (Skylake GT2)",
+    "gpuDriver": "3.0 Mesa 18.2.2",
+    "kernel": "4.15.0-38-generic",
+    "notes": "After setting launcher options to PROTON_USE_WINED3D11=1 %command% it runs perfectly.",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Beta (3.7-8)",
+    "ram": "16 GB",
+    "rating": "Gold",
+    "timestamp": 1540896883,
+    "title": "Gorogoa",
+    "tweaks": {
+      "useWineD3d11": true
+    }
+  }
+]

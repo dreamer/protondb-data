@@ -1,0 +1,53 @@
+[
+  {
+    "appId": "207320",
+    "title": "Ys: The Oath in felghana",
+    "timestamp": 1534984674,
+    "rating": "Borked",
+    "notes": "Elena: D3DERR_INVALIDCALL(8876086ch)\n->Failed to create Z buffer rendering target.\nVRAM may be insufficient.\nrenderer.cpp(661)",
+    "os": "Mint 18.3 (14.5)",
+    "gpuDriver": "AMDGPU-pro 17.5",
+    "specs": "RX480",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "207320",
+    "title": "Ys: The Oath in Felghana",
+    "timestamp": 1535018392,
+    "rating": "Silver",
+    "notes": "virtual desktop used - csmt off - cinematics dont work",
+    "os": "Xubuntu 18.04 x64",
+    "gpuDriver": "NVIDIA 396.51.02",
+    "specs": "Core i3 8350K Tri-Core 5.0ghz",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "207320",
+    "cpu": "AMD FX(tm)-9590 Eight-Core Processor",
+    "gpu": "X.Org AMD PITCAIRN (DRM 2.50.0, 4.18.3-arch1-1-ARCH, LLVM 6.0.1)",
+    "gpuDriver": "3.1 Mesa 18.1.6",
+    "kernel": "4.18.3-arch1-1-ARCH",
+    "notes": "Tested the start of the game, stable 60FPS with no tweaks. Seems to run the same as non-proton versions of wine, which also list this title as Platinum",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15941 Mb",
+    "rating": "Platinum",
+    "timestamp": 1537578804,
+    "title": "Ys: The Oath in Felghana"
+  },
+  {
+    "appId": "207320",
+    "cpu": "AMD FX(tm)-6300 Six-Core Processor",
+    "duration": "severalHours",
+    "gpu": "NVIDIA Corporation GeForce GTX 660/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-36-generic",
+    "notes": "The configuration utility also works.\nI did not test the DX8 version included with the standard game.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "8005 Mb",
+    "rating": "Platinum",
+    "timestamp": 1538707199,
+    "title": "Ys: The Oath in Felghana"
+  }
+]

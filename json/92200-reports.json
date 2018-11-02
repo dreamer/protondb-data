@@ -1,0 +1,35 @@
+[
+  {
+    "appId": "92200",
+    "title": "Gundemonium Recollection",
+    "timestamp": 1534971148,
+    "rating": "Platinum",
+    "notes": "none",
+    "os": "SteamOS",
+    "gpuDriver": "NVIDIA",
+    "specs": "FX-8350 / GTX 1050 ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "92200",
+    "title": "Gundemonium Recollection",
+    "timestamp": 1535054925,
+    "rating": "Borked",
+    "notes": "Error:0126",
+    "os": "Fedora 28",
+    "gpuDriver": "Mesa 18.0.5-3",
+    "specs": "i5-4690k",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "92200",
+    "title": "Gundemonium Recollection",
+    "timestamp": 1535768942,
+    "rating": "Silver",
+    "notes": "Game window in windowed mode cannot be resized. Alt-tabbing while in full-screen mode breaks the game.",
+    "os": "openSUSE Tumbleweed 64-bit (Kernel 4.18.5-1-default)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i5 3550 / RX580 4GB",
+    "protonVersion": "3.7-5"
+  }
+]

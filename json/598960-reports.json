@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "598960",
+    "title": "Mashinky",
+    "timestamp": 1535616551,
+    "rating": "Silver",
+    "notes": "It runs pretty well, but it have some problems with textures on the ground in building mode.",
+    "os": "Elementary OS Loki 64-bit (Kernal 4.15.0-33-generic)",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "specs": "i3-7100/Intel HD Graphics 630",
+    "protonVersion": "Default"
+  }
+]

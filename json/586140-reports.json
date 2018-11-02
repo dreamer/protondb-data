@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "586140",
+    "title": "BlazBlue Centralfiction",
+    "timestamp": 1534809600,
+    "rating": "Borked",
+    "notes": "",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-8700K / GTX 980",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "586140",
+    "cpu": "AMD A8-6410 APU with AMD Radeon R5 Graphics",
+    "gpu": "X.Org AMD MULLINS (DRM 2.50.0, 4.16.0-0.steamos2.1-amd64, LLVM 7.0.0)",
+    "gpuDriver": "3.1 Mesa 18.1.6",
+    "kernel": "4.16.0-0.steamos2.1-amd64",
+    "notes": "INIT Renderer error, it doesnt even start.",
+    "os": "SteamOS 2.0 (64 bit)",
+    "protonVersion": "3.7.6",
+    "ram": "4916 Mb",
+    "rating": "Borked",
+    "timestamp": 1536791945,
+    "title": "BlazBlue Centralfiction"
+  }
+]

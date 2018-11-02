@@ -1,0 +1,27 @@
+[
+  {
+    "appId": "600750",
+    "title": "Star Trek Timelines",
+    "timestamp": 1535716852,
+    "rating": "Silver",
+    "notes": "Audio crackles but is otherwise playable",
+    "os": "Ubuntu 18.04 (Kernel 4.15)",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": " i7-4720HQ / GTX 960M",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "600750",
+    "cpu": "i7-7700 CPU @ 3.60GHz",
+    "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-33-generic",
+    "notes": "Almost everything (audio, graphics, UI, controls, etc) works perfect. Couldn't get the Facebook button in Settings menu to work though.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7.3 and 3.7.5 beta",
+    "ram": "15986 Mb",
+    "rating": "Silver",
+    "timestamp": "1536336187",
+    "title": "Star Trek Timelines"
+  }
+]

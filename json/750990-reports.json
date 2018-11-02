@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "750990",
+    "title": "NEKO-NIN exHeart +PLUS Saiha",
+    "timestamp": 1536069632,
+    "rating": "Platinum",
+    "notes": "audio play over itself in auto mode",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "ryzen 5 1600 / 970",
+    "protonVersion": "3.7-5"
+  }
+]

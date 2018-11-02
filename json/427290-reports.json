@@ -1,0 +1,78 @@
+[
+  {
+    "appId": "427290",
+    "title": "Vampyr",
+    "timestamp": 1535140652,
+    "rating": "Silver",
+    "notes": "Some screen tearing and hanging but changing graphics a bit works well and makes the game smooth",
+    "os": "Xubuntu 18.04",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 5 1600X/AMD RX 560 OC",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "427290",
+    "title": "Vampyr",
+    "timestamp": 1535171395,
+    "rating": "Borked",
+    "notes": "The menus work fine. But in game performance is pixelated and unplayable",
+    "os": "Untu 18.04.1",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "Ryzen 7 2700X",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "427290",
+    "title": "Vampyr",
+    "timestamp": 1535260358,
+    "rating": "Silver",
+    "notes": "Very low FPS on any resolution",
+    "os": "Ubuntu 18.04 (4.15)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-6700K / GTX 1080",
+    "protonVersion": "3.7-3"
+  },
+  {
+    "appId": "427290",
+    "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Single digit framerates at any quality or resolution",
+    "os": "Ubuntu 18.04.1 LTS (64 Bit)",
+    "protonVersion": "Beta",
+    "ram": "32096 MB",
+    "rating": "Borked",
+    "timestamp": 1537543518,
+    "title": "Vampyr"
+  },
+  {
+    "appId": "427290",
+    "cpu": "AMD Ryzen 5 2600 Six-Core Processor",
+    "gpu": "X.Org Radeon RX 560 Series (POLARIS11, DRM 3.26.0, 4.18.9-zen1-1-zen, LLVM 6.0.1)",
+    "gpuDriver": "4.4 (Compatibility Profile) Mesa 18.2.0",
+    "kernel": "4.18.9-zen1-1-zen",
+    "notes": "Performance is ~30fps with high settings, up to 45 - 60fps with lower settings. Crashes after 30 - 60mins. Sometimes (after loading something) goes back to windowed mode, but switching settings from full-screen to windowed and back to full-screen fixes it. Runs fine otherwise (X360 controller works fine as well).",
+    "os": "Arch Linux (64 Bit)",
+    "protonVersion": "Default",
+    "ram": "16054 MB",
+    "rating": "Bronze",
+    "timestamp": 1537637084,
+    "title": "Vampyr"
+  },
+  {
+    "appId": "427290",
+    "cpu": "AMD FX(tm)-6350 Six-Core Processor",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.9.0-8-amd64",
+    "notes": "Major problems with mouse sensitivity makes combat next to impossible.  Couldn't resolve with usual xset/xinput tricks...",
+    "os": "Debian GNU/Linux 9.5 (stretch) (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "20092 Mb",
+    "rating": "Bronze",
+    "timestamp": 1539062207,
+    "title": "Vampyr"
+  }
+]

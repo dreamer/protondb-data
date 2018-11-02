@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "384550",
+    "title": "Painters Guild",
+    "timestamp": 1535710417,
+    "rating": "Borked",
+    "notes": "Gets a \"This application requires a version of Adobe AIR which cannot be found. Please download from adobe.com/go/getair\" error, and crashes before starting,",
+    "os": "Manjaro Stable 64-bit (Kernel 4.18.4)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i5-7300H / GTX 1050 ",
+    "protonVersion": "Default"
+  }
+]

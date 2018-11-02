@@ -1,0 +1,101 @@
+[
+  {
+    "appId": "489520",
+    "title": "Minion Masters",
+    "timestamp": 1534959459,
+    "rating": "Bronze",
+    "notes": "Missing chars models leave game almost unplayable.",
+    "os": "Manjaro 18-beta5 (Kernel 4.18.3)",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "i5-7500U / AMD R7 M445 ",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "489520",
+    "title": "Minion Masters",
+    "timestamp": 1535186599,
+    "rating": "Gold",
+    "notes": "Set -force-d3d9 in Launch Options to make the minion models be visable",
+    "os": "Ubuntu MATE 17.10 (64 bit) Kernal 4.13.0-46",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "i5-4690K",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "489520",
+    "title": "Minion Masters",
+    "timestamp": 1536277540,
+    "rating": "Gold",
+    "notes": "Set launch option -force-d3d9 to see character models",
+    "os": "Linux Mint 18.3 64-bit (Kernel 4.15.0-33-generic)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-7700K / GTX 1070",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "489520",
+    "cpu": "i7-4790K CPU @ 4.00GHz",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "notes": "PROTON_USE_WINED3D11=1 %command% to fix missing models",
+    "os": "Arch Linux (64 bit)",
+    "protonVersion": "3.7-6",
+    "rating": "Gold",
+    "timestamp": "1536451200",
+    "title": "Minion Masters"
+  },
+  {
+    "appId": "489520",
+    "cpu": "i7-4790K CPU @ 4.00GHz",
+    "gpu": "GeForce GTX 980/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "notes": "Starts and runs fine, except that units are invisible xD",
+    "os": "Solus (64 bit)",
+    "protonVersion": "3.7-3",
+    "rating": "Bronze",
+    "timestamp": "1536451200",
+    "title": "Minion Masters"
+  },
+  {
+    "appId": "489520",
+    "cpu": "i7-6700HQ CPU @ 2.60GHz",
+    "gpu": "GeForce GTX 1060/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.6-zen1-1-zen",
+    "notes": "Need to set \"PROTON_USE_WINED3D11=1 %command%\" as a launch option to have character models load properly. ",
+    "os": "Linux 4.x (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "11884 Mb",
+    "rating": "Gold",
+    "timestamp": 1537135373,
+    "title": "Minion Masters"
+  },
+  {
+    "appId": "489520",
+    "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-34-generic",
+    "notes": "-force-d3d9 in your steam launch options allows unit models to load correctly",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7",
+    "ram": "15966 Mb",
+    "rating": "Gold",
+    "timestamp": 1537199702,
+    "title": "Minion Masters"
+  },
+  {
+    "appId": "489520",
+    "cpu": "AMD FX(tm)-6300 Six-Core Processor",
+    "gpu": "X.Org AMD Radeon (TM) RX 470 Graphics (POLARIS10, DRM 3.26.0, 4.18.0-041800-generic, LLVM 6.0.0)",
+    "gpuDriver": "3.1 Mesa 18.1.7 - padoka PPA",
+    "kernel": "4.18.0-041800-generic",
+    "notes": "set launcher option PROTON_USE_WINED3D11=1 %command%",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "16022 Mb",
+    "rating": "Gold",
+    "timestamp": 1537297182,
+    "title": "Minion Masters"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "383580",
+    "title": "Flesh Eaters",
+    "timestamp": 1536284909,
+    "rating": "Platinum",
+    "notes": "No issues seen",
+    "os": "Arch 64-bit (Kernel 4.18.5)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4790K / GTX 1080",
+    "protonVersion": "3.7-5"
+  }
+]

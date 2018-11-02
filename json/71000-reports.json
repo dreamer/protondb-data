@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "71000",
+    "title": "Evochron Mercenary",
+    "timestamp": 1534947677,
+    "rating": "Borked",
+    "notes": "Fails to launch",
+    "os": "Ubuntu 18.04.1 LTS",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "specs": "i7-6700k / AMD R9 FURY X",
+    "protonVersion": "Default"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "42890",
+    "title": "Sword of the Stars Complete Collection",
+    "timestamp": 1534958401,
+    "rating": "Borked",
+    "notes": "Shows games own dialog about error log dump having been done",
+    "os": "Xubuntu 16.04.5 LTS",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-6600K",
+    "protonVersion": "Default"
+  }
+]

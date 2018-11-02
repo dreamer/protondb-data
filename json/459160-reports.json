@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "459160",
+    "title": "Allods Online My.com",
+    "timestamp": 1534931952,
+    "rating": "Gold",
+    "notes": "The Steam API dll needs to be deleted from the game folder, otherwise the game complains about Steam \"not running\"",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "open source Intel Mesa drivers",
+    "specs": "Intel HD 3000",
+    "protonVersion": "Default"
+  }
+]

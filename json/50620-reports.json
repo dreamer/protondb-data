@@ -1,0 +1,91 @@
+[
+  {
+    "appId": "50620",
+    "title": "Darksiders",
+    "timestamp": 1534896000,
+    "rating": "Borked",
+    "notes": "",
+    "os": "Debian Stretch",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7-4770k / GTX 1080ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "50620",
+    "title": "Darksiders",
+    "timestamp": 1534896000,
+    "rating": "Borked",
+    "notes": "No videos, no menu, if you tap around you can get the game to start. The game itself runs but the only overlay is the map. So, unplayable.",
+    "os": "Gentoo Linux",
+    "gpuDriver": "MESA 18.1.6",
+    "specs": "Intel UHD620",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "50620",
+    "title": "Darksiders",
+    "timestamp": 1535318269,
+    "rating": "Borked",
+    "notes": "Black screen/ with sound; will run in Lutris",
+    "os": "Kubuntu 18.04",
+    "gpuDriver": "NVIDIA 390.64",
+    "specs": "Intel Q6600 / GTS 450",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "50620",
+    "title": "Darksiders",
+    "timestamp": 1535665923,
+    "rating": "Borked",
+    "notes": "The directx install on the first launch failed. The game starts and goes to the main menu but the screen is black. I pushed buttons blindly until i got in the game. The world seems fine but the user interface is not rendered so it's unplayable",
+    "os": "Ubuntu 18.04 64-bit (Kernel 4.18.5)",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "i7-4790 / R9 390",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "50620",
+    "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54.09",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Sounds can be heard, but the game only launches a black screen instead of cinematics and main menu.",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "15923 Mb",
+    "rating": "Borked",
+    "timestamp": 1540045256,
+    "title": "Darksiders\u2122"
+  },
+  {
+    "appId": "50620",
+    "cpu": "AMD FX(tm)-8320 Eight-Core Processor",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA Corporation GeForce GTX 950/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 410.57",
+    "kernel": "4.18.14-arch1-1-ARCH",
+    "notes": "The directx install on the first launch failed. The game starts and goes to the main menu but the screen is black. I pushed buttons blindly until i got in the game. The world seems fine but the user interface is not rendered so it's unplayable",
+    "os": "\"Antergos Linux\" (64 bits)",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "16022 MB",
+    "rating": "Borked",
+    "timestamp": 1540084548,
+    "title": "Darksiders\u2122"
+  },
+  {
+    "appId": "50620",
+    "cpu": "AMD Ryzen 5 1600X Six-Core",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA GeForce GTX 980 Ti",
+    "gpuDriver": "NVIDIA 410.73",
+    "kernel": "4.18.0-11-generic",
+    "notes": "Loads into a menu that plays sound effects of the menu but with absolutely no visuals",
+    "os": "Ubuntu 18.10",
+    "protonVersion": "Default",
+    "ram": "16 GB",
+    "rating": "Borked",
+    "timestamp": 1540759269,
+    "title": "Darksiders\u2122"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "433580",
+    "cpu": "AMD Phenom(tm) II X4 955 Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060 6GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Does not launch; requires 256 color display. Not sure how to work around or force Proton to run in 256 colors.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "7974 Mb",
+    "rating": "Borked",
+    "timestamp": 1540065478,
+    "title": "Timelapse"
+  }
+]

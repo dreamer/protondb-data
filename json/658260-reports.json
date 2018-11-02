@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "658260",
+    "title": "BLUE REFLECTION",
+    "timestamp": 1535816185,
+    "rating": "Borked",
+    "notes": "the launcher start but when i press play the game windows open and close instant",
+    "os": "Fedora 27 64bit (Kernel 4.17.17)",
+    "gpuDriver": "Mesa 17.3.9",
+    "specs": "FX 6300/R9 380",
+    "protonVersion": "3.7-5"
+  }
+]

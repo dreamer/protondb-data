@@ -1,0 +1,77 @@
+[
+  {
+    "appId": "323370",
+    "title": "TERA",
+    "timestamp": 1534989068,
+    "rating": "Gold",
+    "notes": "Performance is playable",
+    "os": "Manjaro Stable 64-bit Kernel (4.14)",
+    "gpuDriver": "NVIDIA 369.51",
+    "specs": "Intel i7-3770 / GTX 970",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "323370",
+    "title": "TERA",
+    "timestamp": 1535075998,
+    "rating": "Borked",
+    "notes": "The TERA Launcher is unable to load copycub.dll file.\nErrorMessage: Interop load failed\nIf this problem persists please visit support.enmasse.com/tera for additional help\n\n\nThe TERA Launcher is unable to load steamsupport.dll file.\nErrorMessage: User cancelled...\nIf this problem persists please visit support.enmasse.com/tera for additional help",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i7-47905 / GTX 970",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "323370",
+    "title": "Tera",
+    "timestamp": 1535786702,
+    "rating": "Platinum",
+    "notes": "no errors, smooth gameplay",
+    "os": "Ubuntu 18.04 LTS",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7 6700HQ / GTX960m",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "323370",
+    "cpu": "i5-2310 CPU @ 2.90GHz",
+    "gpu": "X.Org AMD Radeon (TM) RX 480 Graphics (POLARIS10, DRM 3.26.0, 4.18.5-90.current, LLVM 6.0.1)",
+    "gpuDriver": "3.1 Mesa 18.1.6",
+    "kernel": "4.18.5-90.current",
+    "notes": "Stuck on \"Preparing to launch...\" Does not load the game.",
+    "os": "\"Solus\" (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "23960 Mb",
+    "rating": "Borked",
+    "timestamp": 1536889648,
+    "title": "TERA"
+  },
+  {
+    "appId": "323370",
+    "cpu": "AMD Ryzen 7 1800X Eight-Core Processor",
+    "gpu": "NVIDIA Corporation GeForce GTX 1050 Ti/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-33-generic",
+    "notes": "Copycub.dll doesn't work",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "Default",
+    "ram": "16053 Mb",
+    "rating": "Borked",
+    "timestamp": 1537504919,
+    "title": "TERA"
+  },
+  {
+    "appId": "323370",
+    "cpu": "AMD Ryzen 5 1400 Quad-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1050/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-36-generic",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "7974 Mb",
+    "rating": "Borked",
+    "timestamp": 1539401814,
+    "title": "TERA"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "appId": "431840",
+    "cpu": "Intel Core i5-6500 @ 3.20GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA GeForce GTX 1060 3GB",
+    "gpuDriver": "NVIDIA 390.77",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Did not encounter anything that did not work as expected.",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Default",
+    "ram": "16 GB",
+    "rating": "Platinum",
+    "timestamp": 1540667716,
+    "title": "3DRPG"
+  }
+]

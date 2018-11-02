@@ -1,0 +1,61 @@
+[
+  {
+    "appId": "311730",
+    "title": "DEAD OR ALIVE 5 Last Round",
+    "timestamp": 1534896000,
+    "rating": "Borked",
+    "notes": "Just displays a white screen upon launch.",
+    "os": "Linux Mint 19",
+    "gpuDriver": "NVIDA 395.51",
+    "specs": "AMD FX 8350 / GTX 1080",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "311730",
+    "title": "DEAD OR ALIVE 5 Last Round",
+    "timestamp": 1535112194,
+    "rating": "Gold",
+    "notes": "Esync must be disabled. put \"PROTON_NO_ESYNC=1 %command%\" in launch options",
+    "os": "Antergos",
+    "gpuDriver": "Mesa 18.1.6",
+    "specs": "Ryzen 5 1600 / RX470",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "311730",
+    "title": "DEAD OR ALIVE 5 Last Round",
+    "timestamp": 1535542305,
+    "rating": "Gold",
+    "notes": "Running with launch options: \n\"PROTON_NO_ESYNC=1 %command%,PULSE_LATENCY_MSEC=60 %command%\"\nThe former command fixes white screens on launch, the latter fixes audio issues.\nThe game works as expected, other than some spontaneous lockups every now and then that last no longer than one or two seconds. My underpowered GPU may be to blame. YMMV.",
+    "os": "Ubuntu 18.04.1 LTS (Kernel 4.18.5)",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "specs": "Phenom II X6 1035T / Radeon HD 5750",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "311730",
+    "title": "Dead or Alive 5 Last Round",
+    "timestamp": 1536365790,
+    "rating": "Gold",
+    "notes": "Requires already mentioned launch options, requires user input at black screen to progress, config in separate small app appears non-functional / no full screen, some issues may be related to f2p version",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "Mesa 18.1.7",
+    "specs": "i7-6700K / RX Vega 56",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "311730",
+    "cpu": "Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 970/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.9-arch1-1-ARCH",
+    "notes": "Able to get past the white screen on launch by disabling esync, but at the black screen there's no prompt for user input like the other reporter suggested (if there is something the user should do without a prompt, please post what to do).  Proton logs yield the following error repeated continually at the black screen: no class object could be created for context 0x3\n\nI'm unable to progress beyond this.",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15983 Mb",
+    "rating": "Borked",
+    "timestamp": 1538787252,
+    "title": "DEAD OR ALIVE 5 Last Round: Core Fighters"
+  }
+]

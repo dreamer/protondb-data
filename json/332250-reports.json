@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "332250",
+    "cpu": "i5-3570K CPU @ 3.40GHz",
+    "gpu": "GeForce GTX 550 Ti/PCIe/SSE2",
+    "gpuDriver": "4.5.0 NVIDIA 384.130",
+    "kernel": "4.13.0-46-generic",
+    "notes": "Game natively provides a linux version. No proton testing needed here.",
+    "os": "Ubuntu 17.10 (64 bit)",
+    "protonVersion": "Default",
+    "ram": "32131 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536750500,
+    "title": "The Next Penelope"
+  }
+]

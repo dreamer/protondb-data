@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "609940",
+    "title": "KROSMAGA",
+    "timestamp": 1535295556,
+    "rating": "Borked",
+    "notes": "Using i3 window manager. Game notices you that you are running it as administrator when launched; this is expected due to the way Wine works. After that, the launcher (which works with an mouse lag of maybe 4 seconds) updates the game correctly, but after pressing Play, it crashes.",
+    "os": "Debian Sid 64-bit (Kernel 4.17.0-3-amd64)",
+    "gpuDriver": "Mesa 18.1.16",
+    "specs": "AMD FX-8350 / R9 380X",
+    "protonVersion": "Default"
+  }
+]

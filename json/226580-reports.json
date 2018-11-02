@@ -1,0 +1,33 @@
+[
+  {
+    "appId": "226580",
+    "title": "F1 2014",
+    "timestamp": 1535100582,
+    "rating": "Borked",
+    "notes": "\"",
+    "os": "ubuntu mate 18.04",
+    "gpuDriver": "NVIDIA GTX 750TI",
+    "specs": "AMD FX 4300",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "226580",
+    "cpu": "AMD Ryzen 7 1700 Eight-Core Processor",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-36-generic",
+    "notes": "Doesnt start. No Error Messages appear",
+    "os": "Linux Mint 19 Tara (64 Bit)",
+    "protonVersion": "Default",
+    "ram": "16054 MB",
+    "rating": "Borked",
+    "timestamp": 1539200302,
+    "tweaks": {
+      "disableD3d11": true,
+      "disableEsync": true,
+      "useWineD3d11": true
+    },
+    "title": "F1 2014"
+  }
+]

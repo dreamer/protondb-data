@@ -1,0 +1,44 @@
+[
+  {
+    "appId": "4800",
+    "cpu": "Intel(R) Pentium(R) CPU G3260 @ 3.30GHz",
+    "gpu": "GeForce GT 720/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.48",
+    "kernel": "4.15.0-33-generic",
+    "notes": "Main menu seemingly has a forced 4:3 resolution for some strange reason, but once you start a game, it goes full screen. Haven't extensively tested, but seems to work equally well as on windows.",
+    "os": "Linux Mint 19 Tara (64 bit)",
+    "protonVersion": "3.7-3",
+    "ram": "7937 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536611539,
+    "title": "Heroes of Annihilated Empires"
+  },
+  {
+    "appId": "4800",
+    "cpu": "AMD A10-4600M APU with Radeon(tm) HD Graphics",
+    "gpu": "X.Org AMD ARUBA (DRM 2.50.0 / 4.18.6-041806-generic, LLVM 6.0.0)",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.18.6-041806-generic",
+    "notes": "Flawless",
+    "os": "elementary OS 0.4.1 Loki (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "11457 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536638901,
+    "title": "Heroes of Annihilated Empires"
+  },
+  {
+    "appId": "4800",
+    "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.18.8-arch1-1-ARCH",
+    "notes": "Tells me I have 0mb video memory and crashes shortly afterwards",
+    "os": "\"Arch Linux\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "15985 Mb",
+    "rating": "Borked",
+    "timestamp": 1537614641,
+    "title": "Heroes of Annihilated Empires"
+  }
+]

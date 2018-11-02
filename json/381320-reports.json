@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "381320",
+    "title": "Bezier",
+    "timestamp": 1535989053,
+    "rating": "Platinum",
+    "notes": "\nRuns perfectly from fresh install.",
+    "os": "Linux Mint 19 64-bit (Kernel 4.15)",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i7-6700k / GTX 1070",
+    "protonVersion": "7.7-5"
+  }
+]

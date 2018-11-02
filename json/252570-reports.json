@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "252570",
+    "cpu": "i7-7700K CPU @ 4.20GHz",
+    "gpu": "GeForce GTX 1070/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Compared to the Windows version, the graphics are darker, there are some graphical glitches, i.e., the player model/shadow is in T-pose, Xbox 360 game pad does not work; however, the game is very playable with a keyboard & mouse combo.",
+    "os": "Linux Mint 18.3 Sylvia (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "32113 Mb",
+    "rating": "Silver",
+    "timestamp": 1537055202,
+    "title": "Depths of Fear :: Knossos"
+  }
+]

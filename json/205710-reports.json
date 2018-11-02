@@ -1,0 +1,14 @@
+[
+  {
+    "appId": "205710",
+    "cpu": "AMD A10-4600M APU with Radeon(tm) HD Graphics",
+    "gpu": "X.Org AMD ARUBA (DRM 2.50.0",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "notes": "Launcher will not start",
+    "os": "elementary OS 0.4.1 Loki (64 bit)",
+    "protonVersion": "3.7-3",
+    "rating": "Borked",
+    "timestamp": "1536451200",
+    "title": "Everquest \u00ae"
+  }
+]

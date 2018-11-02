@@ -1,0 +1,82 @@
+[
+  {
+    "appId": "304240",
+    "title": "Resident Evil / biohazard HD REMASTER",
+    "timestamp": 1535145006,
+    "rating": "Borked",
+    "notes": "just stay in black screen ",
+    "os": "Ubuntu 18.04.1",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-6400 / GTX950",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "304240",
+    "title": "Resident Evil / biohazard HD REMASTER",
+    "timestamp": 1535174442,
+    "rating": "Borked",
+    "notes": "Needs Windows Media player 10 ",
+    "os": "Antergos",
+    "gpuDriver": "vulkan-radeon",
+    "specs": "i5-8400, RX 480",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "304240",
+    "title": "Resident Evil / biohazard HD REMASTER",
+    "timestamp": 1535758242,
+    "rating": "Borked",
+    "notes": "Stop in black screen, need to decode the cutscenes.",
+    "os": "elementary OS 0.4.1 Loki 64-bit [over Ubuntu 16.04.5 LTS] (Kernel 4.4.0-134-generic)",
+    "gpuDriver": "NVIDIA 384.130",
+    "specs": "i5-4440 / GTX 970",
+    "protonVersion": "3.7-3 and 3.7-5"
+  },
+  {
+    "appId": "304240",
+    "title": "Resident Evil / biohazard HD REMASTER",
+    "timestamp": 1536255200,
+    "rating": "Borked",
+    "notes": "After the first splash screen the screen goes black and nothing happens. Tried with different proton launch options ",
+    "os": "Elementary OS 5.0 Beta 1 (Kernel 4.15.0-33)",
+    "gpuDriver": "Mesa 18.3.0-devel padoka",
+    "specs": "TR 1900X / RX Vega 56 Nano",
+    "protonVersion": "3.7-5"
+  },
+  {
+    "appId": "304240",
+    "title": "Resident Evil HD",
+    "timestamp": 1535551960,
+    "rating": "Borked",
+    "notes": "None",
+    "os": "Linux Mint 19 Cinnamon 64-bit (4.15.y kernel)",
+    "gpuDriver": "NVIDIA 396.24",
+    "specs": "i7-7820HQ / GTX 1050 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "304240",
+    "cpu": "i7-7700HQ CPU @ 2.80GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 630 (Kaby Lake GT2) x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "notes": "just a black screen pops up",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "default",
+    "rating": "Borked",
+    "timestamp": "1536451200",
+    "title": "Resident Evil / biohazard HD REMASTER"
+  },
+  {
+    "appId": "304240",
+    "cpu": "AMD Ryzen 5 1600X Six-Core Processor",
+    "gpu": "X.Org AMD Radeon (TM) R9 390 Series (HAWAII / DRM 3.26.0 / 4.18.8-1.gf486469-default, LLVM 5.0.1)",
+    "gpuDriver": "3.0 Mesa 18.0.2",
+    "kernel": "4.18.8-1.gf486469-default",
+    "os": "\"openSUSE Leap 15.0\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "15986 Mb",
+    "rating": "Borked",
+    "timestamp": 1537613458,
+    "title": "Resident Evil / biohazard HD REMASTER"
+  }
+]

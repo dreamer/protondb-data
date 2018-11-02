@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "730820",
+    "title": "The Curse of Monkey Island",
+    "timestamp": 1535064798,
+    "rating": "Platinum",
+    "notes": "PLAYED FIRST 20 MINUTES OF GAME ALL SEEMS TO BE WORKING CORRECTLY",
+    "os": "UBUNTU 16.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "CORE2 QUAD Q9300",
+    "protonVersion": "Default"
+  }
+]

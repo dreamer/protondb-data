@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "385560",
+    "title": "Shadow Complex Remastered",
+    "timestamp": 1535043718,
+    "rating": "Silver",
+    "notes": "Can't get it to run fullscreen, windowed mode only",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Intel Xeon E31230 / GTX 1050Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "385560",
+    "title": "Shadow Complex Remastered",
+    "timestamp": 1535106618,
+    "rating": "Silver",
+    "notes": "virtual desktop used - csmt off - dx9 mode tested",
+    "os": "Xubuntu 18.04 x64",
+    "gpuDriver": "NVIDIA 396.51.02",
+    "specs": "Core i3 8350K Tri-Core 5.0ghz - Geforce GTX 1050",
+    "protonVersion": "Default"
+  }
+]

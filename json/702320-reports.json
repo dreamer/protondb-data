@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "702320",
+    "title": "March of Empires",
+    "timestamp": 1535192053,
+    "rating": "Borked",
+    "notes": "Gameloft logo appears briefly and then game crashes without error message.",
+    "os": "Ubuntu 18.04.1 LTS",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "specs": "Intel i5-7200U / HD Graphics 620 (Kaby Lake GT2)",
+    "protonVersion": "3.7-4   (default version was also tested..)"
+  }
+]

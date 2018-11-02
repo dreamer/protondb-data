@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "339610",
+    "title": "Freestyle 2: Street basketball",
+    "timestamp": 1535007342,
+    "rating": "Borked",
+    "notes": "doesnt open / run from steam, no error message",
+    "os": "Ubuntu 18.04.1 LTS",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "specs": "Intel i5-7200U / HD Graphics 620 (Kaby Lake GT2)",
+    "protonVersion": "Default"
+  }
+]

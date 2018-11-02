@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "551730",
+    "title": "Toukiden 2",
+    "timestamp": 1535567515,
+    "rating": "Borked",
+    "notes": "Doesn't start, characters wont render in settings screen.",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "GeForce GTX 1070",
+    "protonVersion": "Default"
+  }
+]

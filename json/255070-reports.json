@@ -1,0 +1,64 @@
+[
+  {
+    "appId": "255070",
+    "title": "Abyss Odyssey",
+    "timestamp": 1535033690,
+    "rating": "Borked",
+    "notes": "Long installation time of redistributable prerequisites",
+    "os": "OpenSUSE Tumbleweed 64-bit (Kernel 4.18.0-1)",
+    "gpuDriver": "Mesa 18.1.6, LLVM 6.0.1",
+    "specs": "i5-3550 / Radeon RX 580 4GB",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "255070",
+    "title": "Abyss Odyssey",
+    "timestamp": 1535113970,
+    "rating": "Borked",
+    "notes": "no",
+    "os": "Kubuntu",
+    "gpuDriver": "Mesa 18.3.0-devel - padoka PPA",
+    "specs": "Ryzen 1600 / AMD RX560",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "255070",
+    "title": "Abyss Odyssey",
+    "timestamp": 1535191050,
+    "rating": "Borked",
+    "notes": "PATH START THIS GAMES IS NOT WORKING",
+    "os": "Linux Mint 18 kde",
+    "gpuDriver": "NVIDIA 396-45",
+    "specs": "I7-3770K",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "255070",
+    "cpu": "AMD FX(tm)-6300 Six-Core Processor",
+    "gpu": "GeForce GT 630/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.77",
+    "kernel": "4.17.0-0.bpo.3-amd64",
+    "notes": "Won't launch at all",
+    "os": "Debian GNU/Linux 9.5 (stretch) (64 bit)",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "7945 Mb",
+    "rating": "Borked",
+    "timestamp": 1536923478,
+    "title": "Abyss Odyssey"
+  },
+  {
+    "appId": "255070",
+    "cpu": "Intel Core i5-4590 @ 3.30GHz",
+    "duration": "lessThanAnHour",
+    "gpu": "NVIDIA GeForce GTX 970",
+    "gpuDriver": "NVIDIA 396.54.09",
+    "kernel": "4.15.0-36-generic",
+    "notes": "After downloading the game on Steam, but before launching it, navigate to the game's redist folder (.../steamapps/common/abyss_odyssey/_CommonRedist/) and delete the DotNet and vcredist folders. Once that is done, click the play button; the game won't launch, but it will generate the game's prefix (.../steamapps/compatdata/255070/pfx/). Install xact and xna40 to this prefix via winetricks/protontricks, and the game should be able to launch properly.",
+    "os": "Ubuntu 18.04.1 LTS",
+    "protonVersion": "Beta (3.16-3)",
+    "ram": "24 GB",
+    "rating": "Gold",
+    "timestamp": 1540613345,
+    "title": "Abyss Odyssey"
+  }
+]

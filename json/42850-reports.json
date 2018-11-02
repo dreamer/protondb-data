@@ -1,0 +1,16 @@
+[
+  {
+    "appId": "42850",
+    "cpu": "Intel(R) Core(TM) i3-3217U CPU @ 1.80GHz",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Ivybridge Mobile x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.1.8",
+    "kernel": "4.14.70-1-MANJARO",
+    "notes": "the game works well, there is little time to start the game, but a initiation of Launch Configuration Tool of the game is not working without proton but the native game works quietly.",
+    "os": "\"Manjaro Linux\" (64 bit)",
+    "protonVersion": "3.7-6",
+    "ram": "5860 Mb",
+    "rating": "Silver",
+    "timestamp": 1537364477,
+    "title": "Arsenal of Democracy: A Hearts of Iron Game"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "215830",
+    "title": "Closers",
+    "timestamp": 1535051386,
+    "rating": "Borked",
+    "notes": "Game wouldn't even start from it's own launcher.",
+    "os": "Void Linux 64-bit (Kernel 4.17.17)",
+    "gpuDriver": "NVIDIA 390.77",
+    "specs": "i5-4670K / GTX 770 2GB",
+    "protonVersion": "Default"
+  }
+]

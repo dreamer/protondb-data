@@ -1,0 +1,68 @@
+[
+  {
+    "appId": "24840",
+    "title": "Medal of Honor Airborne",
+    "timestamp": 1535510395,
+    "rating": "Platinum",
+    "notes": "Works as on windows",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i7-4790K / GTX 1080 TI",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "24840",
+    "title": "Medal of Honor: Airborne",
+    "timestamp": 1535064347,
+    "rating": "Silver",
+    "notes": "Fails to launch PunkBuster service, but game plays perfectly fine (did not test multiplayer)",
+    "os": "Ubuntu 18.04 64-bit (Kernel 4.15.0)",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "i7 4790k / GTX 1080 Ti",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "24840",
+    "cpu": "AMD Ryzen 7 1700 Eight-Core Processor",
+    "gpu": "GeForce GTX 1080/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 390.87",
+    "kernel": "4.18.5-1-default",
+    "notes": "Initially had FPS spikes but stabilized after a few minutes ",
+    "os": "OpenSUSE Tumbleweed",
+    "protonVersion": "3.7-6 Beta",
+    "ram": "16052 Mb",
+    "rating": "Platinum",
+    "timestamp": 1536851845,
+    "title": "Medal of Honor: Airborne"
+  },
+  {
+    "appId": "24840",
+    "cpu": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+    "duration": "lessThanFifteenMinutes",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Haswell x86/MMX/SSE2",
+    "gpuDriver": "3.0 Mesa 18.2.1",
+    "kernel": "4.18.9-arch1-1-ARCH",
+    "notes": "Video card not supported error",
+    "os": "\"Antergos Linux\" (64 bit)",
+    "protonVersion": "Default",
+    "ram": "6925 Mb",
+    "rating": "Borked",
+    "timestamp": 1538044583,
+    "title": "Medal of Honor: Airborne"
+  },
+  {
+    "appId": "24840",
+    "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics",
+    "duration": "lessThanAnHour",
+    "gpu": "X.Org AMD RAVEN (DRM 3.26.0 / 4.18.12-041812-generic, LLVM 6.0.0)",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.18.12-041812-generic",
+    "notes": "perfect.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15042 Mb",
+    "rating": "Platinum",
+    "timestamp": 1539458034,
+    "title": "Medal of Honor: Airborne"
+  }
+]

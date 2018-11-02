@@ -1,0 +1,13 @@
+[
+  {
+    "appId": "354650",
+    "title": "MISSING: An Interactive Thriller - Episode One",
+    "timestamp": 1535559847,
+    "rating": "Gold",
+    "notes": "Worked great. Completed game. Only fault was some text missing in main menu options but didn't affect gameplay at all.",
+    "os": "Ubuntu 18.04.1 64-bit (Kernel 4.15)",
+    "gpuDriver": "NVIDIA 390.48",
+    "specs": "i3 4170 / GTX 960",
+    "protonVersion": "Default"
+  }
+]

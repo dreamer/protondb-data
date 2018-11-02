@@ -1,0 +1,38 @@
+[
+  {
+    "appId": "614570",
+    "title": "Dishonored: Death of the Outsider",
+    "timestamp": 1535214657,
+    "rating": "Silver",
+    "notes": "Frequent frame drops ",
+    "os": "Archlinux 64bit 4.18-4",
+    "gpuDriver": "NVIDIA 396.54",
+    "specs": "Ryzen 7 1700/GTX 1070",
+    "protonVersion": "3.7-4"
+  },
+  {
+    "appId": "614570",
+    "title": "Dishonored\u00ae: Death of the Outsider\u2122",
+    "timestamp": 1534964664,
+    "rating": "Silver",
+    "notes": "Frequent frame drops when moving between areas or alerting groups of individuals.",
+    "os": "Ubuntu 18.04",
+    "gpuDriver": "Mesa 18.3.0-devel",
+    "specs": "Ryzen 5 1400 / RX 580",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "614570",
+    "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+    "gpu": "NVIDIA Corporation GeForce GTX 1060 3GB/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Frequent frame drops. Freezes on exit.",
+    "os": "Ubuntu 18.04.1 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "15978 Mb",
+    "rating": "Bronze",
+    "timestamp": 1537874797,
+    "title": "Dishonored\u00ae: Death of the Outsider\u2122"
+  }
+]

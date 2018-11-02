@@ -1,0 +1,55 @@
+[
+  {
+    "appId": "376680",
+    "title": "Splendor",
+    "timestamp": 1535284243,
+    "rating": "Gold",
+    "notes": "Worked Great. Sound was a little choppy. Turned off Music in game. Played a few matches online with no issues.",
+    "os": "Ubuntu MATE 17.10 (Kernal 4.13.0)",
+    "gpuDriver": "NVIDIA 383.130",
+    "specs": "i5-4690",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "376680",
+    "cpu": "i7-4770K CPU @ 3.50GHz",
+    "gpu": "GeForce GTX 770/PCIe/SSE2",
+    "gpuDriver": "4.6.0 NVIDIA 396.54",
+    "notes": "Game works perfectly, except background music crackles a little bit (sound is fine otherwise). This music issue **probably** can be worked around through Pulseaudio settings, but it can be turned off or ignored as well (this is card game after all).",
+    "os": "Fedora release 28 (Twenty Eight) (64 bit)",
+    "protonVersion": "3.7-6",
+    "rating": "Gold",
+    "timestamp": "1536451200",
+    "title": "Splendor"
+  },
+  {
+    "appId": "376680",
+    "cpu": "Intel(R) Core(TM) i7-4810MQ CPU @ 2.80GHz",
+    "duration": "aboutAnHour",
+    "gpu": "NVIDIA Corporation Quadro K2100M/PCIe/SSE2",
+    "gpuDriver": "4.5.0 NVIDIA 384.130",
+    "kernel": "4.15.0-34-generic",
+    "notes": "Everything works fine. Only sound is a little bit weird, but is not necessary in this game",
+    "os": "Ubuntu 16.04.5 LTS (64 bit)",
+    "protonVersion": "Default",
+    "ram": "31797 Mb",
+    "rating": "Silver",
+    "timestamp": 1538760495,
+    "title": "Splendor"
+  },
+  {
+    "appId": "376680",
+    "cpu": "Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz",
+    "duration": "aboutAnHour",
+    "gpu": "Intel Open Source Technology Center Mesa DRI Intel(R) Sandybridge Mobile",
+    "gpuDriver": "3.0 Mesa 18.0.5",
+    "kernel": "4.18.12-200.fc28.x86_64",
+    "notes": "Crackling music still present in Proton 3.16-1, but it's not a problem.",
+    "os": "\"Fedora release 28 (Twenty Eight)\" (64 bit)",
+    "protonVersion": "Beta",
+    "ram": "3830 Mb",
+    "rating": "Gold",
+    "timestamp": 1539610158,
+    "title": "Splendor"
+  }
+]

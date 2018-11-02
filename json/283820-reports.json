@@ -1,0 +1,24 @@
+[
+  {
+    "appId": "283820",
+    "title": "Kamui",
+    "timestamp": 1534896000,
+    "rating": "Platinum",
+    "notes": "",
+    "os": "Elementary OS 5.0",
+    "gpuDriver": "Mesa 18.3.0-devel padoka",
+    "specs": "TR 1900x / RX 56",
+    "protonVersion": "Default"
+  },
+  {
+    "appId": "283820",
+    "title": "KAMUI",
+    "timestamp": 1535623767,
+    "rating": "Platinum",
+    "notes": "Stable 60fps through the entire game, screen options are accessed by pressing F1",
+    "os": "Ubuntu MATE 18.04 (Kernal 4.15.0-33)",
+    "gpuDriver": "NVIDIA 396.51",
+    "specs": "i5-3570k / GTX 960",
+    "protonVersion": "3.7-4"
+  }
+]
