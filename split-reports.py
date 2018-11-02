@@ -23,7 +23,7 @@ def load_reports():
             if not 'appId' in r:
                 print(f'W: {title} @ {timestamp} is missing appId', file=sys.stderr)
                 continue
-            app_id = r['appId']
+            app_id = r['appId'].strip()
             try:
                 int(app_id)
             except ValueError:
